@@ -1,0 +1,38 @@
+{
+  "feature_check_box": [
+    {
+      "label": "SI相关设备",
+      "type": "checkbox",
+      "name": "si-check-box",
+      "ng_model": "siChecked",
+      "ngTrueValue": "si",
+      "ngFalseValue": ""
+    },
+    {
+      "label": "CS相关设备",
+      "type": "checkbox",
+      "name": "cs-check-box",
+      "ng_model": "csChecked",
+      "ngTrueValue": "cs",
+      "ngFalseValue": ""
+    }
+  ],
+  "column_hide_show_box": [
+    {
+      "label": "三字码",
+      "type": "checkbox",
+      "name": "local-sys-col-show",
+      "ng_model": "localSysColShow",
+      "ngTrueValue": "true",
+      "ngFalseValue": "false"
+    },
+    {
+      "label": "详细描述",
+      "type": "checkbox",
+      "name": "description-col-show",
+      "ng_model": "descriptionColShow",
+      "ngTrueValue": "true",
+      "ngFalseValue": "false"
+    }
+  ]
+}

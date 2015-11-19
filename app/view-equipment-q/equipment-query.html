@@ -1,0 +1,135 @@
+<h1 class="main_title">专设设备查询</h1>
+<div class="container_12 clearfix">
+  
+  <div class="grid_3 side_checkbox">
+    
+      <h2 class="section_title">功能筛选</h2>
+      <!-- check box for safety injection filtering-->
+      <div class="query_control">
+        <label for="si-check-box">SI相关设备:</label>
+        <input type="checkbox"
+               name="si-check-box"
+               ng-model="siChecked"
+               ng-true-value="'siChecked'"
+               ng-false-value="">
+      </div>
+      
+      <!-- check box for containment spray filtering -->
+      <div class="query_control">
+        <label for="cs-check-box">CS相关设备:</label>
+        <input type="checkbox"
+               name="cs-check-box"
+               ng-model="csChecked"
+               ng-true-value="'csChecked'"
+               ng-false-value="">
+      </div>
+
+      <!-- check box for CIA filtering -->
+      <div class="query_control">
+        <label for="cia-check-box">CIA相关设备</label>
+        <input type="checkbox"
+               name="cia-check-box"
+               ng-model="ciaChecked"
+               ng-true-value="'ciaChecked'"
+               ng-false-value="">
+      </div>
+
+      <!-- check box for CIB filtering -->
+      <div class="query_control">
+        <label for="cia-check-box">CIB相关设备</label>
+        <input type="checkbox"
+               name="cib-check-box"
+               ng-model="cibChecked"
+               ng-true-value="'cibChecked'"
+               ng-false-value="">
+      </div>
+    
+      <!-- check box for Trian A filtering -->
+      <div class="query_control">
+        <label for="train-a-check-box">只看Train-A</label>
+        <input type="checkbox"
+               name="train-a-check-box"
+               ng-model="trainAChecked"
+               ng-true-value="'trainAChecked'"
+               ng-false-value="">
+      </div>
+    
+      <!-- check box for Trian B filtering -->
+      <div class="query_control">
+        <label for="train-b-check-box">只看Train-B</label>
+        <input type="checkbox"
+               name="train-b-check-box"
+               ng-model="trainBChecked"
+               ng-true-value="'trainBChecked'"
+               ng-false-value="">
+      </div>
+        
+      <label for="searchbox">模糊关键字</label>
+      <input type="text" id="searchbox" ng-model="query">
+  
+    <h2 class="section_title">查看更多信息</h2>
+    <!-- check box for dcs column show / hide -->
+    <div class="query_control">
+      <label for="dcs-col-show">DCS系统名</label>
+      <input type="checkbox"
+             name="dcs-col-show"
+             ng-model="dcsColShow"
+             ng-true-value="true"
+             ng-false-value="false">
+    </div>
+    
+    <!-- check box for dcs column show / hide -->
+    <div class="query_control">
+      <label for="description-col-show">详细描述</label>
+      <input type="checkbox"
+             name="description-col-show"
+             ng-model="descriptionColShow"
+             ng-true-value="true"
+             ng-false-value="false">
+    </div>
+    
+    <!-- check box for local System column show / hide -->
+    <div class="query_control">
+      <label for="description-col-show">三字码</label>
+      <input type="checkbox"
+             name="local-sys-col-show"
+             ng-model="localSysColShow"
+             ng-true-value="true"
+             ng-false-value="false">
+    </div>
+  </div>   <!-- grid_3 side_checkbox -->
+  
+  <div class="grid_9 result_content">
+
+    <h2 class="section title">查询结果: <span ng-bind="filteredItems.length"></span>条</h2>
+    <table class="query_table">
+      <thead>
+        <tr>
+          <th scope="col" class="md_tab_col">工艺系统</th>
+          <th scope="col" class="md_tab_col">设备名称</th>
+          <th scope="col" class="md_tab_col">设备类型</th>
+          <th scope="col" class="md_tab_col">Train</th>
+          <th scope="col" class="md_tab_col">DCS机柜</th>
+          <th scope="col" class="lg_tab_col">功能描述</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="item in filteredItems = (equipCtrl.items |
+                                                filter: query |
+                                                filter: equipCtrl.filterOptions[siChecked] |
+                                                filter: equipCtrl.filterOptions[csChecked] |
+                                                filter: equipCtrl.filterOptions[trainAChecked] |
+                                                filter: equipCtrl.filterOptions[trainBChecked] |
+                                                filter: equipCtrl.filterOptions[ciaChecked] |
+                                                filter: equipCtrl.filterOptions[cibChecked])">
+          <td>{{item.local_sys}}</td>
+          <td>{{item.actuator}}</td>
+          <td>{{item.category}}</td>
+          <td>{{item.train}}</td>
+          <td>{{item.dcs}}</td>
+          <td>{{item.function_description}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div> <!-- grid_9 result_content -->
+</div>  <!-- contianer_12 -->

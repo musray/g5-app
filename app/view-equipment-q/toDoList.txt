@@ -1,0 +1,15 @@
+####Todo
+2015-11-19.1 精确query到“列”(controller里写function？)。
+2015-11-19.2 控制查询结果表格中各列的显示与隐藏。（哪些列默认显、默认隐藏；默认显示的列是否可以除去？默认隐藏的列是否可以显示？）
+2015-11-19.3 增加按功能删选的选项个数（增加CIA？CIB？CIAB？）
+2015-11-19.4 为“功能筛选”form组增加一些样式
+
+####Done
+2. 简单弄点样式进来。
+2015-11-18.1 调整页面整体结构，让header和window一样宽，内容固定成960px（max）。
+
+####Cancel
+
+####Pending
+2015-11-18.2 简化view文档（1. 新建json，存放各类checkbox的object。2. ng-repeat生成checkbox）
+1. 把TrainA、B的选择checkbox，改成radio，只能二选一。

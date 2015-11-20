@@ -21,4 +21,27 @@ angular.module('g5App.equipmentApp', ['ngRoute'])
       "cibChecked": {"esf":"CIB"}
     };
 
+    self.sortOrderKeyword = [];
+
+    // to generate the sort order keyword variable
+    self.reOrder = function ReOrder(keyList) {
+      self.sortOrderKeyword = [];
+      for (var i = 0; i < keyList.length; i ++) {
+        if (keyList[i]) {
+          self.sortOrderKeyword.push('+' + keyList[i]);
+          console.log(self.sortOrderKeyword);
+        }
+      };
+    }
+
+    self.columnShow = {
+      "function_description": false,
+      "ld_index": false,
+      "sd_index": false
+    };
+
+    self.debug = function DeBug(data) {
+      console.log(data);
+    }
+
   }])

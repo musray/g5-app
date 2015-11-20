@@ -37,7 +37,7 @@ body {
 }
 
 h1.main_title {
-  padding-left: 80px;
+  padding-left: 40px;
 }
 .content {
   width: 80%;
@@ -45,10 +45,20 @@ h1.main_title {
 }
 
 .query_control {
-  padding-bottom: 3px;
+  padding-bottom: 5px;
 }
 .side_checkbox {
   clear: left;
+  text-align: right;
+}
+
+.side_checkbox > * {
+  margin-right: 20%;
+  letter-spacing: 0.2em;
+}
+.side_checkbox h2 {
+  /* border-bottom: 2px solid lightsalmon; */
+  border-right: 4px solid lightsalmon;
 }
 
 .result_content {
@@ -83,4 +93,18 @@ tbody td {
 }
 tbody tr:hover {
   background-color: pink;
+}
+
+p.footnote {
+  font-size: 60%;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+h2.no_bottom_margin {
+  margin-bottom: 0px;
+}
+#searchbox {
+  margin-top: 3px;
+  letter-spacing: 0;
+  width: 60%;
 }

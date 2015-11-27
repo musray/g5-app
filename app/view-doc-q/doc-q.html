@@ -1,1 +1,53 @@
-    {{docq.message}}
+<h1 class="main_title">五组标准化文档查询</h1>
+<div class="author_message">
+  {{docq.message}}
+</div>
+<div class="container_12 clearfix">
+
+  <div class="grid_3 side_checkbox">
+
+    <h2 class="section_title">筛选</h2>
+
+    <!-- 筛选1 选择适用文件 -->
+    <div class="query_control">
+      <label>选择适用文件</label>
+      <select id="for-doc" ng-model="selectedDoc"
+                           ng-options="key as key for (key, value) in docq.referedDocs">
+      </select>
+      {{selectedDoc}}
+    </div>
+
+
+  </div>  <!-- class grid_3 side_checkbox -->
+
+  <div class="grid_9 result_content">
+    
+    <h2 class="section title">查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="docq.items.length"></span>条</h2>
+    <table class="query_table">
+      <thead>
+        <tr>
+          <th scope="col" class="md_tab_col">文件名称</th>
+          <th scope="col" class="md_tab_col">文件版本</th>
+          <th scope="col" class="md_tab_col">适用平台</th>
+          <th scope="col" class="lg_tab_col">文件描述</th>
+          <!-- <th scope="col" class="lg_tab_col" ng-show="docq.columnShow.function_description">功能描述</th> -->
+        </tr>
+      </thead>
+      <tbody>
+        <!-- <tr ng-repeat="item in filteredItems = (docq.items | -->
+        <!--                                         filter: docq.referedDocs[selectedDoc])"> -->
+        <tr ng-repeat="item in filteredItems = (docq.items |
+                                                filter: docq.hardCodeFilter)">
+          <td>{{item.doc_name}}</td>
+          <td>{{item.rev}}</td>
+          <td>{{item.platform}}</td>
+          <td>{{item.description}}</td>
+          <!-- <td ng-show="docq.columnShow.function_description">{{item.function_description}}</td> -->
+          <!-- <td ng-show="docq.columnShow.ld_index">{{item.ld_index}}</td> -->
+          <!-- <td ng-show="docq.columnShow.sd_index">{{item.sd_index}}</td> -->
+        </tr>
+      </tbody>
+    </table>
+  </div>   <!-- class grid_9 result_content -->
+  {{docq.referedDocs[selectedDoc]}}
+</div>

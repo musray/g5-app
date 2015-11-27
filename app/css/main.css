@@ -108,3 +108,6 @@ h2.no_bottom_margin {
   letter-spacing: 0;
   width: 60%;
 }
+.author_message {
+  padding-left: 40px; 
+}

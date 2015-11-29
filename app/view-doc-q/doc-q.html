@@ -14,8 +14,11 @@
       <select id="for-doc" ng-model="selectedDoc"
                            ng-options="key as key for (key, value) in docq.referedDocs">
       </select>
-      {{selectedDoc}}
     </div>
+
+    <!-- 筛选2 模糊关键字 -->
+    <label for="searchbox">使用模糊关键字</label>
+    <input type="text" id="searchbox" ng-model="query">
 
 
   </div>  <!-- class grid_3 side_checkbox -->
@@ -34,10 +37,11 @@
         </tr>
       </thead>
       <tbody>
-        <!-- <tr ng-repeat="item in filteredItems = (docq.items | -->
-        <!--                                         filter: docq.referedDocs[selectedDoc])"> -->
         <tr ng-repeat="item in filteredItems = (docq.items |
-                                                filter: docq.hardCodeFilter)">
+                                                filter: query |
+                                                filter: docq.referedDocs[selectedDoc])">
+        <!-- <tr ng&#45;repeat="item in filteredItems = (docq.items | -->
+        <!--                                         filter: docq.hardCodeFilter)"> -->
           <td>{{item.doc_name}}</td>
           <td>{{item.rev}}</td>
           <td>{{item.platform}}</td>
@@ -49,5 +53,5 @@
       </tbody>
     </table>
   </div>   <!-- class grid_9 result_content -->
-  {{docq.referedDocs[selectedDoc]}}
 </div>
+{{filteredItems}}

@@ -34,11 +34,17 @@ angular.module('g5App.docApp', ['ngRoute'])
     //   'WD(IF)'
     // ];
 
+    // self.referedDocs = {
+    //   '全部': '',  
+    //   'BDSD': {'refer_to':'BDSD'},
+    //   'Arrangement': {'refer_to':'Arrangement'}
+    // };
     self.referedDocs = {
-      '': '',  
-      'BDSD': {'refer_to':'BDSD'},
-      'Arrangement': {'refer_to':'Arrangement'}
+      '全部': '',  
+      'MELTAC': {'platform':'MELTAC'},
+      'n.a': {'platform':'n.a'},
+      'FIRMSYS': {'platform':'FIRMSYS'}
     };
-    self.hardCodeFilter = {'refer_to': 'BDSD'};
+    self.hardCodeFilter = {'refer_to': 'Arrangement'};
 
 }])

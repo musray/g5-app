@@ -123,6 +123,7 @@
              ng-false-value="false">
     </div>
   </div>   <!-- grid_3 side_checkbox -->
+  {{equipCtrl.items[siChecked]}}
   
   <div class="grid_9 result_content">
 
@@ -165,3 +166,5 @@
   </div> <!-- grid_9 result_content -->
 </div>  <!-- contianer_12 -->
 <input type="submit" ng-click="equipCtrl.debug(filteredItems)()">
+debug:
+{{filteredItems}}

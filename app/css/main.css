@@ -47,6 +47,9 @@ h1.main_title {
 .query_control {
   padding-bottom: 5px;
 }
+.query_control select {
+  width: 80%;
+}
 .side_checkbox {
   clear: left;
   text-align: right;

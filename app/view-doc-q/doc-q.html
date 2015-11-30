@@ -11,8 +11,8 @@
     <!-- 筛选1 选择适用文件 -->
     <div class="query_control">
       <label>选择适用文件</label>
-      <select id="for-doc" ng-model="selectedDoc"
-                           ng-options="key as key for (key, value) in docq.referedDocs">
+      <select id="for-doc" ng-model="docq.selectedPlatform"
+                           ng-options="c.platform as c.platform for c in docq.selectOptions['platform']">
       </select>
     </div>
 
@@ -33,25 +33,18 @@
           <th scope="col" class="md_tab_col">文件版本</th>
           <th scope="col" class="md_tab_col">适用平台</th>
           <th scope="col" class="lg_tab_col">文件描述</th>
-          <!-- <th scope="col" class="lg_tab_col" ng-show="docq.columnShow.function_description">功能描述</th> -->
         </tr>
       </thead>
       <tbody>
         <tr ng-repeat="item in filteredItems = (docq.items |
-                                                filter: query |
-                                                filter: docq.referedDocs[selectedDoc])">
-        <!-- <tr ng&#45;repeat="item in filteredItems = (docq.items | -->
-        <!--                                         filter: docq.hardCodeFilter)"> -->
+                                                filter: docq.hardCodeFilter[docq.selectedPlatform] |
+                                                filter: query)">
           <td>{{item.doc_name}}</td>
           <td>{{item.rev}}</td>
           <td>{{item.platform}}</td>
           <td>{{item.description}}</td>
-          <!-- <td ng-show="docq.columnShow.function_description">{{item.function_description}}</td> -->
-          <!-- <td ng-show="docq.columnShow.ld_index">{{item.ld_index}}</td> -->
-          <!-- <td ng-show="docq.columnShow.sd_index">{{item.sd_index}}</td> -->
         </tr>
       </tbody>
     </table>
   </div>   <!-- class grid_9 result_content -->
 </div>
-{{filteredItems}}

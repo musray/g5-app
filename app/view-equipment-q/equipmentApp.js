@@ -23,6 +23,7 @@ angular.module('g5App.equipmentApp', ['ngRoute'])
 
     self.sortOrderKeyword = [];
 
+
     // to generate the sort order keyword variable
     self.reOrder = function ReOrder(keyList) {
       self.sortOrderKeyword = [];

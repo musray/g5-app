@@ -166,7 +166,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档基于FirmSys产品安全级DCS工程应用项目，描述了AD/LD接口划分图的制作过程和方法，用于指导安全级DCS系统设计人员对设计输出文件AD/LD图进行接口划分工作。\n本文件适用于北京广利核系统工程有限公司(以下简称CTEC)承担的基于FirmSys产品的压水堆核电站安全级DCS工程设计。其它类工程设计可参照执行。",
-    "did":1014
+    "did":1014,
+    "url":"ftp://172.21.200.32/00.部门文件/01.技术文件/00.标准化文件/04.五组标准化文件/广利核 安全级系统设计流程及规范/操作指导/安全级DCS(FirmSys)ADLD接口划分图绘制作业指导 Rev.A/"
   },
   {
     "doc_name":"安全级DCS（FirmSys）ADLD接口划分图检查作业指导",
@@ -257,7 +258,8 @@
     "act_category":"基本设计",
     "refer_to":"IO List",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统的详细I/O 清单的制作过程和方\n法，用于指导安全级DCS 系统设计人员对详细I/O 清单进行制作。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1010
+    "did":1010,
+    "url":"urluuuuuuuuuuuuuuuuu"
   },
   {
     "doc_name":"安全级DCS(FirmSys)详细IO清单检查作业指导",

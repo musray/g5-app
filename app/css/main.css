@@ -47,7 +47,7 @@ h1.main_title {
 .query_control {
   padding-bottom: 5px;
 }
-.query_control select {
+.long_input_bar {
   width: 80%;
 }
 .side_checkbox {
@@ -109,7 +109,7 @@ h2.no_bottom_margin {
 #searchbox {
   margin-top: 3px;
   letter-spacing: 0;
-  width: 60%;
+  width: 80%;
 }
 .author_message {
   padding-left: 40px; 

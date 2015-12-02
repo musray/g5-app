@@ -11,7 +11,7 @@
     <!-- 筛选1 选择适用文件 -->
     <div class="query_control">
       <label>选择适用平台</label>
-      <select ng-model="docq.selectedPlatform"
+      <select class="long_input_bar" ng-model="docq.selectedPlatform"
                            ng-options="c.platform as c.platform for c in docq.selectOptions['platform']">
       </select>
     </div>
@@ -19,7 +19,7 @@
     <!-- 筛选2 选择适用文件 -->
     <div class="query_control">
       <label>选择适用文件</label>
-      <select ng-model="docq.selectedRefDoc"
+      <select class="long_input_bar" ng-model="docq.selectedRefDoc"
                            ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
       </select>
     </div>
@@ -27,14 +27,14 @@
     <!-- 筛选3 选择文件类型 -->
     <div class="query_control">
       <label>选择文件类型</label>
-      <select ng-model="docq.selectedDocCat"
+      <select class="long_input_bar" ng-model="docq.selectedDocCat"
                            ng-options="c.doc_category as c.doc_category for c in docq.selectOptions['doc_category']">
       </select>
     </div>
 
     <!-- 筛选 模糊关键字 -->
     <label for="searchbox">使用模糊关键字</label>
-    <input type="text" id="searchbox" ng-model="query">
+    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
 
 
   </div>  <!-- class grid_3 side_checkbox -->
@@ -45,10 +45,11 @@
     <table class="query_table">
       <thead>
         <tr>
-          <th scope="col" class="md_tab_col">文件名称</th>
+          <th scope="col" class="md_tab_col">Download</th>
+          <th scope="col" class="lg_tab_col">文件名称</th>
           <th scope="col" class="md_tab_col">文件版本</th>
           <th scope="col" class="md_tab_col">适用平台</th>
-          <th scope="col" class="lg_tab_col">文件描述</th>
+          <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
         </tr>
       </thead>
       <tbody>
@@ -57,10 +58,12 @@
                                                 filter: docq.hardCodeFilter[docq.selectedRefDoc] |
                                                 filter: docq.hardCodeFilter[docq.selectedDocCat] |
                                                 filter: query)">
+
+          <td><a href="">下载</a></td>
           <td>{{item.doc_name}}</td>
           <td>{{item.rev}}</td>
           <td>{{item.platform}}</td>
-          <td>{{item.description}}</td>
+          <!-- <td>{{item.description}}</td> -->
         </tr>
       </tbody>
     </table>

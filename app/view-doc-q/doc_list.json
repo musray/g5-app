@@ -10,7 +10,8 @@
     "act_category":"检查",
     "refer_to":"card setting",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的ATWS卡件设定清单的内容审查。",
-    "did":1065
+    "did":1065,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%C9%E8%BC%C6%B9%E6%B7%B6/030-GN-P-WD-F16-025_B_CFC%20%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%B9%A4%B3%CC%C9%E8%BC%C6%C1%F7%B3%CC.pdf"
   },
   {
     "doc_name":"安全级DCS（FirmSys）设计文件评审计划",
@@ -23,7 +24,8 @@
     "act_category":"文件评审",
     "refer_to":"n.a",
     "description":"本文件的目的是规范核电站安全级DCS工程设计相关文件的评审活动，保证评审过程符合法规标准要求，从而有效的保证设计质量。本文主要对评审对象（工作产品）、评审形式、评审时间点、评审组织者、评审组长、评审组成员作出规定。                                 本文件适用于北京广利核系统工程有限公司（CTEC）工程部五组基于FifmSys产品的安全级设计相关文件的评审。",
-    "did":1141
+    "did":1141,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B6%A8%D6%B5%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS（FirmSys）工程设计输入基线清单制作作业指导",
@@ -36,7 +38,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件描述了工程设计输入基线清单的制作过程和方法，用以确定和管理设计输入文件，保证输出文件与输入文件的一致性。\n本文件适用于北京广利核系统工程有限公司（CETC）承担的基于FirmSys产品的压水堆核电站安全级DCS工程设计。基于FirmSys产品的其它类工程设计可参照执行。",
-    "did":1041
+    "did":1041,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B6%CB%D7%D3%BD%D3%CF%DF%B1%ED%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）应用软件需求规格书编写指导",
@@ -49,7 +52,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件的目的是在基于FirmSys产品的安全级工程设计中，在进行应用软件开发前，对工程设计人员完后才呢过编制应用软件需求规格书（SRS）提供指导。            本文件适合于北京广利核系统工程有限公司（CTEC）承担的基于FirmSys产品的压水堆核电站安全级DCS工程设计，其他类工程设计可参照执行。",
-    "did":1143
+    "did":1143,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%A6%D3%C3%C8%ED%BC%FE%CF%C2%D7%B0%B2%D9%D7%F7%B9%E6%B7%B6%20Rev.A"
   },
   {
     "doc_name":"CPR1000项目安全级设计评审计划",
@@ -62,7 +66,8 @@
     "act_category":"文件评审",
     "refer_to":"n.a",
     "description":"本文件的目的是规范核电站安全级 DCS 工程设计相关文件的评审活动，保证评审过程符合\n法规标准以及《设计评审工作流程》要求，从而有效的保证设计质量。本文主要对评审对象（工\n作产品）、评审形式、评审时间点、评审组织者、评审组长、评审组成员做出规定。本文件适用\n于北京广利核系统工程有限公司(CTEC)工程部CPR1000 项目安全级设计相关文件的评审。",
-    "did":1147
+    "did":1147,
+    "url":"0"
   },
   {
     "doc_name":"安全级DCS RPC-AT Test Table图纸检查内容表",
@@ -75,7 +80,8 @@
     "act_category":"检查",
     "refer_to":"AT Test Table",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的RPC-AT Test Table 图纸的\n内容审查。",
-    "did":1063
+    "did":1063,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS RPC-AT 软件下发检查内容表",
@@ -88,7 +94,8 @@
     "act_category":"检查",
     "refer_to":"AT Software",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的RPC-AT 软件下发的工作\n审查。",
-    "did":1064
+    "did":1064,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS ESF-AT Test Table图纸检查内容表",
@@ -101,7 +108,8 @@
     "act_category":"检查",
     "refer_to":"AT Test Table",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的ESF-AT Test Table 图纸的\n内容审查。",
-    "did":1059
+    "did":1059,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS ESF-AT 软件下发检查内容表",
@@ -114,7 +122,8 @@
     "act_category":"检查",
     "refer_to":"AT Test Table",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的ESF-AT 软件下发的工作\n审查。",
-    "did":1060
+    "did":1060,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件下发检查内容表",
@@ -127,7 +136,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的Level1 软件下发时的内容\n审查。",
-    "did":1062
+    "did":1062,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件图纸检查内容表",
@@ -140,7 +150,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"为规范北京广利核系统工程有限公司（以下简称公司）工程部五组的设计工作，特编制\n此程序文件，用以指导设计人员进行相关的设计审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的Level1 软件图纸的内容审\n查。",
-    "did":1061
+    "did":1061,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件图纸检查内容表",
@@ -153,7 +164,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1265
+    "did":1265,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）ADLD接口划分图绘制作业指导",
@@ -167,7 +179,7 @@
     "refer_to":"n.a",
     "description":"本文档基于FirmSys产品安全级DCS工程应用项目，描述了AD/LD接口划分图的制作过程和方法，用于指导安全级DCS系统设计人员对设计输出文件AD/LD图进行接口划分工作。\n本文件适用于北京广利核系统工程有限公司(以下简称CTEC)承担的基于FirmSys产品的压水堆核电站安全级DCS工程设计。其它类工程设计可参照执行。",
     "did":1014,
-    "url":"ftp://172.21.200.32/00.部门文件/01.技术文件/00.标准化文件/04.五组标准化文件/广利核 安全级系统设计流程及规范/操作指导/安全级DCS(FirmSys)ADLD接口划分图绘制作业指导 Rev.A/"
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）ADLD接口划分图检查作业指导",
@@ -180,7 +192,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"本文档基于FirmSys产品安全级DCS工程应用项目，描述了AD/LD接口划分图的检查过程和方法，用于指导安全级DCS系统设计人员对设计输出文件AD/LD图进行接口划分检查工作。\n本文件适用于北京广利核系统工程有限公司(以下简称CTEC)承担的基于FirmSys产品的压水堆核电站安全级DCS工程设计。其它类工程设计可参照执行。",
-    "did":1015
+    "did":1015,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)ADLD%BD%D3%BF%DA%BB%AE%B7%D6%CD%BC%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）变更项清单制作作业指导",
@@ -193,7 +206,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档针对于基于 FirmSys 产品的压水堆核电站安全级DCS 工程设计，用于安全级DCS\n系统设计人员进行图纸升版时记录相关的变更项和升版内容时使用。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1038
+    "did":1038,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)BDSD%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）基本IO清单制作作业指导",
@@ -206,7 +220,8 @@
     "act_category":"基本设计",
     "refer_to":"IO List",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的基本IO 清单的制作进行说明，\n描述了基本IO 清单的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS\n系统基本IO 清单的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1019
+    "did":1019,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%F9%B1%BEIO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)BDSD绘制作业指导",
@@ -219,7 +234,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统level 1 的BD/SD (FD) 绘制过程和方\n法，用于指导安全级DCS 系统设计人员进行BDSD 绘制。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1002
+    "did":1002,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)ADLD%BD%D3%BF%DA%BB%AE%B7%D6%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)BDSD检查作业指导",
@@ -232,7 +248,8 @@
     "act_category":"检查",
     "refer_to":"BDSD",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统BD/SD (FD) 的检查过程和方法，用于\n指导安全级DCS 系统设计人员对BDSD 进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1003
+    "did":1003,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)BDSD%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）硬件需求规格书编写指导",
@@ -245,7 +262,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件的目的是在基于 FirmSys 产品的安全级工程设计中，在进行应用硬件设计前，对\n工程设计人员完成编制应用硬件需求规格书提供指导。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于 FirmSys 产品的压水堆核\n电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1033
+    "did":1033,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%A6%D3%C3%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)详细IO清单制作作业指导",
@@ -259,7 +277,7 @@
     "refer_to":"IO List",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统的详细I/O 清单的制作过程和方\n法，用于指导安全级DCS 系统设计人员对详细I/O 清单进行制作。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
     "did":1010,
-    "url":"urluuuuuuuuuuuuuuuuu"
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)详细IO清单检查作业指导",
@@ -272,7 +290,8 @@
     "act_category":"检查",
     "refer_to":"IO List",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统详细I/O 清单的检查过程和方法，\n用于指导安全级DCS 系统设计人员对详细I/O 清单进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1009
+    "did":1009,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CF%DF%C0%C2%C8%DD%C1%BF%C6%C0%B9%C0%B7%BD%B7%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）基本IO清单检查作业指导",
@@ -285,7 +304,8 @@
     "act_category":"检查",
     "refer_to":"IO List",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的基本IO 清单的检查进行说明，\n描述了基本IO 清单的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS\n系统基本IO 清单的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1018
+    "did":1018,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%FA%B9%F1%BD%E2%CC%E5%B8%B4%D4%AD%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）机柜布置图检查作业指导",
@@ -298,7 +318,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"本文档针对基于FirmSys 产品安全级DCS 工程应用项目的机柜布置图的检查进行说明，\n描述了机柜布置图的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系\n统机柜布置图的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1020
+    "did":1020,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%FA%B9%F1%B0%B2%D7%B0%CD%BC%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）机柜布置图制作作业指导",
@@ -311,7 +332,8 @@
     "act_category":"基本设计",
     "refer_to":"Arrangement",
     "description":"本文档针对基于FirmSys 产品安全级DCS 工程应用项目的机柜布置图的制作进行说明，\n描述了机柜布置图的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系\n统机柜布置图的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1021
+    "did":1021,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%FA%B9%F1%B2%BC%D6%C3%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS(FirmSys)卡件布置图绘制作业指导",
@@ -324,7 +346,8 @@
     "act_category":"基本设计",
     "refer_to":"Arrangement",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统卡件布置图的绘制过程和方法，\n用于指导安全级DCS 系统设计人员进行卡件布置图绘制。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1006
+    "did":1006,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BD%D3%CF%DF%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)卡件布置图检查作业指导",
@@ -337,7 +360,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统卡件布置图的检查过程和方法，\n用于指导安全级DCS 系统设计人员对卡件布置图进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1007
+    "did":1007,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BF%A8%BC%FE%B2%BC%D6%C3%CD%BC%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS机柜设备清单设计指导",
@@ -350,7 +374,8 @@
     "act_category":"硬件设计",
     "refer_to":"Equipment List",
     "description":"为规范北京广利核系统工程有限公司（以下简称广利核）工程部五组的设计工作，特编\n制此程序文件，用以指导设计人员进行相关的设计及审查工作。\n本文件适用于公司承担的 CPR1000 项目安全级DCS 系统的Level1 设备清单的设计工\n作。",
-    "did":1037
+    "did":1037,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS AT软件制作作业指导",
@@ -363,7 +388,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"AT Software",
     "description":"本文档针对 MELTAC 平台安全级 DCS 工程应用项目的 AT 软件制作进行说明，描述了 AT\n软件的制作过程和方法，用于指导安全级 DCS 系统设计人员进行安全级 DCS 系统 AT 软件的\n设计。 \n本文档适用于北京广利核系统工程有限公司（以下简称 CTEC）承担的基于 MELTAC 平台\n产品的压水堆核电站安全级 DCS 工程设计。其它类工程设计可参照执行。 ",
-    "did":1001
+    "did":1001,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"安全级DCS(FirmSys)电源分配表制作作业指导 ",
@@ -376,7 +402,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档依据相关标准和规范，对基于FirmSys 平台的安全级DCS 系统工程项目的机柜内\n电源分配设计过程进行说明，描述了安全级DCS 系统柜内电源分配表的制作过程，指导基于\nFirmSys 平台核电站安全级 DCS 系统详细设计阶段的机柜内电源分配设计。\n本文档为工程设计人员的设计作业指导文件，适用于基于FirmSys 平台的安全级DCS 系\n统各子系统电源设计作业，设计人员在进行安全级DCS 系统电源分配设计作业指导时应参考\n本文档。",
-    "did":1039
+    "did":1039,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B5%E7%D4%B4%B7%D6%C5%E4%B1%ED%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS(FirmSys)电源分配表检查作业指导 ",
@@ -389,7 +416,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"本文用于指导设计人员进行工程样机电源分配表的设计和校核。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1040
+    "did":1040,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B1%E4%B8%FC%CF%EE%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"核电站安全级DCS端子接线图设计规范    ",
@@ -402,7 +430,8 @@
     "act_category":"硬件设计",
     "refer_to":"Terminal Block",
     "description":"本文件的目的是通过归纳核电站安全级 DCS 端子接线图的设计标准与要求，用以指导\n设计人员进行端子接线图的设计工作。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的CPR1000 项目安全级DCS 机\n柜端子接线图的设计。",
-    "did":1145
+    "did":1145,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)接线图绘制作业指导",
@@ -415,7 +444,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"本文档描述了基于FirmSys 产品的安全级DCS 保护系统的接线图的绘制过程和方法，用\n于指导安全级DCS 设计人员进行接线图的绘制。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1004
+    "did":1004,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%F9%B1%BEIO%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)接线图检查作业指导",
@@ -428,7 +458,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统接线图的检查过程和方法，用于\n指导安全级DCS 设计人员对接线图进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1005
+    "did":1005,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BD%D3%CF%DF%CD%BC%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）装配接线表制作作业指导",
@@ -441,7 +472,8 @@
     "act_category":"基本设计",
     "refer_to":"Assembly",
     "description":"本文档针对基于FirmSys 产品安全级DCS 工程应用项目的装配接线表的制作进行说明，\n描述了装配接线表的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系\n统装配接线表的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1035
+    "did":1035,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D7%B0%C5%E4%BD%D3%CF%DF%B1%ED%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）设备清单检查作业指导",
@@ -454,7 +486,8 @@
     "act_category":"检查",
     "refer_to":"Equipment List",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的设备清单的检查进行说明，描\n述了设备清单的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统设\n备清单的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1023
+    "did":1023,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B1%B8%B9%E6%B8%F1%CA%E9%B1%E0%D0%B4%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）设备清单制作作业指导",
@@ -467,7 +500,8 @@
     "act_category":"基本设计",
     "refer_to":"Equipment List",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的设备清单的制作进行说明，描\n述了设备清单的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统设\n备清单的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1024
+    "did":1024,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B1%B8%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）网络信号清单检查作业指导",
@@ -480,7 +514,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的网络信号清单的检查进行说\n明，描述了网络信号清单的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级\nDCS 系统网络信号清单的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1029
+    "did":1029,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CB%E3%B7%A8%D7%E9%CC%AC%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）网络信号清单制作作业指导",
@@ -493,7 +528,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的网络信号清单的制作进行说\n明，描述了网络信号清单的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级\nDCS 系统网络信号清单的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1030
+    "did":1030,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CD%F8%C2%E7%D0%C5%BA%C5%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）装配接线表检查作业指导",
@@ -506,7 +542,8 @@
     "act_category":"检查",
     "refer_to":"Assembly",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的装配接线表的检查进行说明，\n描述了装配接线表的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系\n统装配接线表的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1034
+    "did":1034,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%B2%BC%FE%D0%E8%C7%F3%B9%E6%B8%F1%CA%E9%B1%E0%D0%B4%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)设定值清单制作作业指导",
@@ -519,7 +556,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档针对基于FirmSys产品安全级DCS工程应用项目的设定值清单的制作进行说明，\n描述了设定值清单的制作过程和方法，用于指导安全级DCS系统设计人员进行安全级DCS系\n统设定值清单的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys产品\n的压水堆核电站安全级DCS工程设计。其它类工程设计可参照执行。",
-    "did":1043
+    "did":1043,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B6%A8%D6%B5%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS(FirmSys)设定值清单检查作业指导",
@@ -532,7 +570,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档针对基于FirmSys产品安全级DCS工程应用项目的设定值清单的检查进行说明，\n描述了设定值清单的检查过程和方法，用于指导安全级DCS系统设计人员进行安全级DCS系\n统设定值清单的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys产品\n的压水堆核电站安全级DCS工程设计。其它类工程设计可参照执行。",
-    "did":1042
+    "did":1042,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B1%B8%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）设备规格书编写指导",
@@ -545,7 +584,8 @@
     "act_category":"基本设计",
     "refer_to":"Equipment Spec",
     "description":"本文件的目的是在基于 FirmSys 产品的安全级工程设计中，在进行详细设计前，对工程\n设计人员完成编制设备规格书提供指导。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于FirmSys 产品的压水堆核\n电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1022
+    "did":1022,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C8%ED%BC%FE%CF%C2%B7%A2%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS(Firmsys)直流回路绝缘测试说明书",
@@ -558,7 +598,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文主要描述工程中安全级DCS（FirmSys）系统直流回路绝缘测试的基本原理、方法\n及步骤，供工程设计人员，相关测试人员参考使用。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1144
+    "did":1144,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%B2%BC%FE%D0%E8%C7%F3%B9%E6%B8%F1%CA%E9%B1%E0%D0%B4%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）线缆清册制作作业指导",
@@ -571,7 +612,8 @@
     "act_category":"基本设计",
     "refer_to":"Cable",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的线缆清册的制作进行说明，描\n述了线缆清册的制作过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统\n线缆清册的设计。\n本文档适用于北京广利核系统工程有限公司（以下简称 CTEC）承担的基于FirmSys 产\n品的压水堆核电站安全级DCS 工程设计。",
-    "did":1032
+    "did":1032,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CF%DF%C0%C2%C7%E5%B2%E1%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）线缆清册检查作业指导",
@@ -584,7 +626,8 @@
     "act_category":"检查",
     "refer_to":"Cable",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的线缆清册的检查进行说明，描\n述了线缆清册的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统线\n缆清册的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1031
+    "did":1031,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CE%EF%C1%CF%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)应用软件制作作业指导",
@@ -597,7 +640,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 应用软件的制作过程和方法，用于指导安\n全级DCS 系统设计人员对应用软件进行制作。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1013
+    "did":1013,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%A6%D3%C3%C8%ED%BC%FE%CF%C2%D7%B0%B2%D9%D7%F7%B9%E6%B7%B6%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)应用软件检查作业指导",
@@ -610,7 +654,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 应用软件的检查过程和方法，用于指导安\n全级DCS 系统设计人员对应用软件进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1011
+    "did":1011,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CF%EA%CF%B8IO%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）算法组态作业指导",
@@ -623,7 +668,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的算法组态进行说明，描述了应\n用算法组态的过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统算法组态\n工作。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1028
+    "did":1028,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CB%E3%B7%A8%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）算法组态检查作业指导",
@@ -636,7 +682,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档针对基于 FirmSys 产品安全级DCS 工程应用项目的算法组态的检查进行说明，描\n述了算法组态的检查过程和方法，用于指导安全级DCS 系统设计人员进行安全级DCS 系统算\n法组态的检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1027
+    "did":1027,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.C.rar"
   },
   {
     "doc_name":"安全级DCS（FirmSys）数据库组态作业指导 ",
@@ -649,7 +696,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文件目的是在基于 FirmSys 产品的安全级 DCS 工程设计中，在对 SCID 数据库组态制\n作进行说明，描述了 SCID 数据库组态制作的过程和方法，用于指导安全级 DCS 系统设计人\n员完成数据库组态。\n本文件适用于北京广利核系统工程有限公司(以下简称 CTEC)承担的基于 FirmSys 产品的\n压水堆核电站安全级 DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1026
+    "did":1026,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）数据库组态作业指导",
@@ -662,7 +710,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文件目的是在基于 FirmSys 产品的安全级 DCS 工程设计中，在对 SCID 数据库组态制\n作进行说明，描述了 SCID 数据库组态制作的过程和方法，用于指导安全级 DCS 系统设计人\n员完成数据库组态。\n本文件适用于北京广利核系统工程有限公司(以下简称 CTEC)承担的基于 FirmSys 产品的\n压水堆核电站安全级 DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1249
+    "did":1249,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS（FirmSys）数据库组态检查作业指导 ",
@@ -675,7 +724,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文件的目的是在基于 FirmSys 产品的安全级DCS 工程设计中，SCID 数据库组态的检查\n过程和方法，用于指导安全级DCS 系统设计人员对SCID 数据库组态进行检查。\n本文件适用于北京广利核系统工程有限公司(以下简称 CTEC)承担的基于FirmSys 产品的\n压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1025
+    "did":1025,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B6%A8%D6%B5%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS（FirmSys）数据库组态检查作业指导",
@@ -688,7 +738,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1248
+    "did":1248,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B6%A8%D6%B5%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS（FirmSys）画面组态检查作业指导 ",
@@ -701,7 +752,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级 DCS 保护系统画面组态的检查过程和方法，用\n于指导安全级 DCS 系统设计人员对画面组态进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称 CTEC）承担的基于 FirmSys 产品\n的压水堆核电站安全级 DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1016
+    "did":1016,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)画面组态检查作业指导",
@@ -714,7 +766,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级 DCS 保护系统画面组态的检查过程和方法，用\n于指导安全级 DCS 系统设计人员对画面组态进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称 CTEC）承担的基于 FirmSys 产品\n的压水堆核电站安全级 DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1246
+    "did":1246,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS（FirmSys）画面组态作业指导 ",
@@ -727,7 +780,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统Level2 的画面组态及相关算法\n组态的过程和方法，用于指导安全级DCS 系统设计人员进行画面组态。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1017
+    "did":1017,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%AD%C3%E6%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.C.rar"
   },
   {
     "doc_name":"安全级DCS(FirmSys)画面组态作业指导",
@@ -740,7 +794,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"none",
-    "did":1247
+    "did":1247,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%AD%C3%E6%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.C.rar"
   },
   {
     "doc_name":"安全级DCS(FirmSys)应用软件下装操作规范",
@@ -753,7 +808,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文档描述了基于 FirmSys 产品的安全级DCS 应用软件下装操作规范。用以指导工程设\n计人员和工程测试人员根据FirmSys 产品特点，进行安全级DCS 应用软件下装。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于FirmSys 产品的压水堆核\n电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1012
+    "did":1012,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%D3%A6%D3%C3%C8%ED%BC%FE%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS组态计算机管理规定",
@@ -766,7 +822,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文档描述了基于FirmSys 产品的安全级DCS 组态计算机管理规定。用以规范组态计算\n机使用活动，保证组态计算机的使用符合法规标准要求，从而有效保证设计质量，本文主要\n对组态计算机网络构成，硬件及配置的特殊要求及计算机使用方法做出规定。\n本文档适用于北京广利核系统工程有限公司（简称CTEC）承担的基于FirmSys 产品的安\n全级DCS 工程设计组态计算机的管理。其他工程组态计算机可参考执行。",
-    "did":1036
+    "did":1036,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS(FirmSys)软件下发作业指导",
@@ -779,7 +836,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文档针对于基于 FirmSys 产品的压水堆核电站安全级DCS 工程设计，用于指导安全级\n设计人员进行DCS 软件下发，以保证软件在下发过程是可控的和准确的。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1008
+    "did":1008,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BF%A8%BC%FE%B2%BC%D6%C3%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)画面组态规范",
@@ -792,7 +850,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文件的目是 在基于 FirmSys 产品的 安全级工程设计中， 进行 全级 DCS 系统 SCID 软 件工程设计 前，对 SCID 的画面组态 提供指导 。\n本文件适用于北京广利核系统工程有限公司 (CTEC) 承担的基于 FirmSys 产品的压水堆核 电站安全级 DCS 画面组态 设计 。其它类工程设计 可",
-    "did":1139
+    "did":1139,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)数据库组态规范 ",
@@ -805,7 +864,8 @@
     "act_category":"基本设计",
     "refer_to":"Software",
     "description":"本文件目的是在基于 FirmSys 产品的安全级工程设计中，进行 SCID 数据库组态时，规\n范工程设计人员完成数据库组态。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于 FirmSys 产品的压水堆核\n电站安全级 DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1142
+    "did":1142,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%C9%E8%B6%A8%D6%B5%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A.pdf"
   },
   {
     "doc_name":"事故后监视系统（SpeedyHold平台）画面组态规范",
@@ -818,7 +878,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文件目的是在基于 SpeedyHold 平台产品的事故后监视系统设计中，规范工程设计人\n员的画面组态工作。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的压水堆核电站事故后监视系\n统工程设计。在其他项目中使用SpeedyHold 产品的工程设计工作可参照执行。",
-    "did":1045
+    "did":1045,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"事故后监视系统（SpeedyHold平台）数据库组态规范",
@@ -831,7 +892,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文件目的是在基于 SpeedyHold 平台产品的事故后监视系统设计中，规范工程设计人\n员完成数据库组态工作。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的压水堆核电站事故后监视系\n统工程设计。在其他项目中使用SpeedyHold 产品的工程设计工作可参照执行。",
-    "did":1046
+    "did":1046,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3(SpeedyHold%C6%BD%CC%A8)%BB%AD%C3%E6%D7%E9%CC%AC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)线缆容量评估方法",
@@ -844,7 +906,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"none",
-    "did":1044
+    "did":1044,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%CF%DF%C0%C2%C7%E5%B2%E1%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS(FirmSys)缺省值设计方案",
@@ -857,7 +920,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档描述了基于FirmSys 产品的安全级DCS 缺省值设计方案。用以指导设计人员根据\nFirmSys 产品特点及设备规格，参考客户需求，进行安全级DCS 系统的缺省值设置。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于FirmSys 产品的压水堆核\n电站安全级DCS 设计。其它类工程设计可参照执行。",
-    "did":1140
+    "did":1140,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BF%A8%BC%FE%B2%BC%D6%C3%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS工程设计流程",
@@ -870,7 +934,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本程序将安全级 DCS 的工程设计工作分成不同的设计活动，目的是规范核电站安全级DCS\n的设计流程，明确了各设计活动的内容、输入/输出文件类型以及对输入/输出文件的要求，\n指定活动的实施人员和设计活动中需要遵守的设计规范，指导工程设计人员进行核电站安全\n级DCS 的工程设计，以确保工程设计人员在满足相关法律法规标准要求的前提下，顺利完成\n安全级DCS 的工程设计工作。\n本程序适用于北京广利核系统工程有限公司(以下简称广利核)承担新建 CPR1000 项目核\n电站安全级DCS 基于MELTAC 平台的工程设计。现有核电站改造项目安全级DCS 的设计流程\n可参考执行。",
-    "did":1146
+    "did":1146,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS level1接口设计规范",
@@ -883,7 +948,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本程序目的是指导设计人员了解安全级（1E）DCS 系统中采用的接口类型、特点及接口范\n围，并能据此对各种接口进行分析、判定，确保在满足相关法律法规要求的前提下，完成安全级\nDCS 系统的接口设计工作。\n本程序以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC 公\n司)承担的所有基于MELTAC 平台的新建核电站安全级DCS level1（以下简称1E-DCS）的工程\n设计，同时对其它核电安全级DCS 的系统设计也可作为参考。                                                   ",
-    "did":1209
+    "did":1209,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS level1 1E-NC通讯接口划分规范",
@@ -896,7 +962,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件目的是指导设计人员对1E 与NC 间网络通讯接口进行划分，并完成通讯清单，见附件1&2，\n提供给level2 设计人员进行图形组态参考。\n本程序以红沿河1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC 公司)承担的\n所有基于MELTAC 平台的新建核电站安全级DCS 系统的工程设计，同时对其它核电安全级DCS 的系统\n设计也可作为参考。",
-    "did":1210
+    "did":1210,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS降级管理设计规范",
@@ -909,7 +976,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本程序描述了安全级DCS系统中降级管理要求、降级管理的设计思路及具体实现方式，指导安\n全级DCS设计人员进行降级管理设计。\n本程序适用于北京广利核系统工程有限公司(CTEC公司)承担的新建核电站安全级DCS的降级\n管理设计，在役核电站的改造可以参考本文件执行。",
-    "did":1211
+    "did":1211,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS控制系统组态规则-模拟部分",
@@ -922,7 +990,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"BDSD",
     "description":"在 MELTAC 平台上，是通过图形软件（RAPID）组态来实现的，即将AD 对应转化为组态\n用BD，所以本文件目的是使设计人员了解安全级（1E）DCS 系统AD 转化BD 组态规则，能参\n照接口划分完毕的AD 完成BD 的设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC 公\n司)承担的所有基于MELTAC 平台的新建核电站安全级DCS level1（以下简称1E-DCS）的工程\n设计，同时对基于其它平台的核电安全级DCS 的系统设计也可作为参考。",
-    "did":1212
+    "did":1212,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS控制系统组态规则-逻辑部分",
@@ -935,7 +1004,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"BDSD",
     "description":"本文档制定了基于MELTAC平台的安全级DCS控制系统Level1的Sequence Diagram的编\n写规则。本文档制定的规则将被应用到Sequence Diagram设计过程中，便于安全级DCS\nSequence Diagram设计图纸的规范化。\n本文档以红沿河核电站Unit1/2号机为基础，适用于北京广利核系统工程有限公司(CTEC)承\n担的基于MELTAC平台的新建核电站CPR1000 Extension Project 安全级DCS系统设计，基于其\n它DCS平台的或现有核电站的安全级DCS系统的改造可参考本程序执行。",
-    "did":1213
+    "did":1213,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS控制系统缩略词表",
@@ -948,7 +1018,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文档列出了CPR1000 Extension Project DCS 中安全级常用缩略词和术语。\n本文范围限定于 CPR1000 Extension Project 项目安全级DCS 所用到的缩略词与术语，上游文\n件设备标牌缩略词（AA-ENR-315）、系统清单（AA-ENR-306）（三字码）与设备功能标识（WD-ENR-307）\n（二字码）中的缩略词与术语没有在此文描述，具体见上述上游文件。本文不包括商业术语、组织\n术语、物理或化学单位、质量保证术语等专用术语。",
-    "did":1214
+    "did":1214,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS RPS系统功能分配设计规范",
@@ -961,7 +1032,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本规范规定了核电站安全级DCS RPS系统的功能分配的原则和方法，指导设计人员根据LD、AD\n等上游文件，进行安全级DCS RPS系统的功能分配设计。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的新建CPR1000核电站安全级DCS系统的\n工程基础设计，现有核电站的安全级DCS系统的改造可参考本规范执行。",
-    "did":1215
+    "did":1215,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS分站设计规范",
@@ -974,7 +1046,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本规范规定了核电站安全级DCS分站设计的原则和方法，指导设计人员根据LD/AD和I/O\nlist等上游文件，进行安全级DCS分站设计。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级DCS系统设\n计，现有核电站的安全级DCS系统的改造可参考本规范执行。",
-    "did":1216
+    "did":1216,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS参数旁通设计规范",
@@ -987,7 +1060,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本规范描述了安全级 DCS 系统中参数旁通要求、参数旁通的设计思路以及具体实现方式，指导\n安全级DCS 设计人员进行参数旁通设计。\n本规范适用于北京广利核系统工程有限公司(CTEC 公司)承担的新建核电站安全级DCS 的参数\n旁通设计，在役核电站的改造可以参考本规范执行。\n",
-    "did":1217
+    "did":1217,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级设计文件互审规范",
@@ -1000,7 +1074,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"本文件的目的是规范核电站安全级 DCS 工程设计阶段设计输出文件在提交设计评审前，任务组内\n部对该文件的互审工作流程和互审单填写要求，以确保工程设计文件内容的正确、齐全和一致性，提高\n文件的编写质量，从而保证工程设计的输出能满足设计输入及公司相关规定的要求。\n本文件适用于北京广利核系统工程有限公司(CTEC)工程部五组各项目的设计输出文件编写完成后、\n提交设计评审前，在安全级设计任务组内部的互审工作。\n",
-    "did":1218
+    "did":1218,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS RPC功能分配设计规范",
@@ -1013,7 +1088,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"本文针对 CPR1000 的堆型设计，描述了RPC 功能分配的原则和方法，用于指导设计人员\n将RPC 保护功能分配成两个子系统，并能将AD、LD 进行对应分配。保证核电站能实现最安全、\n可靠的运行。\n本文件适用于北京广利核系统工程有限公司承担的所有 CPR1000 新建核电站安全级DCS\nlevel1（以下简称1E-DCS）的工程设计。",
-    "did":1219
+    "did":1219,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"常用POL说明",
@@ -1026,7 +1102,8 @@
     "act_category":"行政管理",
     "refer_to":"BDSD",
     "description":"本文对安全级DCS中常用算法模块进行说明，用于指导工程设计人员进行安全级DCS设计。\n本文适用于北京广利核系统工程有限公司(CTEC 公司)承担的基于MELTAC-N+R3平台的新建\n核电站安全级DCS设计，在役核电站的改造可以参考本文件执行。",
-    "did":1220
+    "did":1220,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS网络变量设计规范",
@@ -1039,7 +1116,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文档以红沿河核电站1、2号机组为例，详细的阐述了安全级DCS网络变量的设计规范及方法，\n并根据网络变量的不同传输类型和方式，设计了各种网络变量所需的导入表，用来指导安全级DCS\n设计人员进行安全级DCS系统的网络变量设计。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的基于三菱MELTAC平台的新建核电站安\n全级DCS系统的设计。基于其它DCS平台的或现有核电站安全级DCS系统的改造可参考本规范执行。",
-    "did":1221
+    "did":1221,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS IO模块选型及布置规范",
@@ -1052,7 +1130,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"本文件的目的是指导设计人员根据标准、法规及客户要求，进行安全级 DCS 系统IO 模块\n选型及布置的设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承\n担的所有新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的系统的改造设计。",
-    "did":1222
+    "did":1222,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级机柜内接线图设计规范",
@@ -1065,7 +1144,8 @@
     "act_category":"硬件设计",
     "refer_to":"Internal Cable",
     "description":"本文件的目的是指导设计人员，基于 MELTAC 平台，进行安全级机柜内接线图的设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有基于MELTAC 平台的新建核电站安全级DCS 的工程设计，同时对基于其它平台的核电站安全\n级DCS 的系统设计也可作为参考。",
-    "did":1223
+    "did":1223,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS IO点表设计规范",
@@ -1078,7 +1158,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"本文件的目的是指导设计人员进行安全级 DCS系统详细设计阶段的IO 点表（所有安全级DCS\n的硬接线点）的设计，并最终形成可以导入DCS 组态软件的文件。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的系统的改造设计。",
-    "did":1224
+    "did":1224,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":" 核电站安全级DCS IO点表设计规范",
@@ -1091,7 +1172,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1279
+    "did":1279,
+    "url":"0"
   },
   {
     "doc_name":"核电站安全级DCS用电负荷计算方法",
@@ -1104,7 +1186,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文档描述了核电站安全级DCS用电负荷的设计因素及计算方法，用来指导安全级DCS设计人\n员进行安全级DCS系统的用电负荷设计。\n本文档适用于北京广利核系统工程有限公司(CTEC)承担的新建CPR1000核电站安全级DCS系\n统的用电负荷计算，现有在役核电站的安全级DCS系统改造可参考本文档执行。",
-    "did":1225
+    "did":1225,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS 控制系统接地要求",
@@ -1117,7 +1200,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文档依据接地相关标准和规范，规定了核电站安全级DCS接地原则和要求，描述了安全级\nDCS接地方法，用以指导安全级DCS系统的接地设计。\n本文档适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级DCS系统的接地\n设计，现有核电站的安全级DCS系统改造的接地设计可参考本文档执行。",
-    "did":1226
+    "did":1226,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级过程文件互审规范",
@@ -1130,7 +1214,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"本文件的目的是规范工程设计阶段，安全级过程文件在提交设计审查前任务组内部的互审工作流程\n和要求，以确保工程设计文件内容的正确、齐全和一致性，提高文件的编写质量，从而保证工程设计的\n输出能满足设计输入及公司相关规定的要求。\n本文件适用于北京广利核系统工程有限公司(CTEC 公司)工程部承担工程项目，过程文件编写完成\n后、提交设计审查前在任务组内部的互审工作。",
-    "did":1227
+    "did":1227,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"CPR1000压水堆保护系统工程样机设计与集成建设立项策划报告",
@@ -1143,7 +1228,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"none",
-    "did":1228
+    "did":1228,
+    "url":"0"
   },
   {
     "doc_name":"核电站安全级多样性驱动系统设计流程",
@@ -1156,7 +1242,8 @@
     "act_category":"基本设计",
     "refer_to":"ATWS",
     "description":"核电站安全级多样性驱动系统（DAS）主要是为了当安全级DCS 发生ATWT（Anticipated\nTransients without Trip：“未能紧急停堆的预期瞬态”）时，仍能实现对反应堆的保护驱动而设计，\n如紧急停堆。\n本程序是为规范安全级多样性驱动系统的设计工作而制定的设计流程；在流程中明确设计阶段\n的划分，并对各设计阶段的内容、输入/输出文件提出要求；并指定各设计阶段活动的实施人员。\n以确保设计工作在满足相关法律法规要求的前提下顺利完成。\n本程序适用于北京广利核系统工程有限公司(以下简称广利核)所承担核的核电站安全级多样\n性驱动系统的工程设计。",
-    "did":1229
+    "did":1229,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"工程项目设计流程、技术标准和规范及技术文件体系建设计划",
@@ -1169,7 +1256,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"none",
-    "did":1230
+    "did":1230,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"图纸比较 Sheet A and Sheet B 模板",
@@ -1182,7 +1270,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1128
+    "did":1128,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"项目间LD／AD／IO差异表-表A",
@@ -1195,7 +1284,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1129
+    "did":1129,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"项目间LD／AD／IO差异表-表A",
@@ -1208,7 +1298,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1130
+    "did":1130,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"LD／AD／和SD／BD间差异表-表B",
@@ -1221,7 +1312,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1131
+    "did":1131,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"LD／AD／和SD／BD间差异表-表B",
@@ -1234,7 +1326,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1132
+    "did":1132,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"文件比较问题解决单",
@@ -1247,7 +1340,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1099
+    "did":1099,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"文件检查问题解决单",
@@ -1260,7 +1354,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1100
+    "did":1100,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"文件检查问题解决单",
@@ -1273,7 +1368,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1261
+    "did":1261,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"文件检查问题解决单",
@@ -1286,7 +1382,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1262
+    "did":1262,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"文件检查问题解决单",
@@ -1299,7 +1396,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1263
+    "did":1263,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS机柜内布置图检查内容表",
@@ -1312,7 +1410,8 @@
     "act_category":"检查",
     "refer_to":"Installation Layout",
     "description":"none",
-    "did":1101
+    "did":1101,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内布置图检查内容表",
@@ -1325,7 +1424,8 @@
     "act_category":"检查",
     "refer_to":"Installation Layout",
     "description":"none",
-    "did":1268
+    "did":1268,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS文件格式检查内容表",
@@ -1338,7 +1438,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1133
+    "did":1133,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS机柜内网络图检查内容表",
@@ -1351,7 +1452,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1102
+    "did":1102,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内网络图检查内容表",
@@ -1364,7 +1466,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1269
+    "did":1269,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内电源配置检查内容表",
@@ -1377,7 +1480,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1103
+    "did":1103,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内电源配置检查内容表",
@@ -1390,7 +1494,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1270
+    "did":1270,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜排列图检查内容表",
@@ -1403,7 +1508,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1104
+    "did":1104,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜排列图检查内容表",
@@ -1416,7 +1522,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1271
+    "did":1271,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"非过程文件检查内容表",
@@ -1429,7 +1536,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1105
+    "did":1105,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"非过程文件检查内容表",
@@ -1442,7 +1550,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1272
+    "did":1272,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS Level1设计流程",
@@ -1455,7 +1564,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本程序将安全级DCS level1 的工程设计工作分成不同的设计活动，目的是规范核电站安全级DCS\nlevel1 的设计流程，明确了各设计活动的内容、输入/输出文件类型以及对输入/输出文件的要求，指定\n活动的实施人员和设计活动中需要遵守的设计规范，指导工程设计人员进行核电站安全级DCS Level1\n（以下简称为安全级DCS level1）的工程设计，以确保工程设计人员在满足相关法律法规标准要求的前\n提下，顺利完成安全级DCS level1 的设计工作。\n本程序适用于北京广利核系统工程有限公司(以下简称广利核)承担新建核电站安全级DCS level1\n的工程设计。现有核电站改造项目安全级DCS 的level1 设计流程可参考执行。",
-    "did":1231
+    "did":1231,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"CPR1000项目安全级DCS成套文件体系",
@@ -1468,7 +1578,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"以《CPR1000 安全级机柜成套控制程序》为基础，对设计流程中不同阶段产生的技术支持\n文件和表格进行体系管理，以方便工程人员对整体项目文件体系的把握，同时提高文件编写的效\n率和质量。具体达到以下目的：\n1） 将 CPR1000 项目安全级设备成套在项目设计过程中形成的所有文档，包括知识资料库、\n文档模板、标准化的表格等进行汇总；\n2） 将 CPR1000 项目安全级设备成套在项目设计过程中所获得的经验和总结等形成文字的\n档案；\n3） 收集 CPR1000 项目安全级设备成套项目相关的资料信息。\n适用于 CPR1000 项目安全级设备成套的技术性支持文件和标准模板的制定。",
-    "did":1232
+    "did":1232,
+    "url":"0"
   },
   {
     "doc_name":"CPR1000项目安全级DCS LEVEL1文件体系",
@@ -1481,7 +1592,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"以《核电站安全级 DCS LEVEL 1 设计流程》为基础，对设计流程中不同阶段产生的流程文件、\n技术支持文件和表格模板进行体系管理，以方便工程人员对整体项目文件体系的把握，同时提高文\n件编写的效率和质量。具体达到以下目的：\n1） 将 CPR1000 项目安全级DCS LEVEL 1 在项目设计过程中的规范标准、工作流程和辅助工具\n等进行汇总；\n2） 将 CPR1000 项目安全级DCS LEVEL 1 在项目设计过程中所获得的经验和总结等形成文字的\n档案；\n3） 将 CPR1000 项目安全级DCS LEVEL 1 在项目设计过程中形成的所有文档，包括知识资料库、\n文档模板、标准化的表格等进行汇总；\n4） 收集 CPR1000 项目安全级DCS LEVEL 1 项目相关的资料信息。\n本文件体系包括 CPR1000 项目安全级DCS LEVEL 1 项目各个阶段的文件内容，适用于CPR1000\n项目安全级DCS LEVEL 1 工程设计的各个阶段。",
-    "did":1233
+    "did":1233,
+    "url":"0"
   },
   {
     "doc_name":"CPR1000核电站安全级DCS图纸编号及版本标识规范",
@@ -1494,7 +1606,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文规定了CPR1000核电站安全级DCS图纸编号及版本标识规范。\n本规范适用于北京广利核系统工程有限公司(CTEC)承建的新建CPR1000核电站安全级DCS的\n图纸编号及版本标识，现有核电站安全级DCS改造项目图纸编号及版本标识可参考本规范执行。",
-    "did":1234
+    "did":1234,
+    "url":"0"
   },
   {
     "doc_name":"安全级DCS机柜内及BUP盘内1E级K3类仪表电缆和电线技术规格书",
@@ -1507,7 +1620,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文件的目的是提交给采购部，作为CPR1000项目安全级柜内电缆和电线采购的参考依据。\nCPR1000项目安全级DCS机柜内及BUP盘内在CTEC供货范围内的1E级K3类仪表电缆和电线。\n",
-    "did":1235
+    "did":1235,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS自动试验台设计流程",
@@ -1520,7 +1634,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本程序将安全级DCS自动试验台的工程设计工作分成不同的设计活动，以规范核电站安全级DCS\n自动试验台的设计流程；明确各设计活动的内容、输入/输出文件类型以及对输入/输出文件的要求；\n指定各阶段活动的实施人员。目的是指导核电站安全级DCS自动试验台的工程设计过程，以确保设\n计工作在满足相关法律法规要求的前提下顺利完成。\n本程序适用于北京广利核系统工程有限公司(以下简称广利核)所承担核的核电站安全级DCS自\n动试验台的工程设计。\n",
-    "did":1236
+    "did":1236,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"RAPID工具使用方法",
@@ -1533,7 +1648,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档的目的是指导工程设计人员使用RAPID 工具来完成CPR1000 Extension Project\nDCS 安全级设计中的图纸绘制工作，并说明了使用过程中必须遵守的一些注意事项。\nRAPID 是日本三菱公司为进行核电站安全级DCS 设计专门开发的运行于Windows 环境下\n的绘图应用软件。\n本文件适用于北京广利核系统工程有限公司承担的基于MELTAC平台的新建核电站安全级\nDCS系统设计，包括BD、SD以及Wiring Diagram的绘制，现有核电站的安全级DCS系统的改造\n可参考本规范执行。",
-    "did":1237
+    "did":1237,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"Melens工具使用方法",
@@ -1546,7 +1662,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件用于指导安全级设计及测试人员应用三菱电机公司开发的MELTAC-N plus R3平台工具（以下简称Melens工具）进行安全级DCS的工程设计及系统测试，重点从Melens工具的基本性能描述、静态功能展示和平台的实际测试应用等方面进行说明。\n本文件适用于北京广利核系统工程有限公司承接的基于MELTAC平台的核电站安全级DCS Level1的工程设计和系统测试中安全级DCS平台工具的使用。",
-    "did":1238
+    "did":1238,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"ESF安全专设驱动机柜设备规格书",
@@ -1559,7 +1676,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档描述了北京广利核系统工程有限公司（以下简称CTEC）承担的基于三菱MELTAC 数字\n化平台的CPR1000 扩建项目DCS 的安全专设驱动机柜（ESFAC）和安全逻辑机柜（SLC）设计。\n用以指导核电安全级DCS 设计人员进行安全专设驱动系统设计。\n本文件适用于 CTEC 承担的所有基于MELTAC 数字化平台的新建核电站安全级专设系统的工程\n设计，基于其它平台的核电安全级DCS 的安全专设系统设计可参考本文档执行。",
-    "did":1239
+    "did":1239,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"PIF详细I／O清单模版",
@@ -1572,7 +1690,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1106
+    "did":1106,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"数字量点基本I／O清单模版",
@@ -1585,7 +1704,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1107
+    "did":1107,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"数字量详细I／O清单模版",
@@ -1598,7 +1718,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1108
+    "did":1108,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"RPC保护机柜设备规格书",
@@ -1611,7 +1732,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档描述了北京广利核系统工程有限公司（以下简称CTEC）承担的基于三菱MELTAC\n数字化平台的CPR1000扩建项目DCS的反应堆保护机柜（RPC）设计。用以指导核电安全级DCS\n设计人员进行反应堆保护系统设计。\n本文适用于CTEC承担的所有基于MELTAC数字化平台的新建核电站安全级保护系统的工\n程设计。基于其他平台的核电安全级DCS的反应堆保护系统设计可参考本文档执行。",
-    "did":1240
+    "did":1240,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"模拟量点基本I／O清单模版",
@@ -1624,7 +1746,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1109
+    "did":1109,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"模拟量详细I／O清单模版",
@@ -1637,7 +1760,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1110
+    "did":1110,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"16通道DO详细I／O清单模版",
@@ -1650,7 +1774,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"none",
-    "did":1111
+    "did":1111,
+    "url":"0"
   },
   {
     "doc_name":"反应堆功率控制机柜设备规格书",
@@ -1663,7 +1788,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档描述了北京广利核系统工程有限公司（以下简称CTEC）承担的基于三菱MELTAC 数字\n化仪控平台的CPR1000 扩建项目DCS 的反应堆功率控制机柜（RPCC）设计，用以指导核电安全级\nDCS 设计人员进行反应堆功率控制系统的设计。\n本文件适用于 CTEC 承担的所有基于MELTAC 数字化仪控平台的新建核电站反应堆功率控制系\n统的工程设计，基于其它仪控平台的核电安全级DCS 的反应堆功率控制系统设计可参考本文档执\n行。",
-    "did":1241
+    "did":1241,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全相关机柜设备规格书",
@@ -1676,7 +1802,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文档描述了北京广利核系统工程有限公司（以下简称CTEC）承担的基于三菱MELTAC 数字\n化仪控平台的CPR1000 扩建项目DCS 的安全相关机柜（SRC）设计，用以指导核电安全级DCS 设\n计人员进行安全相关保护系统的设计。\n本文件适用于 CTEC 承担的基于MELTAC 数字化仪控平台的新建CPR1000 核电站安全相关保\n护系统的工程设计，基于其它仪控平台的核电安全级DCS 的安全相关保护系统设计可参考本文档执\n行。",
-    "did":1242
+    "did":1242,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"W-NET通讯点清单模版",
@@ -1689,7 +1816,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"none",
-    "did":1112
+    "did":1112,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"Data-Link通信点清单模板",
@@ -1702,7 +1830,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software Diagram",
     "description":"none",
-    "did":1113
+    "did":1113,
+    "url":"0"
   },
   {
     "doc_name":"操作信号通信点清单模板",
@@ -1715,7 +1844,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"none",
-    "did":1114
+    "did":1114,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜卡件布置图模板",
@@ -1728,7 +1858,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1134
+    "did":1134,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站仪控系统设计输入文件解读方法",
@@ -1741,7 +1872,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件简要介绍了核电站仪控系统设计输入文件的解读方法。参照此文档，仪控设计人员可以\n全面而准确地获取设计输入文件所提供的信息，并对其进行正确理解和分析，进而合理地进行仪控\n系统的设计和维护。\n本文件适用于对国内设计院参与设计的核电站仪控系统设计输入文件的分析和解读。此输入文\n件专指系统逻辑图（LD）、系统模拟图（AD）、系统I/O 清单（I/O List）以及系统设定值手册（Setpoint\nManual）。",
-    "did":1243
+    "did":1243,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜排列图模板",
@@ -1754,7 +1886,8 @@
     "act_category":"硬件设计",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1135
+    "did":1135,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜装配布置图模板",
@@ -1767,7 +1900,8 @@
     "act_category":"硬件设计",
     "refer_to":"Assembly",
     "description":"none",
-    "did":1136
+    "did":1136,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS装配接线图模板",
@@ -1780,7 +1914,8 @@
     "act_category":"硬件设计",
     "refer_to":"Assembly",
     "description":"none",
-    "did":1137
+    "did":1137,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"机柜装配图模板",
@@ -1793,7 +1928,8 @@
     "act_category":"硬件设计",
     "refer_to":"Assembly",
     "description":"none",
-    "did":1138
+    "did":1138,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS与非安全级DCS逻辑接口设计规范",
@@ -1806,7 +1942,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"安全级DCS与非安全级DCS的逻辑接口设计是指LD/AD中1E和NC的边界划分以及确定相应的接\n口信号类型和信号传递路径，本文档描述了有关的规则和设计方法，用以指导设计人员进行相关\n的设计工作。\n本文档适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级DCS系统与非安\n全级DCS的逻辑接口设计，现有核电站的安全级DCS系统改造可参考本文档执行。",
-    "did":1244
+    "did":1244,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"工程部5组CPR1000工作组管理规范",
@@ -1819,7 +1956,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本规范根据北京广利核公司工程部 5 组CPR1000 工作组工作特点制定，描述了CPR1000 工作\n组内的工作流程及日常工作管理方法。\n本规范适用于工程部 5 组CPR1000 工作组内人员的日常工作管理。",
-    "did":1245
+    "did":1245,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜卡件布置图检查内容表",
@@ -1832,7 +1970,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1115
+    "did":1115,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS接线图检查内容表",
@@ -1845,7 +1984,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1116
+    "did":1116,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS接线图检查内容表",
@@ -1858,7 +1998,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1273
+    "did":1273,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"SAMA图纸检查内容表",
@@ -1871,7 +2012,8 @@
     "act_category":"检查",
     "refer_to":"BDSD",
     "description":"none",
-    "did":1117
+    "did":1117,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"SAMA图纸检查内容表",
@@ -1884,7 +2026,8 @@
     "act_category":"检查",
     "refer_to":"BDSD",
     "description":"none",
-    "did":1264
+    "did":1264,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"工程五组风险管理规范",
@@ -1897,7 +2040,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本程序规定了CPR1000 EXTENSION PROJECT项目安全级设计过程中，关于影响项\n目进度和质量的风险识别、分析、评价和控制的过程和方法，通过本程序的执行可\n确保项目进度和质量得到可控。\n本程序适用于工程五组承接的设计任务，保证设计质量活动全过程的风险管理控\n制，其范围主要包括：CPR1000 EXTENSION PROJECT项目中安全级设计活动、安全级\n质量见证活动等等。",
-    "did":1148
+    "did":1148,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"工程部五组PMIS系统管理规范",
@@ -1910,7 +2054,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"在 PMIS 的应用过程中，需要对具体操作进行规范。本文档针对工程部五组PMIS 的管理进行了规定。\n本文档应用于工程部五组的 PMIS 管理。包含了PMIS 目录的规定、各种类型的计划维护规定、工\n时填报规定等。",
-    "did":1149
+    "did":1149,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"CPR1000 安全级DCS设计问题、风险与改进分析",
@@ -1923,7 +2068,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文目的是通过发现和挖掘CPR1000 项目安全级DCS 设计存在的问题，并对当前的问题和风\n险进行分析，以充分吸收CPR1000 安全级DCS 设计经验和教训，对基于公司自主化Firmsys 平台\n的阳江5、6 安全级DCS 工程设计进行优化和改进。\n本文适用于工程部五组安全级DCS 设计过程的持续优化和改进工作。",
-    "did":1150
+    "did":1150,
+    "url":"0"
   },
   {
     "doc_name":"安全级DCS 维护工具规格书    ",
@@ -1936,7 +2082,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"安全级DCS LEVEL1维护工具是用来维护安全级DCS（包括RPCC）。本文描述了基于\nMELTAC-NplusR3平台的安全级DCS维护工具的结构组成和设备的软件、硬件规格。",
-    "did":1151
+    "did":1151,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS网络结构设计规范",
@@ -1949,7 +2096,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文阐述了核电站安全级 DCS 网络设计的基本要求，规范了核电站安全级DCS 系统设计中网络\n结构的设计。文件最终以红沿河项目为例进行说明，阐述了安全级DCS 系统网络设计的方法。\n本规范适用于北京广利核系统工程有限公司(CTEC 公司)承担的新建核电站安全级DCS 网络系统\n的工程设计。现有核电站的安全级DCS 系统的改造可参考本程序执行。",
-    "did":1152
+    "did":1152,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内网络图模板",
@@ -1962,7 +2110,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1118
+    "did":1118,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜发热量计算规范",
@@ -1975,7 +2124,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本规范规定了安全级DCS 机柜发热量计算方法及注意事项，用以指导安全级DCS 设计人员根据\n机柜布置图、电源分配表等上游输入文件，结合安全级机柜内电源供电冗余方式进行安全级DCS\n机柜发热量计算评估工作。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的基于MELTAC 平台的安全级DCS 机柜\n的发热量计算工作，基于其它平台的安全级DCS机柜发热量计算可参考本规范执行。",
-    "did":1153
+    "did":1153,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS机柜安装要求",
@@ -1988,7 +2138,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文档依据相关标准和规范，规定了核电站安全级DCS机柜现场安装要求，描述了安全级DCS机\n柜现场安装步骤和方法，用以指导安全级DCS机柜现场安装。\n本文件适用于北京广利核系统工程有限公司(CTEC公司)承担的新建核电站安全级DCS机柜的现\n场安装。现有核电站的安全级DCS系统的改造可参考本程序执行。",
-    "did":1154
+    "did":1154,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS继电器柜硬接线逻辑设计规范",
@@ -2001,7 +2152,8 @@
     "act_category":"基本设计",
     "refer_to":"Hardwired Logic",
     "description":"本程序的目的是指导设计人员进行辅助继电器柜硬接线逻辑(以下简称：继电器逻辑)的相关\n工程设计。本规范说明了在核电站安全级保护系统中使用继电器逻辑的目的，描述了继电器逻辑\n设计的一般过程，用以指导设计人员完成继电器逻辑的设计工作。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的新建CPR1000项目安全级DCS继\n电器逻辑的设计过程。",
-    "did":1155
+    "did":1155,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"不同项目间核电站安全级DCS图纸检查规范",
@@ -2014,7 +2166,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"本文件介绍了CPR1000 项目不同项目间图纸检查的方法，目的是记录不同项目间输入文件\n以及输入文件与设计输出文件（BD/SD）的差异，并根据差异，分析设计输入变化的原因以及对\n差异进行总结归纳，提出解决方法，进而修改设计输出文件（BD/SD），加快CPR1000 项目的工\n程实施进度。\n本文件作为CPR1000 项目安全级DCS LEVEL1 文件体系之一，适用范围为CPR1000 任何\n项目间的输入文件以及设计输出文件（BD/SD）的对比工作。由于项目间文件对比的方法是一致\n的，本文件只以项目B 与项目A 为对象来对不同项目间图纸核对的方法进行说明。",
-    "did":1156
+    "did":1156,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"SAMA绘图模板",
@@ -2027,7 +2180,8 @@
     "act_category":"基本设计",
     "refer_to":"BDSD",
     "description":"none",
-    "did":1119
+    "did":1119,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"DCS机柜电源分配表模版",
@@ -2040,7 +2194,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"none",
-    "did":1066
+    "did":1066,
+    "url":"0"
   },
   {
     "doc_name":"继电器柜逻辑图检查内容表",
@@ -2053,7 +2208,8 @@
     "act_category":"检查",
     "refer_to":"Hardwired Logic",
     "description":"none",
-    "did":1067
+    "did":1067,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"继电器柜逻辑图检查内容表",
@@ -2066,7 +2222,8 @@
     "act_category":"检查",
     "refer_to":"Hardwired Logic",
     "description":"none",
-    "did":1250
+    "did":1250,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"继电器柜逻辑图模板",
@@ -2079,7 +2236,8 @@
     "act_category":"基本设计",
     "refer_to":"Hardwired Logic",
     "description":"none",
-    "did":1120
+    "did":1120,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS接线图模板",
@@ -2092,7 +2250,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1121
+    "did":1121,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"DCS机柜功耗计算模板",
@@ -2105,7 +2264,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"none",
-    "did":1068
+    "did":1068,
+    "url":"0"
   },
   {
     "doc_name":"电缆清册设计规范",
@@ -2118,7 +2278,8 @@
     "act_category":"硬件设计",
     "refer_to":"Cable",
     "description":"本文件的目的是指导设计人员，进行基于 MELTAC 平台的安全级DCS 电缆清册工作。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n基于MELTAC 平台的新建核电站安全级DCS 的电缆清册工作，同时对基于其它平台的核电站安全\n级DCS 也可参考本规范。",
-    "did":1157
+    "did":1157,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS端子接线图设计规范",
@@ -2131,7 +2292,8 @@
     "act_category":"硬件设计",
     "refer_to":"Terminal Block",
     "description":"none",
-    "did":1274
+    "did":1274,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"机柜装配图检查内容表",
@@ -2144,7 +2306,8 @@
     "act_category":"检查",
     "refer_to":"Assembly",
     "description":"none",
-    "did":1069
+    "did":1069,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"DCS配电柜电源容量计算模板",
@@ -2157,7 +2320,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"none",
-    "did":1070
+    "did":1070,
+    "url":"0"
   },
   {
     "doc_name":"安全级I／O信号总体要求和规范",
@@ -2170,7 +2334,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"本文档描述了安全级 DCS 的I/O 信号的总体要求与规范，基于三菱公司的MELTAC 平\n台介绍了安全级DCS 系统的各种I/O 卡件的电气参数、接口类型以及安全级DCS 与现场设\n备间的物理接口原理，用以指导设计人员进行相关的设计工作。\n本文档适用于北京广利核系统工程有限公司（CTEC）承担的CPR1000 项目安全级DCS\n系统与传感器及其它仪控设备的I/O 接口设计。",
-    "did":1158
+    "did":1158,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜排列图设计规范",
@@ -2183,7 +2348,8 @@
     "act_category":"硬件设计",
     "refer_to":"Arrangement",
     "description":"本文主要是阐述了机柜排列图设计规范及其注意事项，用于指导安全级设计人员进行安全级\nDCS机柜排列图设计。\n本文件适用于北京广利核系统工程有限公司(CTEC 公司)承担的新建核电站安全级DCS 设计中\n机柜排列图的设计。",
-    "did":1159
+    "did":1159,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内部接线图检查内容表",
@@ -2196,7 +2362,8 @@
     "act_category":"检查",
     "refer_to":"Internal Cable",
     "description":"none",
-    "did":1071
+    "did":1071,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内部接线图检查内容表",
@@ -2209,7 +2376,8 @@
     "act_category":"检查",
     "refer_to":"Internal Cable",
     "description":"none",
-    "did":1251
+    "did":1251,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS配电柜单线图设计规范",
@@ -2222,7 +2390,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文件的目的是描述北京广利核系统工程有限公司（以下简称CTEC）承担的基于三菱MELTAC\n数字化平台的CPR1000 扩建项目DCS 的配电柜单线图设计。用以指导核电站安全级DCS 设计人员进\n行配电柜单线图设计。\n适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级DCS 的工程设计，以及在\n役核电站安全级DCS 系统的改造设计。",
-    "did":1160
+    "did":1160,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 Data-Link通讯清单检查内容表",
@@ -2235,7 +2404,8 @@
     "act_category":"检查",
     "refer_to":"Software Diagram",
     "description":"none",
-    "did":1072
+    "did":1072,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 Parameter List检查内容表",
@@ -2248,7 +2418,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1073
+    "did":1073,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 W-NET通讯清单检查内容表",
@@ -2261,7 +2432,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1074
+    "did":1074,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 操作清单检查内容表",
@@ -2274,7 +2446,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1075
+    "did":1075,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件图纸检查内容表",
@@ -2287,7 +2460,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1252
+    "did":1252,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件图纸检查内容表",
@@ -2300,7 +2474,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1253
+    "did":1253,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件图纸检查内容表",
@@ -2313,7 +2488,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1254
+    "did":1254,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件下发检查内容表",
@@ -2326,7 +2502,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1255
+    "did":1255,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件下发检查内容表",
@@ -2339,7 +2516,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1256
+    "did":1256,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 软件下发检查内容表",
@@ -2352,7 +2530,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"",
-    "did":null
+    "did":null,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 图面管理清单检查内容表",
@@ -2365,7 +2544,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1076
+    "did":1076,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1软件下发指导书",
@@ -2378,7 +2558,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文件目的是在基于 SpeedyHold 平台产品的事故后监视系统设计中，规范工程设计人\n员的画面组态工作。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的压水堆核电站事故后监视系\n统工程设计。在其他项目中使用SpeedyHold 产品的工程设计工作可参照执行。                                                                           本文件适用于北京广利核系统工程有限公司承担的基于 MELTAC 平台的CPR1000 项目安全\n级DCS Level1 软件下发工作。",
-    "did":1047
+    "did":1047,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"端子接线图模版",
@@ -2391,7 +2572,8 @@
     "act_category":"硬件设计",
     "refer_to":"Terminal Block",
     "description":"none",
-    "did":1077
+    "did":1077,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"继电器柜接线图检查内容表",
@@ -2404,7 +2586,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1078
+    "did":1078,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级图纸设计勘误流程",
@@ -2417,7 +2600,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文描述了北京广利核公司工程部安全级图纸发布后，在装配、测试过程中发现图纸问题， 设\n计方确认后对错误通过在发布的图纸上直接勘误的方式处理,并在后续图纸升版时进行跟踪的流程.\n本规范适用于工程部安全级装配图纸（包括 level1 level2）勘误过程的工作管理。",
-    "did":1161
+    "did":1161,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜设备清单检查内容表",
@@ -2430,7 +2614,8 @@
     "act_category":"检查",
     "refer_to":"Equipment List",
     "description":"none",
-    "did":1079
+    "did":1079,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜内布置图模板",
@@ -2443,7 +2628,8 @@
     "act_category":"硬件设计",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1080
+    "did":1080,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"ATWS机柜接线图检查内容表",
@@ -2456,7 +2642,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1081
+    "did":1081,
+    "url":"0"
   },
   {
     "doc_name":"ATWS机柜接线图检查内容表",
@@ -2469,7 +2656,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1257
+    "did":1257,
+    "url":"0"
   },
   {
     "doc_name":"核电站安全级DCS机柜安装布置规范",
@@ -2482,7 +2670,8 @@
     "act_category":"硬件设计",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1122
+    "did":1122,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 POL参数清单模板",
@@ -2495,7 +2684,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"none",
-    "did":1082
+    "did":1082,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级组态程序存储介质规格要求",
@@ -2508,7 +2698,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文档依据电子文档和程序存储相关标准和规范，规定了核电站安全级组态程序存储介质要\n求，描述了安全级组态程序存储的注意事项，用以指导安全级组态程序存储。\n本文档适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级软件设计组态\n程序存储，现有核电站的安全级DCS系统改造涉及的软件设计可参考本文档执行。",
-    "did":1162
+    "did":1162,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"COM逻辑检查内容表",
@@ -2521,7 +2712,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"none",
-    "did":1083
+    "did":1083,
+    "url":"0"
   },
   {
     "doc_name":"FSS安全级平台调试指导文件",
@@ -2534,7 +2726,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文档依据宁德FSS安全级系统的相关文件和工程经验，说明了FSS安全级平台的安装配置、\n工程转化和调试步骤，用以指导FSS安全级平台的调试工作。\n本文档适用于北京广利核系统工程有限公司(CTEC)承担的CPR1000全范围模拟机(FSS)安全\n级部分的安装。",
-    "did":1163
+    "did":1163,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"安全级DCS系统供电设计规范",
@@ -2547,7 +2740,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本规范用于指导安全级设计人员在设计安全级 DCS 系统供电过程中应遵循的设计原则和方法。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有新建核电站安全级DCS 系统供电设计的要求。",
-    "did":1164
+    "did":1164,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"核电站安全级DCS独立性设计规范",
@@ -2560,7 +2754,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件的目的是指导设计人员在进行核电站安全级 DCS 系统设计时，理解法规、标准对独立性\n的设计要求，并能根据设计要求进行相应的设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有基于三菱MELTAC 平台的新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的\n系统的改造设计。",
-    "did":1165
+    "did":1165,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS隔离分配模块布置规范",
@@ -2573,7 +2768,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"本文件的目的是指导设计人员在基于三菱 MELTAC 平台进行安全级系统设计时，根据上游设计\n文件（LD/AD、I/O list 等）进行信号的隔离分配设计。依据本文件的设计指导，可完成对信号的合\n理分配以及隔离分配模块的合理布置。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有基于三菱MELTAC 平台的新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的\n系统的改造设计。",
-    "did":1166
+    "did":1166,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站多样性驱动系统基本设计原则",
@@ -2586,7 +2782,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件的目的是对多样性驱动系统的设计人员，明确所应遵循的基本设计原则，并对其设计提\n供指导性要求。\n本文件以红沿河 1/2 号机组的设计要求为基础，适用于北京广利核系统工程有限公司(CTEC)承\n担的所有新建核电站安全级DCS 的工程设计，以及在役核电站多样性驱动系统的改造设计。",
-    "did":1167
+    "did":1167,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜端子接线图检查表",
@@ -2599,7 +2796,8 @@
     "act_category":"检查",
     "refer_to":"Terminal Block",
     "description":"none",
-    "did":1123
+    "did":1123,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜端子接线图检查表",
@@ -2612,7 +2810,8 @@
     "act_category":"检查",
     "refer_to":"Terminal Block",
     "description":"none",
-    "did":1258
+    "did":1258,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜端子接线图检查表",
@@ -2625,7 +2824,8 @@
     "act_category":"检查",
     "refer_to":"Terminal Block",
     "description":"none",
-    "did":1259
+    "did":1259,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"图面管理清单模板",
@@ -2638,7 +2838,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"none",
-    "did":1084
+    "did":1084,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"图面管理清单设计规范",
@@ -2651,7 +2852,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文以三菱 MELTAC-NplusR3 平台为基础，详细阐述了图面管理清单的制作方法和设计规\n范。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的基于MELTAC 平台的安全级DCS 图面管\n理清单的设计工作，基于其他平台的安全级DCS 图面管理清单的设计工作可参考本规范。",
-    "did":1168
+    "did":1168,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"核电站安全级DCS机柜接线图设计规范",
@@ -2664,7 +2866,8 @@
     "act_category":"硬件设计",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1124
+    "did":1124,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS卡件设定规范",
@@ -2677,7 +2880,8 @@
     "act_category":"硬件设计",
     "refer_to":"card setting",
     "description":"本文规定了CPR1000核电站DCS系统中安全级MELTAC系统平台对应的卡件设定规范。用以指\n导工程人员进行正确的卡件设定。\n本规范适用于北京广利核系统工程有限公司(CTEC)承建的新建CPR1000核电站安全级DCS应用\nMELTAC系统平台的项目。",
-    "did":1169
+    "did":1169,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜设备清单模板",
@@ -2690,7 +2894,8 @@
     "act_category":"硬件设计",
     "refer_to":"Equipment List",
     "description":"none",
-    "did":1125
+    "did":1125,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜外部线缆走线设计规范",
@@ -2703,7 +2908,8 @@
     "act_category":"硬件设计",
     "refer_to":"External Cable",
     "description":"本规范规定了安全级 DCS 机柜外部线缆走线图的设计原则和方法，用以指导系统设计人员根据\nI/O LIST、接线图等上游输入文件，结合安全级机柜内各电气设备的布置进行安全级DCS 机柜外部\n线缆走线图的设计和绘制工作。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的基于MELTAC 平台的安全级DCS 机柜\n的外部线缆走线图（External Cable Route Drawing）设计工作，基于其它平台的安全级DCS 机柜\n的外部线缆走线图设计工作可参考执行。",
-    "did":1170
+    "did":1170,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"MELTAC平台软件图生成操作指导",
@@ -2716,7 +2922,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文用来规范 MELENS 软件生成软件图的各项操作，以保证最终生成的软件图正确，规范。                                                            本文件适用于基于 MELTAC 平台的CPR1000 项目安全级DCS level1 软件图生成工作。                                    ",
-    "did":1048
+    "did":1048,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"外部线缆走线图模版",
@@ -2729,7 +2936,8 @@
     "act_category":"硬件设计",
     "refer_to":"External Cable",
     "description":"none",
-    "did":1126
+    "did":1126,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS机柜外部线缆走线图检查表",
@@ -2742,7 +2950,8 @@
     "act_category":"检查",
     "refer_to":"External Cable",
     "description":"none",
-    "did":1085
+    "did":1085,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜外部线缆走线图检查表",
@@ -2755,7 +2964,8 @@
     "act_category":"检查",
     "refer_to":"External Cable",
     "description":"none",
-    "did":1266
+    "did":1266,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"MELTAC平台安全级软件制作规范",
@@ -2768,7 +2978,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文详细阐述了基于 MELTAC-NplusR3 的安全级DCS 软件制作规范，用以指导设计人员\n进行安全级软件制作。\n本文适用于 MELTAC-NplusR3 的CPR1000 项目安全级DCS 软件制作。",
-    "did":1171
+    "did":1171,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"安全级DCS Level1 软件图设计审查规范",
@@ -2781,7 +2992,8 @@
     "act_category":"检查",
     "refer_to":"Software",
     "description":"本文以三菱 MELTAC-NplusR3 平台为基础，详细阐述了CPR1000 项目安全级软件设计审\n查要求，及审查过程中设计人员对上下游文件、设计相关文件的审查涂抹要求。\n本文件以 MELTAC 平台为基础，适用于北京广利核系统工程有限公司(CTEC)承担的所有新\n建核电站安全级DCS 的软件图设计审查。",
-    "did":1172
+    "did":1172,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"MELTAC平台MELENS配置库操作指导",
@@ -2794,7 +3006,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文用于指导 MELENS 工程工具环境下配置库的操作方法。\n本文件适用于基于 MELTAC 平台的配置库操作过程及版本控制方法。",
-    "did":1049
+    "did":1049,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"保护系统定期测试设计规范",
@@ -2807,7 +3020,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本规范描述了安全级DCS系统中反应堆保护系统定期测试相关需求，通过对需求的分析归纳出\n了反应堆保护系统定期测试的要求、设计流程以及具体实现方式，用于指导安全级DCS设计人员进\n行反应保护系统定期测试的设计。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的新建核电站安全级DCS 的反应堆保\n护系统定期测试设计，在役核电站的改造可以参考本规范执行。",
-    "did":1173
+    "did":1173,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS COM逻辑设计规范",
@@ -2820,7 +3034,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本规范阐述了 CPR1000 项目安全级DCS COM 逻辑设计的方法和流程，用以指导安全级\nDCS 设计人员应用MELTAC-NplusR3 平台，依据RPC BD 图等上游输入文件，结合安全级DCS\n网络通信方式进行安全级DCS COM 逻辑设计工作。\n本规范适用于北京广利核系统工程有限公司（CTEC）承担的基于MELTAC-NplusR3 平台\n的CPR1000 项目安全级DCS 中COM 系统的逻辑设计，基于其它平台的安全级DCS 通信设计\n相关工作也可参考本规范执行。",
-    "did":1174
+    "did":1174,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"MELTAC平台网络参数配置规范",
@@ -2833,7 +3048,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文通过分析 MELTAC 平台中的网络结构和组成，说明BUS Map 的配置方法，阐述网络\n参数的配置规范。\n本文件适用于 CPR1000 项目中MELTAC 平台的网络参数配置。",
-    "did":1175
+    "did":1175,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"1E-DCS T3试验规格书",
@@ -2846,7 +3062,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文为 CPR1000 Extension Project DCS 提供1E DCS T3 试验规格书，详细阐述了T3 试\n验原理、授权管理、测试接口和范围等相关内容。\n本文适用于 CPR1000 Extension Project DCS 安全级DCS T3 试验部分，适用对象为工程\n设计人员，测试人员以及其他相关设计人员。",
-    "did":1176
+    "did":1176,
+    "url":"0"
   },
   {
     "doc_name":"MELTAC平台Level1 BUS Map导入操作指导",
@@ -2859,7 +3076,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文详细描述 MELTAC 平台安全级DCS Level1 网络配置中的BUS Map 处理、导入方法，\n以指导和规范软件设计人员的操作步骤。\n本文件适用于 CPR1000 项目中MELTAC 平台安全级DCS Level1 软件设计。",
-    "did":1050
+    "did":1050,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"Changed Items List 模板",
@@ -2872,7 +3090,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1086
+    "did":1086,
+    "url":"0"
   },
   {
     "doc_name":"安全级DCS通信清单设计规范",
@@ -2885,7 +3104,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本规范详细阐述了 CPR1000 项目安全级DCS 各系统通信清单的设计方法，用以指导安全\n级DCS 设计人员应用MELTAC-NplusR3 平台，依据BD/SD 图等上游输入文件，结合安全级\nDCS 网络通信方式进行安全级DCS 通信清单的设计工作。\n本规范适用于北京广利核系统工程有限公司(CTEC)承担的基于MELTAC-NplusR3 平台的\nCPR1000 项目安全级DCS 各系统通信清单的设计，基于其它平台的安全级DCS 通信清单设计\n的相关工作可参考本规范执行。",
-    "did":1177
+    "did":1177,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS接线图(PDP)检查内容表",
@@ -2898,7 +3118,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1087
+    "did":1087,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS接线图(PDP)检查内容表",
@@ -2911,7 +3132,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1267
+    "did":1267,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS系统硬件规格书",
@@ -2924,7 +3146,8 @@
     "act_category":"硬件设计",
     "refer_to":"Equipment Spec",
     "description":"本文依据安全级 DCS 硬件设计相关标准和规范，主要对安全级机柜的分类、尺寸、设备布\n局、机柜特性等方面作了描述，作为安全级机柜详细设计的参考及依据。",
-    "did":1178
+    "did":1178,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"核电站安全级DCS设计适用法律法规标准清单",
@@ -2937,7 +3160,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文分类归纳了 CPR1000 安全级数字化仪控系统（RPS）的设计原则与法规、标准的对应\n关系，整理、列举了安全级数字化仪控系统设计中适用的法律、法规、导则、标准。\n作为设计输入的组成部分，安全级数字化仪控系统设计中采用的法律法规、导则、规范和标\n准具有极其重要的地位。核电厂在选址、设计、建造、调试、运行和退役几个主要阶段必须遵循\n中华人民共和国、国务院、国家核安全局和国家环保总局等有关部门颁布的法律、法规、导则、\n规范和标准的要求。安全级仪控系统的设计、设备制造、采购、集成及测试过程中，必须确定法\n规、导则、规范的采用原则，并编制目录清单。",
-    "did":1179
+    "did":1179,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS现场安装指导",
@@ -2950,7 +3174,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文档主要描述核电站CPR1000安全级DCS现场设备安装阶段TA工作的范围及技术要求。\n本文档适用于核电站CPR1000 安全级DCS 项目现场安装阶段TA 工作，供安全级DCS 技术\n人员参考。",
-    "did":1055
+    "did":1055,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"核电站安全级DCS现场调试指导",
@@ -2963,7 +3188,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文档主要描述核电站CPR1000安全级DCS现场设备调试阶段TA 工作范围、技术要求、工\n作流程以及工作中的注意事项。\n本文档适用于核电站CPR1000安全级DCS项目现场调试阶段TA 人员使用。",
-    "did":1056
+    "did":1056,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"详细IO清单检查内容表",
@@ -2976,7 +3202,8 @@
     "act_category":"检查",
     "refer_to":"IO List",
     "description":"none",
-    "did":1088
+    "did":1088,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"ATWS详细IO清单检查内容表",
@@ -2989,7 +3216,8 @@
     "act_category":"检查",
     "refer_to":"IO List",
     "description":"none",
-    "did":1089
+    "did":1089,
+    "url":"0"
   },
   {
     "doc_name":"安全级DCS机柜复原图检查内容表",
@@ -3002,7 +3230,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1090
+    "did":1090,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜解体图检查内容表",
@@ -3015,7 +3244,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1091
+    "did":1091,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS现场安装和调试流程概述",
@@ -3028,7 +3258,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文描述了核电站安全级DCS系统现场安装和调试基本流程和相关工作内容，是核电站安全级\nDCS 现场服务人员了解现场安装和调试流程的入门级技术文件，旨在为安全级DCS 现场服务人员提\n供指导和帮助。\n本文件适用于北京广利核系统工程有限公司(CTEC)承担的基于MELTAC 平台的安全级DCS 现场\n安装指导和调试指导工作，基于其它平台的安全级DCS现场安装指导和调试指导工作可参考本文件\n执行。",
-    "did":1180
+    "did":1180,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS Level1 基本IO清单检查内容表",
@@ -3041,7 +3272,8 @@
     "act_category":"检查",
     "refer_to":"IO List",
     "description":"none",
-    "did":1092
+    "did":1092,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"卡件设定清单检查内容表",
@@ -3054,7 +3286,8 @@
     "act_category":"检查",
     "refer_to":"card setting",
     "description":"none",
-    "did":1093
+    "did":1093,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"解体图&复原图&Packing List制作指导",
@@ -3067,7 +3300,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文主要阐述了核电站CPR1000 的机柜解体图，复原图，发货清单的制作说明，用来指导工\n程设计人员的制图。\n本文适用于核电站CPR1000 的机柜出厂前的机柜拆解和出厂后的安装复原操作。",
-    "did":1051
+    "did":1051,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"CPR1000安全级设计(Level1) ClearCase文件放置细则",
@@ -3080,7 +3314,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"针对CPR100项目的安全级Levle1设计接口复杂、文件繁多、过程不易跟踪的情况，为了保证\n设计过程中的文档版本清晰、结果唯一、设计质量可控、可追溯，并保障文档安全不丢失，特起草\n该文档，作为设计过程中电子文档的管理依据。",
-    "did":1057
+    "did":1057,
+    "url":"0"
   },
   {
     "doc_name":"工程部五组文件发放范围规定",
@@ -3093,7 +3328,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"对 CPR1000 DCS 项目实施过程中的工程部五组的设计文件发放范围做出规定，保证文件发\n放范围的一致性。\n适用于北京广利核系统工程有限公司 CPR1000 安全级DCS 项目实施过程中工程部五组的设\n计输出文件。其他工程项目文件的发放范围可参考本文件执行。",
-    "did":1181
+    "did":1181,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级设计输入输出评审规范",
@@ -3106,7 +3342,8 @@
     "act_category":"文件评审",
     "refer_to":"n.a",
     "description":"核电站安全级工程设计输入输出文件需要进行评审，用以保证设计输入文件被正确确认并满足设计活动的要求，保证设计输出文件得到有效控制。本文件用来规范安全级工程设计输入输出文件的评审活动，明确评审人员、依据、对象和方式。本文件适用于北京广利核系统工程有限公司（CTEC）承担的核电站安全级DCS工程设计项目。",
-    "did":1182
+    "did":1182,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级设计输入输出评审规范",
@@ -3119,7 +3356,8 @@
     "act_category":"文件评审",
     "refer_to":"n.a",
     "description":"none",
-    "did":1275
+    "did":1275,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS CIN检查内容表",
@@ -3132,7 +3370,8 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"none",
-    "did":1094
+    "did":1094,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%20AT%C8%ED%BC%FE%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS level1 编码规范",
@@ -3145,7 +3384,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文件描述了核电站安全级 DCS level1 编码规范，目的是指导安全级DCS 设计人员进行安全级\nlevel1 控制系统软硬件的编码设计。\n本文件基于三菱 MELTAC 平台，以红沿河1 号机组的设计为参考，适用于北京广利核系统工程\n有限公司承担的所有基于MELTAC 平台的新建核电站安全级DCS level1 的工程设计。",
-    "did":1183
+    "did":1183,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS level1 标牌与标签设计规范",
@@ -3158,7 +3398,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文件描述了核电站安全级 DCS level1 标牌与标签设计规范，用以指导安全级DCS 设计人员进\n行安全级level1 标牌与标签设计。\n本文以红沿河 1 号机组的设计为参考，适用于北京广利核系统工程有限公司承担的所有基于\nMELTAC-N plus R3 平台的新建核电站安全级DCS level1 的工程设计，基于其它平台的核电站安全\n级DCS 的工程设计可参考执行。",
-    "did":1184
+    "did":1184,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS 基本IO点表设计规范",
@@ -3171,7 +3412,8 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"本文件的目的是指导设计人员进行安全级 DCS 系统基本设计的IO 点表（所有安全级DCS 的\n硬接线点）的设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n所有新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的系统的改造设计。",
-    "did":1185
+    "did":1185,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级机柜内电源分配设计规范",
@@ -3184,7 +3426,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文档依据相关标准和规范，规定了核电站安全级机柜内电源分配设计规范，用以指导\n核电站安全级 DCS系统详细设计阶段的机柜内电源分配设计。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)\n承担的所有新建核电站安全级DCS 的工程设计，以及在役核电站安全级DCS 的系统的改\n造设计。",
-    "did":1186
+    "did":1186,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"MALTAC平台控制器容量配置规范",
@@ -3197,7 +3440,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本规范规定了安全级 DCS 系统中应用MELENS 工具进行软件设计时，配置控制器容量（Point\nNo. allocation）的原则和方法，指导设计人员根据此规范制定控制器容量的设定范围。\n本文件以红沿河 1/2 号机组的设计为基础，适用于北京广利核系统工程有限公司(CTEC)承担的\n基于三菱MALTAC 平台的新建核电站安全级DCS 的控制器容量设计，对使用MELTAC 平台的在\n役核电站安全级DCS 系统的控制器容量配置改造具有指导作用。",
-    "did":1187
+    "did":1187,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"RPC自动测试台操作显示规格书",
@@ -3210,7 +3454,8 @@
     "act_category":"画面组态",
     "refer_to":"n.a",
     "description":"本文件详细描述了应用于 CPR1000 扩展性项目DCS的RPC 自动测试装置操作终端的显示说明。",
-    "did":1188
+    "did":1188,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"安全级DCS通用设备规格书",
@@ -3223,7 +3468,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件描述的是 MELTAC-Nplus R3 设备说明书的一部分，它是在红沿河CPR1000 扩展性项目\n中最近更新的内容。",
-    "did":1189
+    "did":1189,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级IED文件图纸变更流程",
@@ -3236,7 +3482,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文件的目的是规范CPR1000项目安全级IED文件图纸变更流程，明确文件版本控制方法及文\n件存储路径。\n本文件适用于北京广利核系统工程有限公司(以下简称广利核)承担新建核电站安全级DCS\nlevel1的工程设计。适用于为了快速解决设计中或者测试活动中发现的问题，现有核电站改造项目\n安全级DCS的设计流程可参考执行。",
-    "did":1190
+    "did":1190,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全专设系统自动试验台设备规格书",
@@ -3249,7 +3496,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件是对CPR1000 项目RPS（Reactor Protection Systems）系统的自动测试装置进行说明。\nCPR1000 项目RPS 系统自动测试装置是由两部分组成的，一部分是RPC（Reactor Protection\nCabinet）的自动测试装置，另一部分是ESFAS（ESF Actuation Systems）的自动测试装置。本文\n件主要介绍ESFAS 自动测试装置，RPC 自动测试装置在其它文件中进行阐述。",
-    "did":1191
+    "did":1191,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全专设系统自动试验台操作显示规格书",
@@ -3262,7 +3510,8 @@
     "act_category":"画面组态",
     "refer_to":"n.a",
     "description":"本文是对 CPR1000 扩展项目的ESFAS 自动测试装置（下文简称为AT）测试面板的操作显\n示进行说明的。",
-    "did":1192
+    "did":1192,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"RPC自动测试装置规格书",
@@ -3275,7 +3524,8 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文件是对 CPR1000 项目RPS（Reactor Protection Systems）系统的自动测试装置进行说明。\nCPR1000 项目RPS 系统自动测试装置是由两部分组成的，一部分是RPC（Reactor Protection Cabinet）\n的自动测试装置，另一部分是ESFAS（ESF Actuation Systems）的自动测试装置。本文件主要介绍\nRPC 自动测试装置，ESFAS 自动测试装置在其它文件中进行阐述。",
-    "did":1193
+    "did":1193,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"MELTAC平台控制器容量配置操作指导",
@@ -3288,7 +3538,8 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"本文用来指导在 MELENS 工程工具下配置控制器容量的操作方法。\n本文件适用于基于 MELTAC 平台的控制器容量配置过程。",
-    "did":1052
+    "did":1052,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/E-Q03-120146_A_CFC%20%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9%D0%C2%D4%B1%B9%A4%D7%AA%D5%FD%B1%A8%B8%E6%B1%E0%D0%B4%D6%B8%B5%BC"
   },
   {
     "doc_name":"工程部五组ClearCase服务器文件管理指导",
@@ -3301,7 +3552,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文的目的是规范工程部五组CPR1000项目使用的ClearCase服务器的文件管理，明确文件存储\n路径及方法。\n本文适用于工程部五组CPR1000项目ClearCase服务器的文件管理工作。",
-    "did":1058
+    "did":1058,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"工程部五组ClearCase服务器文件管理指导",
@@ -3314,7 +3566,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文的目的是规范工程部五组CPR1000项目使用的ClearCase服务器的文件管理，明确文件存储\n路径及方法。",
-    "did":1194
+    "did":1194,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"ClearQuest使用操作指导",
@@ -3327,7 +3580,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文主要介绍了作为缺陷修改人的CQ 使用操作步骤，CQ 的前期安装步骤不在本文描述范围\n之内。本文只介绍本机客户端CQ 使用步骤。\n适用于公司项目/产品开发过程中发生的缺陷跟踪。\n本文主要是针对缺陷修改人的操作规范，所以只适合缺陷修改人使用，不适合其他级别的人员\n使用，如缺陷提交人，缺陷审核人，缺陷评估人，缺陷验证人等。",
-    "did":1053
+    "did":1053,
+    "url":"0"
   },
   {
     "doc_name":"电缆清册检查内容表",
@@ -3340,7 +3594,8 @@
     "act_category":"检查",
     "refer_to":"Cable",
     "description":"none",
-    "did":1095
+    "did":1095,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"线缆清册模板",
@@ -3353,7 +3608,8 @@
     "act_category":"硬件设计",
     "refer_to":"Cable",
     "description":"none",
-    "did":1096
+    "did":1096,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%CA%C2%B9%CA%BA%F3%BC%E0%CA%D3%CF%B5%CD%B3%A3%A8SpeedyHold%C6%BD%CC%A8%A3%A9%CA%FD%BE%DD%BF%E2%D7%E9%CC%AC%B9%E6%B7%B6%20Rev.A.pdf"
   },
   {
     "doc_name":"安全级DCS机柜装配接线图检查内容表",
@@ -3366,7 +3622,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1097
+    "did":1097,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜装配接线图纸检查内容表",
@@ -3379,7 +3636,8 @@
     "act_category":"检查",
     "refer_to":"WD(IF)",
     "description":"none",
-    "did":1260
+    "did":1260,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜安装布置图纸检查内容表",
@@ -3392,7 +3650,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1098
+    "did":1098,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级DCS机柜安装布置图纸检查内容表",
@@ -3405,7 +3664,8 @@
     "act_category":"检查",
     "refer_to":"Arrangement",
     "description":"none",
-    "did":1127
+    "did":1127,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"安全级机柜装配图设计指导",
@@ -3418,7 +3678,8 @@
     "act_category":"硬件设计",
     "refer_to":"Assembly",
     "description":"本文件用于指导和规范广利核公司工程部安全级设计人员设计和绘制机柜装配图，帮助其他\n非设计人员阅读和熟悉机柜装配图。",
-    "did":1195
+    "did":1195,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":" 安全级机柜装配图设计规范",
@@ -3431,7 +3692,8 @@
     "act_category":"硬件设计",
     "refer_to":"Assembly",
     "description":"none",
-    "did":1276
+    "did":1276,
+    "url":"0"
   },
   {
     "doc_name":"安全级系统柜间1E级K3类电缆技术规格书",
@@ -3444,7 +3706,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本说明书模板对安全级系统1E 级K3 类电缆需求说明书内容编写的格式和参数的要求做了一些基\n本的规定。\n用于指导CRP1000核电站安全级机柜间CTEC供货范围内的1E级K3类电缆采购,适用于电缆供应商，\n采购人员，安全级系统设计人员。",
-    "did":1196
+    "did":1196,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS系统1E级电气类产品技术规格书",
@@ -3457,7 +3720,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文适用于安全级仪控系统中使用1E级电气类产品的选型，为电气类产品的选型提供依据。\n适用于安全级使用的电气类产品，可以作为安全级设计、质检、采购等人员的过程设计或输入参\n考文件。",
-    "did":1197
+    "did":1197,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS系统1E级光缆技术规格书",
@@ -3470,7 +3734,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文适用于安全级仪控系统中使用1E级光缆的选型，为光缆的选型提供依据。\n本文适用于工程部五组CPR1000项目ClearCase服务器的文件管理工作。\n适用于安全级使用的多模和单模光纤光缆，可以作为安全级设计、质检、采购等人员的过程设\n计或输入参考文件。",
-    "did":1198
+    "did":1198,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%CD%F8%B9%D8%B8%A8%D6%FA%CD%A8%D0%C5%C7%E5%B5%A5%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.B"
   },
   {
     "doc_name":"安全级DCS设计质量控制现状及风险分析",
@@ -3483,7 +3748,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"核电站安全级DCS设计最重要的就是保证质量，每个从事安全级设计的人必须站在确保\n核电站安全的高度，认真负责的完成每张图纸的设计。本文通过对广利核公司工程部5组（安\n全级设计组）安全级设计质量控制现状的分析，及时发现目前可能存在的设计质量风险，提\n出完善和纠正措施，确保安全级设计质量。",
-    "did":1199
+    "did":1199,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS工程设计流程",
@@ -3496,7 +3762,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"none",
-    "did":1277
+    "did":1277,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS现场改造流程",
@@ -3509,7 +3776,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文件用于指导工程部工程人员现场安全级 DCS 现场改造，规定其职责范围，工作流程等相关\n事宜。\n本文适用于北京广利核系统工程有限公司（CTEC）工程部安全级DCS 项目现场改造工作指导。\n其他项目参考执行。因红沿河核电1、2 号机组的现场改造由三菱执行，不适用于本程序；宁德核电\n1、2 号机组由三菱设计，CTEC 执行现场改造，职能分工有所不同，见备注。",
-    "did":1200
+    "did":1200,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS现场改造流程",
@@ -3522,7 +3790,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"none",
-    "did":1278
+    "did":1278,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"工程部五组应用CQ平台处理现场问题流程及使用方法",
@@ -3535,7 +3804,8 @@
     "act_category":"现场支持",
     "refer_to":"n.a",
     "description":"本文用于指导工程部五组工程人员使用CQ 平台处理现场问题的工作流程及使用方法。\n本文适用于北京广利核系统工程有限公司（CTEC）工程部安全级DCS 项目现场安装、调试环节\n中产生问题的工作指导。其他项目参考执行。",
-    "did":1201
+    "did":1201,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"商品级物项适用性确认流程",
@@ -3548,7 +3818,8 @@
     "act_category":"硬件设计",
     "refer_to":"n.a",
     "description":"本文描述了商品级物项在安全级仪控系统领域内使用的适用性确认程序、指南，以指导实际工\n作。通过本适用性确认流程，可以证明该物项在质量上与按照HAF003 生产的设备是相当的。\n本文适用于安全级仪控系统的商品级物项选型工作，本文预期的阅读人员为项目管理人员、设\n计人员、采购人员，以及对本项目负有质量监管责任的其他人员。",
-    "did":1202
+    "did":1202,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"工程部五组新员工转正报告编写指导",
@@ -3561,7 +3832,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文档阐明了工程部五组新员工编写转正报告的意义，明确了转正报告的编写内容、文件形式\n和完成时间，有益于指导新员工在试用期间的工作学习和能力培养。\n本文档适用于北京广利核系统工程有限公司（CTEC）工程部五组内处于试用期的新员工。",
-    "did":1054
+    "did":1054,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"核电站安全级DCS软件紧急传递流程",
@@ -3574,7 +3846,8 @@
     "act_category":"现场支持",
     "refer_to":"Software",
     "description":"本程序适用于北京广利核系统工程有限公司（以下简称CTEC）所承担的CPR1000 扩建工程中\nCTEC 负责设计的安全级DCS 软件在设备出厂后的内部紧急传递。当出现CTEC 负责设计的安全级\nDCS 软件无法及时通过光盘或其他介质传递到现场施工人员手中时采用本流程进行软件传递。\n该文件明确了安全级DCS 软件紧急传递流程中各个阶段执行人及其责任，确保安全级DCS 软\n件安全、可靠、及时传送到各个核电现场。",
-    "did":1203
+    "did":1203,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"工程部五组技术管理运作规则",
@@ -3587,7 +3860,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本规则规定了工程部五组的技术管理运作规则，明确了五组内部技术管理小组的组成原则、\n工作职责及组内日常技术管理的要求，目的是为了促进工程部五组技术管理规范化，更好的解决\n安全级DCS设计过程中的技术问题，强化组内技术的持续积累和有效分享，全面提升组内技术能\n力和设计质量。",
-    "did":1204
+    "did":1204,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"工程部5组新员工入职指导规范",
@@ -3600,7 +3874,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"为了使工程部5 组新入职员工了解和熟悉对公司各项规章制度以及组内的工作范围和内容，对\n担任入职指导人的员工工作进行规范，能够在试用期内具备岗位工作条件，本文对担任新员工试用\n期指导人的员工工作进行规范。\n本文适用于工程部5组全体员工。",
-    "did":1205
+    "did":1205,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"工程部五组管理手册",
@@ -3613,7 +3888,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"为规范工程部五组的工作流程，明确职责分工，提高工作效率和质量，本文特对工程部五组的\n以下内容进行描述：\n(1) 确定了工程部五组的组织结构；\n(2) 明确了工程部五组各成员的职责分工；\n(3) 规范了工程部五组项目管理和日常管理。\n注：本文上游参照文件为《工程部管理手册》（E08-G2-000117）。本文与上游文件差异之处，以\n上游文件内容为准。\n本文件适用于工程部五组内技术管理小组的日常运作与管理及组内技术管理工作。",
-    "did":1206
+    "did":1206,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%D7%E9%CC%AC%BC%C6%CB%E3%BB%FA%B9%DC%C0%ED%B9%E6%B6%A8%20Rev.A"
   },
   {
     "doc_name":"安全级DCS设计资质管理规定",
@@ -3626,7 +3902,8 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"本文规定对从事安全级 DCS 设计（含定期测试、RPCC 设计等工程五组承接的非安全级\n部分设计）的人员，按技能水平进行技能分级考核认证。本文规定出各个技能分级的发证对\n象、技能要求和考核方式。本规定实施后只有经考核获得相应的技能资质后，才可从事相应\n等级的工作。\n适用范围是在工程五组负责的工程项目中，进行设计工作的人员。",
-    "did":1207
+    "did":1207,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(MELTAC)%CF%EA%CF%B8IO%C7%E5%B5%A5%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
     "doc_name":"基于FirmSys产品安全级DCS工程设计文件体系",
@@ -3639,6 +3916,7 @@
     "act_category":"基本设计",
     "refer_to":"n.a",
     "description":"本文描述了基于FirmSys 产品的安全级DCS 工程设计的文件体系结构，简述了各类文件的相\n互关系和内容要点，目的是建立安全级设计的标准化文件体系。\n本文档适用于北京广利核系统工程有限公司(以下简称广利核)承担所有基于FirmSys产品的\n压水堆核电站安全级DCS的工程设计工作。其他基于FirmSys产品的安全级DCS项目工程设计可参\n考此文件执行。\n本文档的预期读者为项目管理人员、工程设计人员，以及对本项目负有质量监管责任的其他\n人员。",
-    "did":1208
+    "did":1208,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%BA%CB%B5%E7%D5%BE%B0%B2%C8%AB%BC%B6DCS%BB%FA%B9%F1%C9%E8%B1%B8%C7%E5%B5%A5%C9%E8%BC%C6%D6%B8%B5%BC%20Rev.A"
   }
 ]

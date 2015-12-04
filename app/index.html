@@ -17,12 +17,14 @@
     <div class="logo">
       <img src="images/logo.png" alt="">
     </div>
-    <div class="nav">
-      <a href="#/">主  页</a>
-      <a href="#/about">本站介绍</a>
-      <a href="#/hardware-query">设备查询</a>
-      <a href="#/doc-q">文档查询</a>
-      <a href="#/wiki">wiki</a>
+    <div class="nav" ng-controller="HeadController as headCtrl">
+      <ul>
+        <li ng-class="{ active: headCtrl.isActive('/') }"><a href="#/">主  页</a></li>
+        <li ng-class="{ active: headCtrl.isActive('/about') }"><a href="#/about">本站介绍</a></li>
+        <li ng-class="{ active: headCtrl.isActive('/hardware-query') }"><a href="#/hardware-query">设备查询</a></li>
+        <li ng-class="{ active: headCtrl.isActive('/doc-q') }"><a href="#/doc-q">文档查询</a></li>
+        <li ng-class="{ active: headCtrl.isActive('/wiki') }"><a href="#/wiki">wiki</a></li>
+      </ul>
     </div>
   </div>
   <div ng-view></div>

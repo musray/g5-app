@@ -22,11 +22,19 @@ body {
 }
 
 .nav {
-  text-align: center;
   text-decoration: none;
   margin-top: 90px;
   width: 70%;
   float: left;
+}
+
+.nav ul {
+  text-align: center;
+  margin-left: 35%;
+}
+.nav ul li {
+  float: left;
+  list-style: none;
 }
 
 .nav a {
@@ -34,6 +42,10 @@ body {
 }
 .nav a:hover {
   background-color: lightpink;
+}
+
+.active a {
+  background-color: lightblue;
 }
 
 h1.main_title {

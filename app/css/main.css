@@ -9,11 +9,15 @@ body {
 
 .header {
   padding-top: 5px;
-  overflow: auto;
   width: 100%;
   text-align: center;
-  overflow: auto;
+  /* overflow: auto; */
   border-bottom: 1px solid gray;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  background-color: darkblue;
+  background-image: linear-gradient(45deg, #8AB3BF, #C1CD89); 
 }
 
 .logo {
@@ -26,22 +30,60 @@ body {
   margin-top: 90px;
   width: 70%;
   float: left;
+  /* min-width: 600px; */
 }
 
-.nav ul {
+.nav > ul {
   text-align: center;
-  margin-left: 35%;
+  margin-left: 10%;
+  list-style: none;
+  position: relative;
+  display: inline-table;
 }
-.nav ul li {
+
+.nav > ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.nav > ul > li {
   float: left;
   list-style: none;
 }
 
 .nav a {
-  padding: 20px 10px 10px 10px;
+  padding: 20px 20px 10px 20px;
+  text-decoration: none;
 }
-.nav a:hover {
-  background-color: lightpink;
+
+/* .nav a:hover { */
+/*   background-color: lightpink; */
+/* } */
+
+.main-nav-list:hover > ul {
+  display: block;
+}
+
+.main-nav-list > a:after {
+  content:"\25BE";
+  /* font-size: 30%; */
+  border: 1px solid grey;
+  border-radius: 50% 50% 50% 50%;
+}
+
+.sub-nav-list {
+  display: none;
+  position: absolute;
+  top: 100%;
+  padding-left: 10px;
+}
+
+.sub-nav-list li {
+  list-style: none;
+  text-align: left;
+  float: none;
+  position: relative;
 }
 
 .active a {
@@ -54,6 +96,12 @@ h1.main_title {
 .content {
   width: 80%;
   margin: 0px auto;
+}
+
+.container {
+  position: relative;
+  top: 150px;
+  z-index: 1;
 }
 
 .query_control {

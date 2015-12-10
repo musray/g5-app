@@ -8,3 +8,4 @@ tmp
 dummy/
 url/
 npm-debug.log
+*.swp 

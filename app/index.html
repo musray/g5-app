@@ -2,7 +2,7 @@
 <html lang="en" ng-app='g5App'>
 <head>
   <meta charset="UTF-8">
-  <title>g5 app</title>
+  <title>T.E.A.M</title>
   <link rel="stylesheet" href="css/960_12_col.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="shortcut icon" href="./images/favicon.png">
@@ -20,20 +20,40 @@
     </div>
     <div class="nav" ng-controller="HeadController as headCtrl">
       <ul>
-        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/') }"><a href="#/">主  页</a>
+
+        <!-- manual - 使用指南 -->
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/') }"><a href="">使用指南</a>
           <ul class="sub-nav-list">
-            <li><a href="">功能介绍</a></li>
+            <li><a href="#/about">功能介绍</a></li>
             <li><a href="">开发信息</a></li>
           </ul>
-        </li>
-        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/about') }"><a href="#/about">R.P.S</a>
+          </li> 
+
+        <!-- manual - R.P.S -->
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/hardware-query') }"><a href="">R.P.S</a>
           <ul class="sub-nav-list">
-            <li><a href="">Reactor Trip</a></li>
-            <li><a href="">ESF</a></li>
+            <li><a href="">Reactor Protection</a></li>
+            <li><a href="#/hardware-query">ESF</a></li>
           </ul>
         </li>
-        <li ng-class="{ active: headCtrl.isActive('/hardware-query') }"><a href="#/hardware-query">设备查询</a></li>
-        <li ng-class="{ active: headCtrl.isActive('/doc-q') }"><a href="#/doc-q">文档查询</a></li>
+
+        <!-- manual D.C.S -->
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/none') }"><a href="">D.C.S</a>
+          <ul class="sub-nav-list">
+            <li><a href="">板卡信息</a></li>
+            <li><a href="">平台维护</a></li>
+          </ul>
+        </li>
+
+        <!-- manual 查询系统 -->
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/doc-q') }"><a href="">查询系统</a>
+          <ul class="sub-nav-list">
+            <li><a href="#/doc-q">工作文档</a></li>
+            <li><a href="">缩写查询</a></li>
+          </ul>
+        </li>
+
+        <!-- manual wiki -->
         <li ng-class="{ active: headCtrl.isActive('/wiki') }"><a href="#/wiki">wiki</a></li>
       </ul>
     </div>

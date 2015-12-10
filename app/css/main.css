@@ -5,6 +5,7 @@ body {
   font-size: 85%;
   margin: 0px auto;
   margin-bottom: 40px;
+  font-family: arial, sans-serif;
 }
 
 .header {
@@ -55,12 +56,16 @@ body {
 .nav a {
   padding: 20px 20px 10px 20px;
   text-decoration: none;
+  letter-spacing: 0.2em;
 }
 
 /* .nav a:hover { */
 /*   background-color: lightpink; */
 /* } */
 
+.main-nav-list {
+  position: relative;
+}
 .main-nav-list:hover > ul {
   display: block;
 }
@@ -68,15 +73,18 @@ body {
 .main-nav-list > a:after {
   content:"\25BE";
   /* font-size: 30%; */
-  border: 1px solid grey;
-  border-radius: 50% 50% 50% 50%;
+  border: 1px dotted grey;
+  border-radius: 30% 30% 30% 30%;
 }
 
 .sub-nav-list {
   display: none;
   position: absolute;
-  top: 100%;
-  padding-left: 10px;
+  /* top: 100%; */
+  left: 20px;
+  padding-left: 0px;
+  background-color: #7c807c;
+  width: 150px;
 }
 
 .sub-nav-list li {
@@ -84,11 +92,21 @@ body {
   text-align: left;
   float: none;
   position: relative;
+  padding: 5px 0px 5px 0px;
 }
 
-.active a {
-  background-color: lightblue;
+.sub-nav-list li:hover {
+  background-color: lightgrey;
 }
+
+.sub-nav-list a {
+  display: block;
+  padding: 5px 50px 5px 5px;
+}
+
+/* .active > a { */
+/*   background-color: lightblue; */
+/* } */
 
 h1.main_title {
   padding-left: 40px;
@@ -174,4 +192,9 @@ h2.no_bottom_margin {
 .author_message {
   padding-left: 40px; 
 }
-/* I should ues SAAS A.S.A.P */
+
+@media (max-width: 850px) {
+  .logo { display: none; }
+  .nav { width: 100%; padding-left: 50px; margin-top: 10px; }
+  .nav > ul { margin-left: 0px; }
+}

@@ -3,7 +3,8 @@ angular.module('g5App', [
     'g5App.introApp',
     'g5App.docApp',
     'g5App.equipmentApp',
-    'g5App.acronym'
+    'g5App.acronym',
+    'g5App.toolIndex'
 ])
   .config(['$routeProvider', function($routeProvider) {
     $routeProvider.otherwise({redirectTo: '/'});

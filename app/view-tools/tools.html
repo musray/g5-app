@@ -1,0 +1,57 @@
+<h1 class="main_title">设计工具</h1>
+
+<div class="container_12 clearfix">
+  <div class="page-note">
+    <p>本页收录了由五组自行开发的设计工具、效率软件等。且本页中的信息会随着软件升级而同步更新。<br />
+      如果你发现此处收录的软件非最新版本，或有遗漏，麻烦 <a href="mailto:churui.ctecdcs.net">发内邮联系我</a>。谢谢。
+    </p>
+  </div>
+
+  <div class="grid_3 side_checkbox">
+
+    <h2 class="section_title">筛选</h2>
+
+    <!-- 筛选1 选择适用文件 -->
+    <div class="query_control">
+      <label>按项目查询</label>
+      <select class="long_input_bar" ng-model="usage"
+                           ng-options="c.platform as c.platform for c in toolCtrl.selectOptions['platform']">
+      </select>
+    </div>
+
+    <!-- 筛选2 模糊关键字 -->
+    <label for="searchbox">模糊检索</label>
+    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
+
+
+  </div>  <!-- class grid_3 side_checkbox -->
+
+  <div class="grid_9 result_content">
+    
+    <h2 class="section title">检索结果</h2>
+    <table class="query_table">
+      <thead>
+        <tr>
+          <th scope="col" class="md_tab_col">下载</th>
+          <th scope="col" class="md_tab_col">工具名称</th>
+          <th scope="col" class="md_tab_col">最新版本</th>
+          <th scope="col" class="md_tab_col">简介</th>
+          <th scope="col" class="lg_tab_col">使用介绍</th>
+          <th scope="col" class="lg_tab_col">开发者</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="item in (toolCtrl.items | filter: toolCtrl.hardCodeFilter[usage] | filter: query)">
+
+          <td>{{item.url}}</td>
+          <td>{{item.tool}}</td>
+          <td>{{item.lastest_ver}}</td>
+          <td>{{item.function_description}}</td>
+          <td>{{item.usage}}</td>
+          <td>{{item.developer}}</td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>   <!-- class grid_9 result_content -->
+</div>

@@ -211,6 +211,16 @@ h2.no_bottom_margin {
   .nav > ul { margin-left: 0px; }
 }
 
+.main-page-container {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background: linear-gradient(0deg, rgba(0,0,0,.05) 1px, transparent 1px),
+  linear-gradient(0deg, rgba(0,0,0,.1) 1px, transparent 1px),
+  linear-gradient(90deg, rgba(0,0,0,.05) 1px, transparent 1px),
+  linear-gradient(90deg, rgba(0,0,0,.1) 1px, transparent 1px);
+  background-size: 10px 10px, 50px 50px, 10px 10px, 50px 50px;
+}
+
 .main-page-feature {
   margin-top: 50px;
   text-align: center;
@@ -239,6 +249,7 @@ h2.no_bottom_margin {
 .float-elem h1 {
   padding-left: 0px;
 }
+
 .main-page-button {
   text-align: center;
   margin:60px auto;

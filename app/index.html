@@ -10,6 +10,7 @@
   <script src="bower_components/angular-route/angular-route.js"></script>
   <script src="./app.js"></script>
   <script src="./view-howto/howto-controller.js"></script>
+  <script src="./view-dev/dev-controller.js"></script>
   <script src="./view-doc-q/doc-q-controller.js"></script>
   <script src="./view-main/main-controller.js"></script>
   <script src="./view-equipment-q/equipmentApp.js"></script>
@@ -19,18 +20,13 @@
 <body>
   <div class="header">
     <div class="logo">
-      <img src="images/logo.png" alt="">
+      <a href="#/">
+        <img src="images/logo.png" alt="">
+      </a>
     </div>
     <div class="nav" ng-controller="HeadController as headCtrl">
       <ul>
 
-        <!-- manual - 使用指南 -->
-        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/') }"><a href="">使用指南</a>
-          <ul class="sub-nav-list">
-            <li><a href="#/howto">功能介绍</a></li>
-            <li><a href="#/development">开发信息</a></li>
-          </ul>
-          </li> 
 
         <!-- manual - R.P.S -->
         <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/hardware-query') }"><a href="">R.P.S</a>
@@ -57,8 +53,16 @@
           </ul>
         </li>
 
+        <!-- manual - 使用指南 -->
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/') }"><a href="">使用指南</a>
+          <ul class="sub-nav-list">
+            <li><a href="#/howto">功能介绍</a></li>
+            <li><a href="#/dev">开发信息</a></li>
+          </ul>
+          </li> 
+
         <!-- manual wiki -->
-        <li ng-class="{ active: headCtrl.isActive('/wiki') }"><a href="#/wiki">wiki</a></li>
+        <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/wiki') }"><a href="#/wiki">wiki</a></li>
       </ul>
     </div>
   </div>

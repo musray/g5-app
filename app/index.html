@@ -8,12 +8,12 @@
   <link rel="shortcut icon" href="./images/favicon.png">
   <script src="bower_components/angular/angular.min.js"></script>
   <script src="bower_components/angular-route/angular-route.js"></script>
-  <script src="app.js"></script>
-  <script src="view-doc-q/doc-q-controller.js"></script>
-  <script src="view-intro/introApp.js"></script>
-  <script src="view-equipment-q/equipmentApp.js"></script>
-  <script src="view-acronym/acronym-controller.js"></script>
-  <script src="view-tools/tools-controller.js"></script>
+  <script src="./app.js"></script>
+  <script src="./view-doc-q/doc-q-controller.js"></script>
+  <script src="./view-main/main-controller.js"></script>
+  <script src="./view-equipment-q/equipmentApp.js"></script>
+  <script src="./view-acronym/acronym-controller.js"></script>
+  <script src="./view-tools/tools-controller.js"></script>
 </head>
 <body>
   <div class="header">
@@ -26,8 +26,8 @@
         <!-- manual - 使用指南 -->
         <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/') }"><a href="">使用指南</a>
           <ul class="sub-nav-list">
-            <li><a href="#/about">功能介绍</a></li>
-            <li><a href="">开发信息</a></li>
+            <li><a href="#/howto">功能介绍</a></li>
+            <li><a href="#/development">开发信息</a></li>
           </ul>
           </li> 
 

@@ -1,7 +1,7 @@
 angular.module('g5App', [
     'ngRoute',
     'g5App.mainView',
-    // 'g5App.howTo',
+    'g5App.howTo',
     'g5App.docApp',
     'g5App.equipmentApp',
     'g5App.acronym',

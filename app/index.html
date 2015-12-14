@@ -16,6 +16,7 @@
   <script src="./view-equipment-q/equipmentApp.js"></script>
   <script src="./view-acronym/acronym-controller.js"></script>
   <script src="./view-tools/tools-controller.js"></script>
+  <script src="./view-reactor_trip/rt_controller.js"></script>
 </head>
 <body>
   <div class="header">
@@ -31,7 +32,7 @@
         <!-- manual - R.P.S -->
         <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/hardware-query') }"><a href="">R.P.S</a>
           <ul class="sub-nav-list">
-            <li><a href="">Reactor Protection</a></li>
+            <li><a href="#/reactor_trip">Reactor Protection</a></li>
             <li><a href="#/hardware-query">ESF</a></li>
           </ul>
         </li>

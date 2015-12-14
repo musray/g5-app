@@ -5,6 +5,7 @@ angular.module('g5App', [
     'g5App.devApp',
     'g5App.docApp',
     'g5App.equipmentApp',
+    'g5App.rtApp',
     'g5App.acronym',
     'g5App.toolIndex'
 ])

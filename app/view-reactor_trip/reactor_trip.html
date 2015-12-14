@@ -1,0 +1,86 @@
+<h1 class="main_title">传感器、阈值与停堆功能</h1>
+<div class="container_12 clearfix">
+  
+  <div class="grid_3 side_checkbox">
+    
+      <h2 class="section_title">筛选</h2>
+
+      <!-- 功能筛选1 check box for safety injection filtering-->
+      <div class="query_control">
+        <label for="si-check-box">reserve</label>
+        <input type="checkbox"
+               name="si-check-box"
+               ng-model="siChecked"
+               ng-true-value="'siChecked'"
+               ng-false-value="">
+      </div>
+      
+      <!-- 功能筛选 模糊关键字 -->
+      <label for="searchbox">使用模糊关键字</label>
+      <input type="text" id="searchbox" ng-model="query">
+  
+
+    <h2 class="section_title no_bottom_margin">排序</h2>
+    <p class="footnote">默认按机柜号排序</p>
+
+    <div class="query_control">
+      <label for="sort_by_local_sys">reserved</label>
+      <input type="checkbox"
+             name="sort_by_local_sys"
+             ng-model="sortByLocalSys"
+             ng-true-value="'local_sys'"
+             ng-false-value="''">
+    </div>
+
+    <button ng-click="equipCtrl.reOrder([sortByLocalSys, sortByCategory])()">排序</button>
+
+    <h2 class="section_title">显示</h2>
+    
+    <!-- check box for dcs column show / hide -->
+    <div class="query_control">
+      <label for="description-col-show">reserve</label>
+      <input type="checkbox"
+             name="description-col-show"
+             ng-model="equipCtrl.columnShow.function_description"
+             ng-true-value="true"
+             ng-false-value="false">
+    </div>
+
+    <!-- check box for LD index column show / hide -->
+    <div class="query_control">
+      <label for="ld_index-col-show">reserve</label>
+      <input type="checkbox"
+             ng-model="equipCtrl.columnShow.ld_index"
+             ng-true-value="true"
+             ng-false-value="false">
+    </div>
+    
+    <!-- check box for local System column show / hide -->
+  </div>   <!-- grid_3 side_checkbox -->
+  
+  <div class="grid_9 result_content">
+
+    <h2 class="section title">查询结果: <span ng-bind="filteredItems.length"></span>条 |
+                  总记录 <span ng-bind="rtCtrl.items.length"></span>条</h2>
+
+    <table class="query_table">
+      <thead>
+        <tr>
+          <th scope="col" class="md_tab_col">Sensor ID</th>
+          <th scope="col" class="md_tab_col">DCS</th>
+          <th scope="col" class="md_tab_col">Sub Group</th>
+          <th scope="col" class="md_tab_col">BD Index</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="item in filteredItems = (rtCtrl.items |
+                                                filter: query)">
+          <td>{{item.Sensor_ID}}</td>
+          <td>{{item.DCS}}</td>
+          <td>{{item.Subsystem}}</td>
+          <td>{{item.BD_Index}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div> <!-- grid_9 result_content -->
+</div>  <!-- contianer_12 -->

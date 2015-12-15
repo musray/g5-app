@@ -10,3 +10,4 @@ url/
 npm-debug.log
 *.swp 
 todo.txt
+_bk_* 

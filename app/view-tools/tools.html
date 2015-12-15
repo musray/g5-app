@@ -41,7 +41,7 @@
       <tbody>
         <tr ng-repeat="item in (toolCtrl.items | filter: toolCtrl.hardCodeFilter[usage] | filter: query)">
 
-          <td><a href="{{item.url}}">{{item.tool}}</a></td>
+          <td><a href="{{item.url}}" target="_blank">{{item.tool}}</a></td>
           <td>{{item.lastest_ver}}</td>
           <td class="lg_tab_col">{{item.function_description}}</td>
           <td>{{item.developer}}</td>

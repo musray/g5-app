@@ -2,7 +2,7 @@
 <html lang="en" ng-app='g5App'>
 <head>
   <meta charset="UTF-8">
-  <title>T.E.A.M</title>
+  <title>TEAM</title>
   <link rel="stylesheet" href="css/960_12_col.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="shortcut icon" href="./images/favicon.png">
@@ -17,6 +17,7 @@
   <script src="./view-acronym/acronym-controller.js"></script>
   <script src="./view-tools/tools-controller.js"></script>
   <script src="./view-reactor_trip/rt_controller.js"></script>
+  <script src="./view-DCSComponent/dcscomp-controller.js"></script>
 </head>
 <body>
   <div class="header">
@@ -40,7 +41,7 @@
         <!-- manual D.C.S -->
         <li class="main-nav-list" ng-class="{ active: headCtrl.isActive('/none') }"><a href="">D.C.S</a>
           <ul class="sub-nav-list">
-            <li><a href="">板卡信息</a></li>
+            <li><a href="#/dcs_component">硬件信息</a></li>
             <li><a href="">平台维护</a></li>
           </ul>
         </li>

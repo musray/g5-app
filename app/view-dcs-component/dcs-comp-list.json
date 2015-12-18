@@ -20,7 +20,7 @@
     "feature":"RPC/ESFAC: 用于AT与IO机笼之间的通信;\nSLC: 用于CPU 2系与IO机笼之间的通信",
     "specification":"RS485",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SLC;CCMS;RPCC",
     "resource":""
   },
   {
@@ -32,7 +32,7 @@
     "feature":"用于CPU与PIF机笼之间的通信",
     "specification":"RS485",
     "setting":"",
-    "usage":"",
+    "usage":"SLC;",
     "resource":""
   },
   {
@@ -44,7 +44,7 @@
     "feature":"RPC: 用于CPU / B系与IO机笼之间的通信",
     "specification":"RS485",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR;RPCC",
     "resource":""
   },
   {
@@ -56,7 +56,7 @@
     "feature":"开关量输入",
     "specification":"4通道;干接点;板卡内建查询电源(24VDC);",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -65,10 +65,10 @@
     "platform":"MELTAC",
     "description":"Contact Input Module",
     "category":"Digital Input Module",
-    "feature":"开关量输入",
+    "feature":"开关量输入支持单（single）IO或双（dual）IO",
     "specification":"4通道;干接点;板卡内建查询电源(48VDC);",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SLC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -80,7 +80,7 @@
     "feature":"开关量输入",
     "specification":"4通道;干接点;板卡内建查询电源(24VDC);",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -92,7 +92,7 @@
     "feature":"开关量输入",
     "specification":"4通道;干接点;板卡内建查询电源(48VDC);",
     "setting":"",
-    "usage":"",
+    "usage":"SLC;",
     "resource":""
   },
   {
@@ -104,7 +104,7 @@
     "feature":"常开触点开关量输出",
     "specification":"4通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SRC;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -116,7 +116,7 @@
     "feature":"常闭触点开关量输出",
     "specification":"4通道",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -125,10 +125,10 @@
     "platform":"MELTAC",
     "description":"Digital Output Module",
     "category":"Digital Output Module",
-    "feature":"开关量输出",
+    "feature":"开关量输出 ( 不需分配卡 )",
     "specification":"16通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPCC;CCMS;",
     "resource":""
   },
   {
@@ -140,7 +140,7 @@
     "feature":"开关量输出；用于RPC的停堆信号",
     "specification":"2通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -151,8 +151,8 @@
     "category":"Digital Output Module",
     "feature":"开关量输出",
     "specification":"4通道;额定负载:220VAC",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"SLC;",
     "resource":""
   },
   {
@@ -164,7 +164,7 @@
     "feature":"开关量输出",
     "specification":"4通道;额定负载:110VAC",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -173,10 +173,10 @@
     "platform":"MELTAC",
     "description":"Safety System PIF Module ",
     "category":"Digital Output Module",
-    "feature":"用于控制现场专设设备",
+    "feature":"用于控制现场专设设备 （不需分配卡）",
     "specification":"8输入/2输出;\n4种优选逻辑（IPL1234）;\n最大负载电压: 48VDC",
     "setting":"需要设置",
-    "usage":"",
+    "usage":"SLC;",
     "resource":""
   },
   {
@@ -188,7 +188,7 @@
     "feature":"模拟量采集（电流信号）",
     "specification":"1通道;额定输入1-5V（4-20mA电流信号通过分配卡上的250欧姆电阻后，转换为1-5V电压）",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -200,7 +200,7 @@
     "feature":"模拟量采集（电压信号）",
     "specification":"0-1v",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -212,7 +212,7 @@
     "feature":"模拟量采集（电压信号）",
     "specification":"1-5v",
     "setting":"",
-    "usage":"",
+    "usage":"SR;CCMS;",
     "resource":""
   },
   {
@@ -224,7 +224,7 @@
     "feature":"PT100式热电阻信号的采集",
     "specification":"测温范围：0-100摄氏度;\n4线制;\n1通道",
     "setting":"",
-    "usage":"",
+    "usage":"CCMS;SR",
     "resource":""
   },
   {
@@ -236,7 +236,7 @@
     "feature":"PT100式热电阻信号的采集",
     "specification":"测温范围：0-200摄氏度;\n4线制;\n1通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -248,7 +248,7 @@
     "feature":"PT100式热电阻信号的采集",
     "specification":"测温范围：0-400摄氏度;\n4线制;\n1通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -260,7 +260,7 @@
     "feature":"PT100式热电阻信号的采集",
     "specification":"测温范围：260-350摄氏度;\n4线制;\n1通道",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;RPCC;",
     "resource":""
   },
   {
@@ -272,7 +272,7 @@
     "feature":"K型热电偶（thermocouple）温度的采集",
     "specification":"测温范围：0-1300摄氏度;",
     "setting":"",
-    "usage":"",
+    "usage":"CCMS",
     "resource":""
   },
   {
@@ -284,7 +284,7 @@
     "feature":"电流信号输出",
     "specification":"4-20mA",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -295,8 +295,8 @@
     "category":"Isolation Module",
     "feature":"1E与其他系统间模拟量信号的隔离",
     "specification":"输入：1-5v；\n输出：4-20mA 或 0-10v；\n1通道",
-    "setting":"拨码：选择电流输出或电压输出",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;SR;",
     "resource":""
   },
   {
@@ -307,8 +307,8 @@
     "category":"Isolation Module",
     "feature":"1E与其他系统间模拟量（温度）信号的隔离",
     "specification":"输入：PT100 0-200℃，0-350℃，0-400℃及260-350℃的温度信号；\n输出：4-20mA 或 0-10v；\n1通道",
-    "setting":"拨码：选择电流输出或电压输出",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;RPCC;",
     "resource":""
   },
   {
@@ -320,7 +320,7 @@
     "feature":"数字量输入（DI）、数字量输出（DO）配套使用的分配卡",
     "specification":"MDIJ-05;MDIJ-06;MDIJ-61;MDIJ-62;\nMDOJ-03;MDOJ-04;MDOJ-61;MDOJ-62;",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SLC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -330,9 +330,9 @@
     "description":"Power Interface Distribution Module",
     "category":"Distribution Module",
     "feature":"与双通道数字量输出DO模块搭配使用的分配卡",
-    "specification":"MDOJ-22",
+    "specification":"匹配MDOJ-22",
     "setting":"",
-    "usage":"MDOJ-22",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -344,7 +344,7 @@
     "feature":"电流型AI使用的主动供电型（Active）分配卡",
     "specification":"MLPJ-02",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR",
     "resource":""
   },
   {
@@ -356,7 +356,7 @@
     "feature":"电流型AI使用的被动供电型（Passive）分配卡",
     "specification":"MLPJ-02",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;RPCC;CCMS;SR;",
     "resource":""
   },
   {
@@ -368,7 +368,7 @@
     "feature":"电压型AI使用的分配卡",
     "specification":"MAIJ-04",
     "setting":"",
-    "usage":"",
+    "usage":"SR;CCMS;",
     "resource":""
   },
   {
@@ -380,7 +380,7 @@
     "feature":"温度型AI（RTD/PT100）使用的分配卡",
     "specification":"MRTJ-41;MRTJ-43;MRTJ-44;MRTJ-71",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -392,7 +392,7 @@
     "feature":"温度型AI（热电偶/Thermocouple）使用的分配卡",
     "specification":"MTCJ-19",
     "setting":"",
-    "usage":"",
+    "usage":"CCMS;",
     "resource":""
   },
   {
@@ -404,7 +404,7 @@
     "feature":"电流输出模块使用的分配卡",
     "specification":"MAOJ-01",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -416,7 +416,7 @@
     "feature":"直通卡（RPC子组间发送信号时，在接收端使用）",
     "specification":"直通卡",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;",
     "resource":""
   },
   {
@@ -428,7 +428,7 @@
     "feature":"模拟量信号接线端子排",
     "specification":"32路信号输入；带测试端子",
     "setting":"",
-    "usage":"RPC;RPCC;SRC;CCMS;",
+    "usage":"RPC;RPCC;SR;CCMS;",
     "resource":""
   },
   {
@@ -440,7 +440,7 @@
     "feature":"开关量信号接线端子排",
     "specification":"64路信号输入；带旁路开关；",
     "setting":"",
-    "usage":"RPC;ESFAC;SLC;RPCC;SRC;CCMS;",
+    "usage":"RPC;ESFAC;SLC;RPCC;SR;CCMS;",
     "resource":""
   },
   {
@@ -452,7 +452,7 @@
     "feature":"在CPR1000项目中未使用",
     "specification":"n.a",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -461,7 +461,7 @@
     "platform":"MELTAC",
     "description":"Terminal Unit with Lift Function for Digital 64 Poles\n(external power supply common) ",
     "category":"Terminal Unit",
-    "feature":"PIF机笼对应的接线端子排",
+    "feature":"开关量信号接线端子排（用于DCS供电的DO信号）",
     "specification":"64路信号输入；带旁路开关；\n提供外部供电公共端接线柱",
     "setting":"",
     "usage":"SLC",
@@ -475,8 +475,8 @@
     "category":"CPU Module",
     "feature":"MELTAC CPU（升级型号）；\n在HYH1234，ND12以外的CPR1000项目使用",
     "specification":"32bit PowerPC；360MHz；额定工作电压 5V",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;ESFAC;SLC;CCMS;RPCC;SR",
     "resource":""
   },
   {
@@ -488,7 +488,7 @@
     "feature":"MELTAC CPU（原始型号）；HYH1234，ND12使用",
     "specification":"",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SLC;CCMS;RPCC;SR",
     "resource":""
   },
   {
@@ -500,7 +500,7 @@
     "feature":"主备冗余CPU的状态显示（failure/alarm/IO warning）及切换",
     "specification":"",
     "setting":"",
-    "usage":"",
+    "usage":"SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -512,7 +512,7 @@
     "feature":"CPU的状态显示（failure/alarm/IO warning）",
     "specification":"",
     "setting":"",
-    "usage":"",
+    "usage":"ESFAC;SLC",
     "resource":""
   },
   {
@@ -524,7 +524,7 @@
     "feature":"建立冗余主控间的网络通信；实现切换逻辑",
     "specification":"",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC;SLC;CCMS;RPCC;SR",
     "resource":""
   },
   {
@@ -535,8 +535,8 @@
     "category":"W-net Interface Module",
     "feature":"环网（W-net）接口卡",
     "specification":"",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;ESFAC;SLC;RPCC;SR;CCMS;",
     "resource":""
   },
   {
@@ -547,8 +547,8 @@
     "category":"Intelliqent I/O Bus Master Module",
     "feature":"构成Datalink；构成IO通信总线",
     "specification":"",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;ESFAC;SLC;CCMS;RPCC;SR",
     "resource":""
   },
   {
@@ -560,7 +560,7 @@
     "feature":"用于分割机笼布置的下的CPU电源（电源容量小）",
     "specification":"输入电压：85-265V；\n输出电压：+5V；\n输出电流：30A；",
     "setting":"",
-    "usage":"",
+    "usage":"SLC;SR;RPCC;CCMS;",
     "resource":""
   },
   {
@@ -572,7 +572,7 @@
     "feature":"用于非分割机笼布置下的CPU电源（电源容量大）",
     "specification":"输入电压：85-265V；\n输出电压：+5V；\n输出电流：60A；",
     "setting":"",
-    "usage":"",
+    "usage":"RPC;ESFAC",
     "resource":""
   },
   {
@@ -595,8 +595,8 @@
     "category":"RS-232C Module",
     "feature":"实现触摸屏的RS232-C通信",
     "specification":"RS232-C",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"ESFAC",
     "resource":""
   },
   {
@@ -608,7 +608,7 @@
     "feature":"RGB显示信号转换",
     "specification":"",
     "setting":"",
-    "usage":"",
+    "usage":"SFOC;SVDU;S-VDU",
     "resource":""
   },
   {
@@ -619,8 +619,8 @@
     "category":"communication control module",
     "feature":"构成MELTAC平台Datalink；或用于AT与被测CPU之间通信",
     "specification":"RS485",
-    "setting":"",
-    "usage":"",
+    "setting":"需要设置",
+    "usage":"RPC;ESFAC;CCMS;",
     "resource":""
   },
   {
@@ -632,7 +632,7 @@
     "feature":"用于触摸屏",
     "specification":"RS232",
     "setting":"",
-    "usage":"",
+    "usage":"CPR1000未使用",
     "resource":""
   },
   {
@@ -643,8 +643,8 @@
     "category":"Card Frame",
     "feature":"AT功能：不支持；\n分配卡：需要",
     "specification":"",
-    "setting":"旋转拨码：设定IOU",
-    "usage":"",
+    "setting":"",
+    "usage":"CCMS",
     "resource":""
   },
   {
@@ -655,8 +655,8 @@
     "category":"Card Frame",
     "feature":"AT功能：支持；\n分配卡：需要",
     "specification":"",
-    "setting":"旋转拨码：设定IOU",
-    "usage":"",
+    "setting":"",
+    "usage":"RPC;ESFAC;SLC;RPCC;SR",
     "resource":""
   },
   {
@@ -667,8 +667,8 @@
     "category":"Card Frame",
     "feature":"AT功能：不支持；\n分配卡：不需要",
     "specification":"",
-    "setting":"旋转拨码：设定IOU",
-    "usage":"",
+    "setting":"",
+    "usage":"ESFAC;SLC",
     "resource":""
   },
   {
@@ -679,8 +679,8 @@
     "category":"Card Frame",
     "feature":"AT功能：不支持；\n分配卡：不需要",
     "specification":"",
-    "setting":"旋转拨码：设定IOU",
-    "usage":"",
+    "setting":"",
+    "usage":"CCMS;RPCC",
     "resource":""
   },
   {
@@ -691,8 +691,8 @@
     "category":"Card Frame",
     "feature":"AT功能：支持；\n分配卡：不需要",
     "specification":"",
-    "setting":"旋转拨码：设定IOU",
-    "usage":"",
+    "setting":"",
+    "usage":"SLC",
     "resource":""
   },
   {
@@ -703,8 +703,8 @@
     "category":"Card Frame",
     "feature":"AT功能：支持；\n分配卡：不需要",
     "specification":"",
-    "setting":"n.a",
-    "usage":"",
+    "setting":"",
+    "usage":"RPC;ESFAC;CCMS",
     "resource":""
   },
   {
@@ -715,56 +715,20 @@
     "category":"Card Frame",
     "feature":"AT功能：不支持；\n分配卡：不需要",
     "specification":"",
-    "setting":"n.a",
-    "usage":"",
+    "setting":"",
+    "usage":"RPC;SR",
     "resource":""
   },
   {
-    "module":"",
-    "name":"",
-    "platform":"",
-    "description":"",
-    "category":"",
-    "feature":"",
-    "specification":"",
+    "module":"TU-DSx58",
+    "name":"端子排( PIF )",
+    "platform":"MELTAC",
+    "description":"Terminal Unit for PIF",
+    "category":"Terminal Unit",
+    "feature":"PIF机笼对应的接线端子排",
+    "specification":"带旁路开关；",
     "setting":"",
-    "usage":"",
-    "resource":""
-  },
-  {
-    "module":"",
-    "name":"",
-    "platform":"",
-    "description":"",
-    "category":"",
-    "feature":"",
-    "specification":"",
-    "setting":"",
-    "usage":"",
-    "resource":""
-  },
-  {
-    "module":"",
-    "name":"",
-    "platform":"",
-    "description":"",
-    "category":"",
-    "feature":"",
-    "specification":"",
-    "setting":"",
-    "usage":"",
-    "resource":""
-  },
-  {
-    "module":"",
-    "name":"",
-    "platform":"",
-    "description":"",
-    "category":"",
-    "feature":"",
-    "specification":"",
-    "setting":"",
-    "usage":"",
+    "usage":"SLC",
     "resource":""
   }
 ]

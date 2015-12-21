@@ -82,7 +82,7 @@ body {
   /* top: 100%; */
   left: 20px;
   padding-left: 0px;
-  background-color: #f8f8ff;
+  background-color: #fafafa;
   width: 130px;
 }
 
@@ -178,7 +178,7 @@ tbody td {
   padding: 0px 4px;
 }
 tbody tr:hover {
-  background-color: pink;
+  background-color: #fce4ec;
 }
 
 p.footnote {
@@ -309,6 +309,7 @@ h2.no_bottom_margin {
 }
 
 .download_tag {
+  font-size: 90%;
   background-color: #5677fc;
   text-decoration: none;
   color: white;

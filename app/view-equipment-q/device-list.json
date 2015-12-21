@@ -7950,5 +7950,37 @@
     "dcs":"SLC-A3",
     "sd_index":"DVN039",
     "function_description":"4DVN018AE UNIT HEATER"
+  },
+  {
+    "local_sys":"LHP",
+    "actuator":"EDG",
+    "category":"Generator",
+    "train":"Train A",
+    "ld_index":"LHP101",
+    "class":"1E",
+    "normal":"n.a",
+    "fault":"n.a",
+    "esf":"n.a",
+    "periodic_test":"",
+    "load_shed":"",
+    "dcs":"SLC-A3",
+    "sd_index":"LHP101",
+    "function_description":"EDG Starting Remote Control"
+  },
+  {
+    "local_sys":"LHQ",
+    "actuator":"EDG",
+    "category":"Generator",
+    "train":"Train B",
+    "ld_index":"LHQ101",
+    "class":"1E",
+    "normal":"n.a",
+    "fault":"n.a",
+    "esf":"n.a",
+    "periodic_test":"",
+    "load_shed":"",
+    "dcs":"SLC-B3",
+    "sd_index":"LHQ101",
+    "function_description":"EDG Starting Remote Control"
   }
 ]

@@ -33,8 +33,18 @@
     </div>
 
     <!-- 筛选 模糊关键字 -->
-    <label for="searchbox">使用模糊关键字</label>
+    <label for="searchbox">关键字查询</label>
     <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
+
+    <h2 class="section_title">常用关键字</h2>
+
+    <div class="side-keyword">
+      <dfn title="CIN">CIN</dfn>
+      <dfn title="CIN">证据涂抹</dfn>
+      <dfn title="CIN">变更申请</dfn>
+      <dfn title="CIN">Change List</dfn>
+      <dfn title="CIN">Design FLow</dfn>
+    </div>
 
 
   </div>  <!-- class grid_3 side_checkbox -->
@@ -59,8 +69,8 @@
                                                 filter: docq.hardCodeFilter[docq.selectedDocCat] |
                                                 filter: query)">
 
-          <td><a href="{{item.url}}" target="_blank">下载</a></td>
-          <td>{{item.doc_name}}</td>
+          <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
+          <td><span ng-class="item.status">{{item.doc_name}}</span></td>
           <td>{{item.rev}}</td>
           <td>{{item.platform}}</td>
           <!-- <td>{{item.description}}</td> -->

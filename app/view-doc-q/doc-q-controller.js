@@ -34,7 +34,6 @@ angular.module('g5App.docApp', ['ngRoute'])
         {"refer_to":"Equipment List"},
         {"refer_to":"Equipment Spec"},
         {"refer_to":"Hardwired Logic"},
-        {"refer_to":"Hardwired Logic"},
         {"refer_to":"Installation Layout"},
         {"refer_to":"Internal Cable"},
         {"refer_to":"Terminal Block"}

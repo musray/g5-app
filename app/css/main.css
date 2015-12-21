@@ -280,3 +280,38 @@ h2.no_bottom_margin {
 .main-anchor a:hover {
   background-color: rgba(157, 188, 173, 1.0);
 }
+
+.side-keyword {
+  text-align: left;
+}
+.side-keyword dfn {
+  display: block;
+}
+
+.side-keyword dfn:before {
+  content: "";
+  display: inline-block;
+  width: .5em;
+  height: .5em;
+  border-radius: 50%;
+  background-color: #5677fc;
+  margin: 0px 3px 3px 0px;
+}
+
+.recommend:after {
+  content: "荐";
+  color: white;
+  font-size: 90%;
+  background-color: #ff4081;
+  border-radius: 1px;
+  margin-left: 3px;
+  padding: 2px;
+}
+
+.download_tag {
+  background-color: #5677fc;
+  text-decoration: none;
+  color: white;
+  padding: 2px 6px;
+}
+

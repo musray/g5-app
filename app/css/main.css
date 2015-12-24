@@ -3,7 +3,8 @@ body {
   margin: 0px auto;
   margin-bottom: 40px;
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", Heiti, "黑体", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", sans-serif; */
-  font-family: Helvetica, Tahoma, Arial, STXihei, Heiti, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", sans-serif;
+  /* font-family: Helvetica, Tahoma, Arial, STXihei, Heiti, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", sans-serif; */
+  font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", "宋体", sans-serif;
   background-color: #f2f2f2;
 }
 
@@ -299,7 +300,7 @@ h2.no_bottom_margin {
 }
 
 .recommend:after {
-  content: "荐";
+  content: "Recommand";
   color: white;
   font-size: 90%;
   background-color: #ff4081;

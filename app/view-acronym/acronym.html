@@ -1,49 +1,56 @@
-<h1 class="main_title">术语检索</h1>
-
-<div class="container_12 clearfix">
-  <div class="page-note">
-    <p>本页可以检索二字码、三字码、术语、各种专用英文词汇等。 <br />
+<div class="container">
+  <div class="row">
+    <h1>术语检索</h1>
+    <div class="page-note">
+      <p>本页可以检索二字码、三字码、术语、各种专用英文词汇等。 <br />
       如果有任何的词库扩展建议，请
       <a href="mailto:churui.ctecdcs.net">发内邮联系我</a>。谢谢。
-    </p>
+      </p>
+    </div>
   </div>
-
-  <div class="grid_3 side_checkbox">
-
-    <h2 class="section_title">筛选</h2>
-
-    <!-- 筛选 指定码精确查找 -->
-    <label for="searchbox">根据关键字检索</label>
-    <input class="long_input_bar" type="text" id="searchbox" ng-model="speciCode">
-
-    <!-- 筛选 模糊关键字 -->
-    <label for="searchbox">模糊检索</label>
-    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
-
-
-  </div>  <!-- class grid_3 side_checkbox -->
-
-  <div class="grid_9 result_content">
-    
-    <h2 class="section title">检索结果</h2>
-    <table class="query_table">
-      <thead>
-        <tr>
-          <th scope="col" class="md_tab_col">关键字</th>
-          <th scope="col" class="lg_tab_col">全称</th>
-          <th scope="col" class="md_tab_col">来源</th>
-          <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
-        </tr>
-      </thead>
-      <tbody>
-        <tr ng-repeat="item in (acrCtrl.items | filter: acrCtrl.codeIndex(speciCode) | filter: query)">
-
-          <td>{{item.code}}</td>
-          <td>{{item.designation}}</td>
-          <td>{{item.origin}}</td>
-
-        </tr>
-      </tbody>
-    </table>
-  </div>   <!-- class grid_9 result_content -->
 </div>
+
+<div class="container">
+  <div class="row">
+
+    <!-- narrow column -->
+    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 no-padding-left">
+      <h2 class="section_title">筛选</h2>
+
+      <!-- 筛选 指定码精确查找 -->
+      <label for="searchbox">根据关键字检索</label>
+      <input class="long_input_bar" type="text" id="searchbox" ng-model="speciCode">
+
+      <!-- 筛选 模糊关键字 -->
+      <label for="searchbox">模糊检索</label>
+      <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
+
+    </div>  <!-- end narrow column -->
+
+    <!-- wide column -->
+    <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+
+      <h2 class="section title">检索结果</h2>
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th scope="col" class="md_tab_col">关键字</th>
+            <th scope="col" class="lg_tab_col">全称</th>
+            <th scope="col" class="md_tab_col">来源</th>
+            <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="item in (acrCtrl.items | filter: acrCtrl.codeIndex(speciCode) | filter: query)">
+
+            <td>{{item.code}}</td>
+            <td>{{item.designation}}</td>
+            <td>{{item.origin}}</td>
+
+          </tr>
+        </tbody>
+      </table>
+    </div>   <!-- wide column-->
+
+  </div>  <!-- row -->
+</div>  <!-- container -->

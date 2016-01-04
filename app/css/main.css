@@ -11,6 +11,9 @@
 .font-face {
   font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
 }
+.border-bottom-thick {
+  border-bottom: 5px #303f9f solid;
+}
 /*
  * rules for layout
  */

@@ -26,13 +26,13 @@
 
       <!-- 筛选1 选择适用文件 -->
         <label>选择适用平台</label>
-        <select class="form-control margin-bottom" ng-model="usage"
+        <select class="form-control input-sm margin-bottom" ng-model="usage"
           ng-options="c.platform as c.platform for c in toolCtrl.selectOptions['platform']">
         </select>
 
       <!-- 筛选2 模糊关键字 -->
       <label for="searchbox">模糊查询</label>
-      <input class="form-control margin-bottom" type="text" id="searchbox" ng-model="query">
+      <input class="form-control input-sm margin-bottom" type="text" id="searchbox" ng-model="query">
 
     </div>  <!-- narrow column-->
 

@@ -110,5 +110,6 @@ body {
 .glyphicon-th-large {
   color: #d32f2f;
 }
-
-/*# sourceMappingURL=main.css.map */
+label {
+  font-weight: normal;
+}

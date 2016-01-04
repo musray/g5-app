@@ -10,7 +10,7 @@
     <!-- narrow column -->
     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
 
-      <h2 class="h2-sm">筛选</h2>
+      <h2 class="h2">筛选</h2>
 
       <!-- 功能筛选1 check box for safety injection filtering-->
       <div class="row no-margin-left">
@@ -78,7 +78,7 @@
         <input type="text" class="form-contorl margin-bttom" id="searchbox" ng-model="query">
       </div>
 
-      <h2 class="h2-sm no-margin-bottom">排序</h2>
+      <h2 class="h2 no-margin-bottom">排序</h2>
       <p>默认按机柜号排序</p>
 
       <div class="row no-margin-left">
@@ -101,7 +101,7 @@
 
       <button class="btn btn-sm btn-primary" ng-click="equipCtrl.reOrder([sortByLocalSys, sortByCategory])()">点击排序</button>
 
-      <h2 class="h2-sm">显示</h2>
+      <h2 class="h2">显示</h2>
 
       <!-- check box for dcs column show / hide -->
       <div class="row no-margin-left">
@@ -136,7 +136,7 @@
     <!-- wide column -->
     <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
 
-      <h2 class="h2-sm">查询结果: <span ng-bind="filteredItems.length"></span>条 |
+      <h2 class="h2">查询结果: <span ng-bind="filteredItems.length"></span>条 |
         总记录 <span ng-bind="equipCtrl.items.length"></span>条</h2>
 
       <table class="table table-bordered table-hover table-striped">

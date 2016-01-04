@@ -11,8 +11,17 @@
 .font-face {
   font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
 }
+.h1-sm {
+  font-size: 30px;
+}
+.h2-sm {
+  font-size: 24px;
+}
 .border-bottom-thick {
   border-bottom: 5px #303f9f solid;
+}
+.border-left-thick {
+  border-left: 3px #3f51b5 solid;
 }
 /*
  * rules for layout
@@ -38,6 +47,9 @@
 }
 .padding-top-dym {
   padding-top: 10%;
+}
+.padding-left-sm {
+  padding-left: 3px;
 }
 .no-padding-left {
   padding-left: 0;
@@ -69,17 +81,14 @@ body {
   background-color: #f44336;
   margin-right: 3px;
 }
-.h1-sm {
-  font-size: 30px;
-}
-.h2-sm {
-  font-size: 24px;
-}
 .form-control {
   font-weight: light;
 }
 .navbar {
   margin-bottom: 0;
 }
-
-/*# sourceMappingURL=main.css.map */
+.h2 {
+  font-size: 24px;
+  border-left: 3px #3f51b5 solid;
+  padding-left: 3px;
+}

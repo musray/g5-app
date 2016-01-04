@@ -21,8 +21,17 @@
   // to unify text stroke thickness
   // in all version of Windows
 }
+.h1-sm {
+  font-size: 30px;
+}
+.h2-sm {
+  font-size: 24px;
+}
 .border-bottom-thick {
   border-bottom: 5px @dark-indigo solid;
+}
+.border-left-thick {
+  border-left: 3px @light-indigo solid;
 }
 
 /*
@@ -50,6 +59,9 @@
 }
 .padding-top-dym {
   padding-top: 10%;
+}
+.padding-left-sm {
+  padding-left: 3px;
 }
 .no-padding-left {
   padding-left: 0;
@@ -84,15 +96,14 @@ body {
   background-color: @primary-red;
   margin-right: 3px;
 }
-.h1-sm {
-  font-size: 30px;
-}
-.h2-sm {
-  font-size: 24px;
-}
 .form-control {
   font-weight: light;
 }
 .navbar {
   .no-margin-bottom;
+}
+.h2 {
+  .h2-sm;
+  .border-left-thick;
+  .padding-left-sm;
 }

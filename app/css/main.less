@@ -1,6 +1,16 @@
-@deep-orange: #f57c00;
+/*
+ *
+ * color scheme
+ *
+ */
+
+@dark-orange: #f57c00;
+@light-orange: #ffab91;
+@dark-red: #d32f2f;
+@light-red: #ef5350;
 @primary-red: #f44336;
 @primary-gray: #eeeeee;
+@light-gray: #e0e0e0;
 @dark-indigo: #303f9f;
 @light-indigo: #3f51b5;
 
@@ -28,10 +38,10 @@
   font-size: 24px;
 }
 .border-bottom-thick {
-  border-bottom: 5px @dark-indigo solid;
+  border-bottom: 5px @light-gray solid;
 }
 .border-left-thick {
-  border-left: 3px @light-indigo solid;
+  border-left: 5px @light-gray solid;
 }
 
 /*
@@ -61,7 +71,7 @@
   padding-top: 10%;
 }
 .padding-left-sm {
-  padding-left: 3px;
+  padding-left: 5px;
 }
 .no-padding-left {
   padding-left: 0;
@@ -69,7 +79,7 @@
 
 
 /*
- * rules facilities
+ * facilities management
  */
 
 body {
@@ -93,7 +103,7 @@ body {
   width: 0.7em;
   height: 0.7em;
   border-radius: 50%;
-  background-color: @primary-red;
+  background-color: @light-red;
   margin-right: 3px;
 }
 .form-control {
@@ -102,8 +112,21 @@ body {
 .navbar {
   .no-margin-bottom;
 }
+.h1 {
+  .h1-sm;
+  margin: 40px 0 40px 0;
+}
 .h2 {
   .h2-sm;
   .border-left-thick;
   .padding-left-sm;
+}
+.glyphicon-chevron-left,
+.glyphicon-chevron-right,
+.glyphicon-th-large {
+  color: @dark-red;
+  vertical-align: bottom;
+}
+.glyphicon-th-large {
+  color: @dark-red;
 }

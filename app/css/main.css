@@ -1,4 +1,9 @@
 /*
+ *
+ * color scheme
+ *
+ */
+/*
  * rules for style
  */
 .text-center {
@@ -18,10 +23,10 @@
   font-size: 24px;
 }
 .border-bottom-thick {
-  border-bottom: 5px #303f9f solid;
+  border-bottom: 5px #e0e0e0 solid;
 }
 .border-left-thick {
-  border-left: 3px #3f51b5 solid;
+  border-left: 5px #e0e0e0 solid;
 }
 /*
  * rules for layout
@@ -49,13 +54,13 @@
   padding-top: 10%;
 }
 .padding-left-sm {
-  padding-left: 3px;
+  padding-left: 5px;
 }
 .no-padding-left {
   padding-left: 0;
 }
 /*
- * rules facilities
+ * facilities management
  */
 body {
   font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
@@ -78,7 +83,7 @@ body {
   width: 0.7em;
   height: 0.7em;
   border-radius: 50%;
-  background-color: #f44336;
+  background-color: #ef5350;
   margin-right: 3px;
 }
 .form-control {
@@ -87,8 +92,23 @@ body {
 .navbar {
   margin-bottom: 0;
 }
+.h1 {
+  font-size: 30px;
+  margin: 40px 0 40px 0;
+}
 .h2 {
   font-size: 24px;
-  border-left: 3px #3f51b5 solid;
-  padding-left: 3px;
+  border-left: 5px #e0e0e0 solid;
+  padding-left: 5px;
 }
+.glyphicon-chevron-left,
+.glyphicon-chevron-right,
+.glyphicon-th-large {
+  color: #d32f2f;
+  vertical-align: bottom;
+}
+.glyphicon-th-large {
+  color: #d32f2f;
+}
+
+/*# sourceMappingURL=main.css.map */

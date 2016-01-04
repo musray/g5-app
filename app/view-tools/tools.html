@@ -1,53 +1,59 @@
-<h1 class="main_title">设计工具</h1>
-
-<div class="container_12 clearfix">
-  <div class="page-note">
-    <p>本页收录了由五组自行开发的设计类、效率类软件工具。且本页中的信息会随着软件升级进行同步更新。<br />
-      如果你发现此处收录的软件并非最新版本，或有遗漏，麻烦 <a href="mailto:churui.ctecdcs.net">发内邮联系我</a>。谢谢。
+<div class="container">
+  <div class="row">
+    <h1 class="h1-sm">设计工具</h1>
+    <p>
+      本页收录了由五组自行开发的设计类、效率类软件工具。且本页中的信息会随着软件升级进行同步更新。<br />
+    如果你发现此处收录的软件并非最新版本，或有遗漏，麻烦 <a href="mailto:churui.ctecdcs.net">发内邮联系我</a>。谢谢。
     </p>
   </div>
+</div>
 
-  <div class="grid_3 side_checkbox">
-
-    <h2 class="section_title">筛选</h2>
-
-    <!-- 筛选1 选择适用文件 -->
-    <div class="query_control">
-      <label>按平台查询</label>
-      <select class="long_input_bar" ng-model="usage"
-                           ng-options="c.platform as c.platform for c in toolCtrl.selectOptions['platform']">
-      </select>
-    </div>
-
-    <!-- 筛选2 模糊关键字 -->
-    <label for="searchbox">模糊查询</label>
-    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
+<div class="container">
+  <div class="row">
 
 
-  </div>  <!-- class grid_3 side_checkbox -->
+    <!-- narrow column -->
+    <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
 
-  <div class="grid_9 result_content">
-    
-    <h2 class="section title">检索结果</h2>
-    <table class="query_table">
-      <thead>
-        <tr>
-          <th scope="col" class="md_tab_col">工具名称</th>
-          <th scope="col" class="md_tab_col">最新版本</th>
-          <th scope="col" class="lg_tab_col">简介</th>
-          <th scope="col" class="md_tab_col">开发者</th>
-        </tr>
-      </thead>
-      <tbody>
+      <h2 class="h2-sm">筛选</h2>
+
+      <!-- 筛选1 选择适用文件 -->
+        <label>选择适用平台</label>
+        <select class="form-control margin-bottom" ng-model="usage"
+          ng-options="c.platform as c.platform for c in toolCtrl.selectOptions['platform']">
+        </select>
+
+      <!-- 筛选2 模糊关键字 -->
+      <label for="searchbox">模糊查询</label>
+      <input class="form-control margin-bottom" type="text" id="searchbox" ng-model="query">
+
+    </div>  <!-- narrow column-->
+
+    <!-- wide column -->
+    <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+      <h2 class="h2-sm">检索结果</h2>
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th scope="col">工具名称</th>
+            <th scope="col" class="text-nowrap">最新版本</th>
+            <th scope="col">简介</th>
+            <th scope="col" class="text-nowrap">开发者</th>
+          </tr>
+        </thead>
+        <tbody>
         <tr ng-repeat="item in (toolCtrl.items | filter: toolCtrl.hardCodeFilter[usage] | filter: query)">
 
-          <td><a href="{{item.url}}" target="_blank">{{item.tool}}</a></td>
+          <td><a href="{{item.url}}" target="_blank">{{item.tool}} </a></td>
           <td>{{item.lastest_ver}}</td>
-          <td class="lg_tab_col">{{item.function_description}}</td>
+          <td>{{item.function_description}}</td>
           <td>{{item.developer}}</td>
 
         </tr>
-      </tbody>
-    </table>
-  </div>   <!-- class grid_9 result_content -->
-</div>
+        </tbody>
+      </table>
+    </div>   <!-- wide column-->
+
+  </div>  <!-- row -->
+</div>  <!-- container -->

@@ -1,148 +1,158 @@
-<h1 class="main_title">专设设备查询</h1>
-<div class="container_12 clearfix">
-  
-  <div class="grid_3 side_checkbox">
-    
-      <h2 class="section_title">筛选</h2>
+<div class="container">
+  <div class="row">
+    <h1 class="h1-sm">专设设备查询</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+
+    <!-- narrow column -->
+    <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
+
+      <h2 class="h2-sm">筛选</h2>
 
       <!-- 功能筛选1 check box for safety injection filtering-->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="si-check-box"
+        ng-model="siChecked"
+        ng-true-value="'siChecked'"
+        ng-false-value="">
         <label for="si-check-box">SI相关设备</label>
-        <input type="checkbox"
-               name="si-check-box"
-               ng-model="siChecked"
-               ng-true-value="'siChecked'"
-               ng-false-value="">
       </div>
-      
+
       <!-- 功能筛选2 check box for containment spray filtering -->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="cs-check-box"
+        ng-model="csChecked"
+        ng-true-value="'csChecked'"
+        ng-false-value="">
         <label for="cs-check-box">CS相关设备</label>
-        <input type="checkbox"
-               name="cs-check-box"
-               ng-model="csChecked"
-               ng-true-value="'csChecked'"
-               ng-false-value="">
       </div>
 
       <!-- 功能筛选 check box for CIA filtering -->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="cia-check-box"
+        ng-model="ciaChecked"
+        ng-true-value="'ciaChecked'"
+        ng-false-value="">
         <label for="cia-check-box">CIA相关设备</label>
-        <input type="checkbox"
-               name="cia-check-box"
-               ng-model="ciaChecked"
-               ng-true-value="'ciaChecked'"
-               ng-false-value="">
       </div>
 
       <!-- 功能筛选 check box for CIB filtering -->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="cib-check-box"
+        ng-model="cibChecked"
+        ng-true-value="'cibChecked'"
+        ng-false-value="">
         <label for="cia-check-box">CIB相关设备</label>
-        <input type="checkbox"
-               name="cib-check-box"
-               ng-model="cibChecked"
-               ng-true-value="'cibChecked'"
-               ng-false-value="">
       </div>
-    
+
       <!-- 功能筛选 check box for Trian A filtering -->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="train-a-check-box"
+        ng-model="trainAChecked"
+        ng-true-value="'trainAChecked'"
+        ng-false-value="">
         <label for="train-a-check-box">只看Train-A</label>
-        <input type="checkbox"
-               name="train-a-check-box"
-               ng-model="trainAChecked"
-               ng-true-value="'trainAChecked'"
-               ng-false-value="">
       </div>
-    
+
       <!-- 功能筛选 check box for Trian B filtering -->
-      <div class="query_control">
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="train-b-check-box"
+        ng-model="trainBChecked"
+        ng-true-value="'trainBChecked'"
+        ng-false-value="">
         <label for="train-b-check-box">只看Train-B</label>
-        <input type="checkbox"
-               name="train-b-check-box"
-               ng-model="trainBChecked"
-               ng-true-value="'trainBChecked'"
-               ng-false-value="">
       </div>
-        
+
       <!-- 功能筛选 模糊关键字 -->
-      <label for="searchbox">使用模糊关键字</label>
-      <input type="text" id="searchbox" ng-model="query">
-  
+      <div class="row no-margin-left">
+        <label for="searchbox">使用模糊关键字</label>
+        <input type="text" class="form-contorl margin-bttom" id="searchbox" ng-model="query">
+      </div>
 
-    <h2 class="section_title no_bottom_margin">排序</h2>
-    <p class="footnote">默认按机柜号排序</p>
+      <h2 class="h2-sm no-margin-bottom">排序</h2>
+      <p>默认按机柜号排序</p>
 
-    <div class="query_control">
-      <label for="sort_by_local_sys">选择三字码</label>
-      <input type="checkbox"
-             name="sort_by_local_sys"
-             ng-model="sortByLocalSys"
-             ng-true-value="'local_sys'"
-             ng-false-value="''">
-    </div>
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="sort_by_local_sys"
+        ng-model="sortByLocalSys"
+        ng-true-value="'local_sys'"
+        ng-false-value="''">
+        <label for="sort_by_local_sys">选择三字码</label>
+      </div>
 
-    <div class="query_control">
-      <label for="sort_by_category">选择设备类型</label>
-      <input type="checkbox"
-             name="sort_by_category"
-             ng-model="sortByCategory"
-             ng-true-value="'category'"
-             ng-false-value="''">
-    </div>
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="sort_by_category"
+        ng-model="sortByCategory"
+        ng-true-value="'category'"
+        ng-false-value="''">
+        <label for="sort_by_category">选择设备类型</label>
+      </div>
 
-    <button class="btn btn-sm btn-primary" ng-click="equipCtrl.reOrder([sortByLocalSys, sortByCategory])()">排序</button>
+      <button class="btn btn-sm btn-primary" ng-click="equipCtrl.reOrder([sortByLocalSys, sortByCategory])()">点击排序</button>
 
-    <h2 class="section_title">显示</h2>
-    
-    <!-- check box for dcs column show / hide -->
-    <div class="query_control">
-      <label for="description-col-show">功能描述</label>
-      <input type="checkbox"
-             name="description-col-show"
-             ng-model="equipCtrl.columnShow.function_description"
-             ng-true-value="true"
-             ng-false-value="false">
-    </div>
+      <h2 class="h2-sm">显示</h2>
 
-    <!-- check box for LD index column show / hide -->
-    <div class="query_control">
-      <label for="ld_index-col-show">LD 页码</label>
-      <input type="checkbox"
-             ng-model="equipCtrl.columnShow.ld_index"
-             ng-true-value="true"
-             ng-false-value="false">
-    </div>
-    
-    <!-- check box for local System column show / hide -->
-    <div class="query_control">
-      <label for="sd_index-col-show">SD 页码</label>
-      <input type="checkbox"
-             ng-model="equipCtrl.columnShow.sd_index"
-             ng-true-value="true"
-             ng-false-value="false">
-    </div>
-  </div>   <!-- grid_3 side_checkbox -->
-  
-  <div class="grid_9 result_content">
+      <!-- check box for dcs column show / hide -->
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        name="description-col-show"
+        ng-model="equipCtrl.columnShow.function_description"
+        ng-true-value="true"
+        ng-false-value="false">
+        <label for="description-col-show">功能描述</label>
+      </div>
 
-    <h2 class="section title">查询结果: <span ng-bind="filteredItems.length"></span>条 |
-                  总记录 <span ng-bind="equipCtrl.items.length"></span>条</h2>
+      <!-- check box for LD index column show / hide -->
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        ng-model="equipCtrl.columnShow.ld_index"
+        ng-true-value="true"
+        ng-false-value="false">
+        <label for="ld_index-col-show">LD 页码</label>
+      </div>
 
-    <table class="query_table">
-      <thead>
-        <tr>
-          <th scope="col" class="md_tab_col">工艺系统</th>
-          <th scope="col" class="md_tab_col">设备名称</th>
-          <th scope="col" class="md_tab_col">设备类型</th>
-          <th scope="col" class="md_tab_col">Train</th>
-          <th scope="col" class="md_tab_col">DCS机柜</th>
-          <th scope="col" class="lg_tab_col" ng-show="equipCtrl.columnShow.function_description">功能描述</th>
-          <th scope="col" class="md_tab_col" ng-show="equipCtrl.columnShow.ld_index">LD 页码</th>
-          <th scope="col" class="md_tab_col" ng-show="equipCtrl.columnShow.sd_index">SD 页码</th>
-        </tr>
-      </thead>
-      <tbody>
+      <!-- check box for local System column show / hide -->
+      <div class="row no-margin-left">
+        <input type="checkbox" class="form-contorl margin-bttom"
+        ng-model="equipCtrl.columnShow.sd_index"
+        ng-true-value="true"
+        ng-false-value="false">
+        <label for="sd_index-col-show">SD 页码</label>
+      </div>
+
+    </div>   <!-- narrow column -->
+
+    <!-- wide column -->
+    <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+      <h2 class="h2-sm">查询结果: <span ng-bind="filteredItems.length"></span>条 |
+        总记录 <span ng-bind="equipCtrl.items.length"></span>条</h2>
+
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th scope="col">工艺系统</th>
+            <th scope="col">设备名称</th>
+            <th scope="col">设备类型</th>
+            <th scope="col">Train</th>
+            <th scope="col">DCS机柜</th>
+            <th scope="col" ng-show="equipCtrl.columnShow.function_description">功能描述</th>
+            <th scope="col" ng-show="equipCtrl.columnShow.ld_index">LD 页码</th>
+            <th scope="col" ng-show="equipCtrl.columnShow.sd_index">SD 页码</th>
+          </tr>
+        </thead>
+        <tbody>
         <tr ng-repeat="item in filteredItems = (equipCtrl.items |
                                                 filter: query |
                                                 filter: equipCtrl.filterOptions[siChecked] |
@@ -161,7 +171,9 @@
           <td ng-show="equipCtrl.columnShow.ld_index">{{item.ld_index}}</td>
           <td ng-show="equipCtrl.columnShow.sd_index">{{item.sd_index}}</td>
         </tr>
-      </tbody>
-    </table>
-  </div> <!-- grid_9 result_content -->
-</div>  <!-- contianer_12 -->
+        </tbody>
+      </table>
+    </div> <!-- wide column -->
+
+  </div>  <!-- row -->
+</div>  <!-- contianer -->

@@ -10,17 +10,10 @@
 }
 .font-face {
   font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
-  font-weight: 500;
-}
-.font-size-80 {
-  font-size: 100%;
 }
 /*
  * rules for layout
  */
-.padding-top {
-  padding-top: 70px;
-}
 .flex-box {
   display: flex;
   justify-content: space-around;
@@ -31,6 +24,18 @@
 .margin-top-md {
   margin-top: 50px;
 }
+.no-margin-left {
+  margin-left: 0;
+}
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+.padding-top-sm {
+  padding-top: 50px;
+}
+.padding-top-dym {
+  padding-top: 10%;
+}
 .no-padding-left {
   padding-left: 0;
 }
@@ -38,10 +43,13 @@
  * rules facilities
  */
 body {
-  padding-top: 70px;
+  font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+  padding-top: 50px;
 }
 .jumbotron {
+  padding-top: 10%;
   text-align: center;
+  background-color: white;
 }
 .styled-list {
   padding-left: 0;
@@ -55,14 +63,20 @@ body {
   width: 0.7em;
   height: 0.7em;
   border-radius: 50%;
-  background-color: #F44336;
+  background-color: #f44336;
   margin-right: 3px;
 }
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
-  font-weight: 500;
+.h1-sm {
+  font-size: 30px;
 }
+.h2-sm {
+  font-size: 24px;
+}
+.form-control {
+  font-weight: light;
+}
+.navbar {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=main.css.map */

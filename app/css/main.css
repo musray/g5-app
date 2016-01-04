@@ -1,7 +1,7 @@
 /*
  * rules for style
  */
-.jumbotron {
+.text-center {
   text-align: center;
 }
 .button-link {
@@ -26,6 +26,26 @@ body {
 }
 .no-padding-left {
   padding-left: 0;
+}
+/*
+ * rules facilities
+ */
+.jumbotron {
+  text-align: center;
+}
+.styled-list li {
+  list-style: none;
+  padding-left: 0;
+}
+.styled-list li:before {
+  padding-left: 0;
+  content: "";
+  display: inline-block;
+  width: 0.7em;
+  height: 0.7em;
+  border-radius: 50%;
+  background-color: pink;
+  margin-right: 3px;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,81 +1,86 @@
-<h1 class="main_title">五组标准化文档查询</h1>
-<!-- <div class="author_message"> -->
-<!--   {{docq.message}} -->
-<!-- </div> -->
-<div class="container_12 clearfix">
-
-  <div class="grid_3 side_checkbox">
-
-    <h2 class="section_title">筛选</h2>
-
-    <!-- 筛选1 选择适用文件 -->
-    <div class="query_control">
-      <label>选择适用平台</label>
-      <select class="long_input_bar" ng-model="docq.selectedPlatform"
-                           ng-options="c.platform as c.platform for c in docq.selectOptions['platform']">
-      </select>
-    </div>
-
-    <!-- 筛选2 选择适用文件 -->
-    <div class="query_control">
-      <label>选择适用文件</label>
-      <select class="long_input_bar" ng-model="docq.selectedRefDoc"
-                           ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
-      </select>
-    </div>
-
-    <!-- 筛选3 选择文件类型 -->
-    <div class="query_control">
-      <label>选择文件类型</label>
-      <select class="long_input_bar" ng-model="docq.selectedDocCat"
-                           ng-options="c.doc_category as c.doc_category for c in docq.selectOptions['doc_category']">
-      </select>
-    </div>
-
-    <!-- 筛选 模糊关键字 -->
-    <label for="searchbox">关键字查询</label>
-    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
-
-    <h2 class="section_title">常用关键字</h2>
-
-    <div class="side-keyword">
-      <dfn title="CIN">CIN</dfn>
-      <dfn title="CIN">证据涂抹</dfn>
-      <dfn title="CIN">变更申请</dfn>
-      <dfn title="CIN">Change List</dfn>
-      <dfn title="CIN">Design FLow</dfn>
-    </div>
-
-
-  </div>  <!-- class grid_3 side_checkbox -->
-
-  <div class="grid_9 result_content">
-    
-    <h2 class="section title">查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="docq.items.length"></span>条</h2>
-    <table class="query_table">
-      <thead>
-        <tr>
-          <th scope="col" class="md_tab_col">Download</th>
-          <th scope="col" class="lg_tab_col">文件名称</th>
-          <th scope="col" class="md_tab_col">文件版本</th>
-          <th scope="col" class="md_tab_col">适用平台</th>
-          <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
-        </tr>
-      </thead>
-      <tbody>
-        <tr ng-repeat="item in filteredItems = (docq.items |
-                                                filter: docq.hardCodeFilter[docq.selectedPlatform] |
-                                                filter: docq.hardCodeFilter[docq.selectedRefDoc] |
-                                                filter: docq.hardCodeFilter[docq.selectedDocCat] |
-                                                filter: query)">
-
-          <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
-          <td><span ng-class="item.status">{{item.doc_name}}</span></td>
-          <td>{{item.rev}}</td>
-          <td>{{item.platform}}</td>
-          <!-- <td>{{item.description}}</td> -->
-        </tr>
-      </tbody>
-    </table>
-  </div>   <!-- class grid_9 result_content -->
+<div class="container">
+  <div class="row">
+    <h1>五组标准化文档查询</h1>
+  </div>
 </div>
+
+<div class="container">
+    <div class="row">
+
+      <!-- narrow column -->
+      <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
+        <h2>筛选</h2>
+
+        <!-- 筛选1 选择适用文件 -->
+        <label>选择适用平台</label>
+        <select class="form-control margin-bottom" ng-model="docq.selectedPlatform"
+          ng-options="c.platform as c.platform for c in docq.selectOptions['platform']">
+        </select>
+
+        <!-- 筛选2 选择适用文件 -->
+        <label>选择适用文件</label>
+        <select class="form-control margin-bottom" ng-model="docq.selectedRefDoc"
+          ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
+        </select>
+
+
+        <!-- 筛选3 选择文件类型 -->
+        <label>选择文件类型</label>
+        <select class="form-control margin-bottom" ng-model="docq.selectedDocCat"
+          ng-options="c.doc_category as c.doc_category for c in docq.selectOptions['doc_category']">
+        </select>
+
+
+        <!-- 筛选 模糊关键字 -->
+        <label for="searchbox">关键字查询</label>
+        <input class="form-control" type="text" id="searchbox" ng-model="query">
+
+        <h2>常用关键字</h2>
+
+        <div class="side-keyword">
+          <ul class="styled-list">
+            <li>CIN</li>
+            <li>证据涂抹</li>
+            <li>变更申请</li>
+            <li>Change List</li>
+            <li>Design FLow</li>
+          </ul>
+        </div>
+      </div>   <!-- narrow column -->
+
+
+      <!-- wide column -->
+      <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+        <h2>查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="docq.items.length"></span>条</h2>
+        <table class="table table-bordered table-hover table-striped">
+          <thead>
+            <tr>
+              <th scope="col">
+                <span class="glyphicon glyphicon-floppy-disk"></span>
+              </th>
+              <th scope="col">文件名称</th>
+              <th scope="col">文件版本</th>
+              <th scope="col">适用平台</th>
+              <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
+            </tr>
+          </thead>
+          <tbody>
+          <tr ng-repeat="item in filteredItems = (docq.items |
+            filter: docq.hardCodeFilter[docq.selectedPlatform] |
+            filter: docq.hardCodeFilter[docq.selectedRefDoc] |
+            filter: docq.hardCodeFilter[docq.selectedDocCat] |
+            filter: query)">
+
+            <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
+            <td><span ng-class="item.status">{{item.doc_name}}</span></td>
+            <td>{{item.rev}}</td>
+            <td>{{item.platform}}</td>
+            <!-- <td>{{item.description}}</td> -->
+          </tr>
+          </tbody>
+        </table>
+      </div>   <!-- wide column -->
+
+    </div>  <!-- row -->
+</div>  <!-- container -->

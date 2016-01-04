@@ -1,3 +1,5 @@
+@deep-orange: #F57C00;
+@primary-red: #F44336;
 /*
  * rules for style
  */
@@ -9,13 +11,22 @@
   color: white;
   text-decoration: none;
 }
-
+.font-face {
+  font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+  // set font-weight to 500
+  // to unify text stroke thickness
+  // in all version of Windows
+  font-weight: 500;
+}
+.font-size-80 {
+  font-size: 100%;
+}
 
 /*
  * rules for layout
  */
 
-body {
+.padding-top {
   padding-top: 70px;
 }
 .flex-box {
@@ -37,21 +48,32 @@ body {
  * rules facilities
  */
 
+body {
+  .padding-top;
+}
 .jumbotron {
   .text-center;
 }
-
-.styled-list li {
-  list-style:none;
+.styled-list {
   .no-padding-left;
 }
+.styled-list li {
+  list-style:none;
+}
 .styled-list li:before {
-  .no-padding-left;
   content: "";
   display:inline-block;
   width: 0.7em;
   height: 0.7em;
   border-radius: 50%;
-  background-color: pink;
+  background-color: @primary-red;
   margin-right: 3px;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  .font-face;
+  // .font-size-80;
 }

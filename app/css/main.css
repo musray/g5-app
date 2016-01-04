@@ -8,10 +8,17 @@
   color: white;
   text-decoration: none;
 }
+.font-face {
+  font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+  font-weight: 500;
+}
+.font-size-80 {
+  font-size: 100%;
+}
 /*
  * rules for layout
  */
-body {
+.padding-top {
   padding-top: 70px;
 }
 .flex-box {
@@ -30,22 +37,32 @@ body {
 /*
  * rules facilities
  */
+body {
+  padding-top: 70px;
+}
 .jumbotron {
   text-align: center;
 }
-.styled-list li {
-  list-style: none;
+.styled-list {
   padding-left: 0;
 }
+.styled-list li {
+  list-style: none;
+}
 .styled-list li:before {
-  padding-left: 0;
   content: "";
   display: inline-block;
   width: 0.7em;
   height: 0.7em;
   border-radius: 50%;
-  background-color: pink;
+  background-color: #F44336;
   margin-right: 3px;
 }
-
-/*# sourceMappingURL=main.css.map */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Microsoft YaHei", "Arial", "Verdana", "Tahoma";
+  font-weight: 500;
+}

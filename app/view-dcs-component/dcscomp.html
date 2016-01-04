@@ -1,55 +1,51 @@
-<h1 class="main_title">平台硬件信息</h1>
-<!-- <div class="author_message"> -->
-<!--   {{compCtrl.message}} -->
-<!-- </div> -->
-<div class="container_12 clearfix">
+<div class="container">
+  <div class="row">
+    <h1>平台硬件信息</h1>
+  </div>
+</div>
 
-  <div class="grid_3 side_checkbox">
+<div class="container">
+  <div class="row">
 
-    <h2 class="section_title">筛选</h2>
+    <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
+      <h2>筛选</h2>
 
-    <!-- 筛选1 选择适用平台 -->
-    <div class="query_control">
+      <!-- 筛选1 选择适用平台 -->
       <label>选择适用平台</label>
-      <select class="long_input_bar" ng-model="compCtrl.selectedPlatform"
-                           ng-options="c.platform as c.platform for c in compCtrl.selectOptions['platform']">
+      <select class="form-control margin-bottom" ng-model="compCtrl.selectedPlatform"
+        ng-options="c.platform as c.platform for c in compCtrl.selectOptions['platform']">
       </select>
-    </div>
 
-    <!-- 筛选1 选择硬件类型 -->
-    <div class="query_control">
+      <!-- 筛选1 选择硬件类型 -->
       <label>选择常用类型</label>
-      <select class="long_input_bar" ng-model="compCtrl.selectedName"
-                           ng-options="c.name as c.name for c in compCtrl.selectOptions['name']">
+      <select class="form-control margin-bottom" ng-model="compCtrl.selectedName"
+        ng-options="c.name as c.name for c in compCtrl.selectOptions['name']">
       </select>
-    </div>
 
-    <!-- 筛选 模糊关键字 -->
-    <label for="searchbox">使用模糊关键字</label>
-    <input class="long_input_bar" type="text" id="searchbox" ng-model="query">
+      <!-- 筛选 模糊关键字 -->
+      <label for="searchbox">使用模糊关键字</label>
+      <input class="form-control" type="text" id="searchbox" ng-model="query">
+    </div>  <!-- narrow column -->
 
+    <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
 
-  </div>  <!-- class grid_3 side_checkbox -->
-
-  <div class="grid_9 result_content">
-    
-    <h2 class="section title">查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="compCtrl.items.length"></span>条</h2>
-    <table class="query_table">
-      <thead>
-        <tr>
-          <th scope="col" class="md_tab_col">型号</th>
-          <th scope="col" class="md_tab_col">类型</th>
-          <th scope="col" class="lg_tab_col">功能</th>
-          <th scope="col" class="lg_tab_col">规格</th>
-          <th scope="col" class="md_tab_col">平台</th>
-          <th scope="col" class="md_tab_col">系统</th>
-        </tr>
-      </thead>
-      <tbody>
+      <h2>查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="compCtrl.items.length"></span>条</h2>
+      <table class="table table-bordered table-hover table-striped">
+        <thead>
+          <tr>
+            <th scope="col">型号</th>
+            <th scope="col">类型</th>
+            <th scope="col">功能</th>
+            <th scope="col">规格</th>
+            <th scope="col">平台</th>
+            <th scope="col">系统</th>
+          </tr>
+        </thead>
+        <tbody>
         <tr ng-repeat="item in filteredItems = (compCtrl.items |
-                                                filter: compCtrl.hardCodeFilter[compCtrl.selectedPlatform] |
-                                                filter: compCtrl.hardCodeFilter[compCtrl.selectedName] |
-                                                filter: query)">
+          filter: compCtrl.hardCodeFilter[compCtrl.selectedPlatform] |
+          filter: compCtrl.hardCodeFilter[compCtrl.selectedName] |
+          filter: query)">
 
           <td>{{item.module}}</td>
           <td>{{item.name}}</td>
@@ -58,7 +54,9 @@
           <td>{{item.platform}}</td>
           <td>{{item.usage}}</td>
         </tr>
-      </tbody>
-    </table>
-  </div>   <!-- class grid_9 result_content -->
-</div>
+        </tbody>
+      </table>
+    </div>   <!-- wide column -->
+    </div>
+  </div>  <!-- row -->
+</div>  <!-- container -->

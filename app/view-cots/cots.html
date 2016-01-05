@@ -2,7 +2,7 @@
   <div class="row">
     <h1 class="h1">
       <span class="glyphicon glyphicon-th-large"></span>
-      <span class="border-bottom-thick">外购物资查询</span>
+      <span class="border-bottom-thick">外购物资查询 <small>Beta</small></span>
     </h1>
     <p>
       外购物资查询功能处于试用阶段，欢迎提供宝贵意见，或对收录数据进行补充、修正。<br />
@@ -39,24 +39,24 @@
     <!-- wide column -->
     <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
 
-      <h2 class="h2">检索结果</h2>
+      <h2 class="h2">查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="cotsCtrl.items.length"></span>条</h2>
       <table class="table table-bordered table-hover table-striped">
         <thead>
           <tr>
-            <th scope="col">类别</th>
-            <th scope="col">名称</th>
-            <th scope="col">型号</th>
-            <th scope="col">参数</th>
-            <th scope="col">应用</th>
-            <th scope="col">状态</th>
+            <th scope="col" class="text-nowrap">类别</th>
+            <th scope="col" class="text-nowrap">名称</th>
+            <th scope="col" class="text-nowrap">型号</th>
+            <th scope="col" class="text-nowrap">参数</th>
+            <th scope="col" class="text-nowrap">应用</th>
+            <th scope="col" class="text-nowrap">状态</th>
           </tr>
         </thead>
         <tbody>
-        <tr ng-repeat="item in (cotsCtrl.items | filter: cotsCtrl.hardCodeFilter[usage] 
+        <tr ng-repeat="item in filteredItems = (cotsCtrl.items | filter: cotsCtrl.hardCodeFilter[usage] 
                                                | filter: query)">
 
-          <td>{{item.category}}</td>
-          <td>{{item.item}}</td>
+          <td class="text-nowrap">{{item.category}}</td>
+          <td class="text-nowrap">{{item.item}}</td>
           <td>{{item.model}}</td>
           <td>{{item.specification}}</td>
           <td>{{item.application}}</td>

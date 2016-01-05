@@ -41,6 +41,6 @@ angular.module('g5App.cotsApp', ['ngRoute'])
         '继电器': {"category":"继电器"},
         '浪涌保护': {"category":"浪涌保护"},
         '滤波器': {"category":"滤波器"},
-        '其它': {"category":"其他"}
+        '其他': {"category":"其他"}
     };
 }])

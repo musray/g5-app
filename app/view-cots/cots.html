@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <h1 class="h1">
-      <span class="glyphicon glyphicon-th-large"></span>
+      <span class="glyphicon glyphicon-shopping-cart"></span>
       <span class="border-bottom-thick">外购物资查询 <small>Beta</small></span>
     </h1>
     <p>
@@ -31,8 +31,11 @@
         </select>
 
       <!-- 筛选2 模糊关键字 -->
-      <label for="searchbox">模糊查询</label>
-      <input class="form-control input-sm margin-bottom" type="text" id="searchbox" ng-model="query">
+      <label for="searchbox">模糊查询 - 字段1</label>
+      <input class="form-control input-sm margin-bottom" type="text" id="searchbox" ng-model="query_primary">
+
+      <label for="searchbox">模糊查询 - 字段2</label>
+      <input class="form-control input-sm margin-bottom" type="text" id="searchbox" ng-model="query_second">
 
     </div>  <!-- narrow column-->
 
@@ -49,11 +52,14 @@
             <th scope="col" class="text-nowrap">参数</th>
             <th scope="col" class="text-nowrap">应用</th>
             <th scope="col" class="text-nowrap">状态</th>
+            <th scope="col" class="text-nowrap">详情</th>
           </tr>
         </thead>
         <tbody>
-        <tr ng-repeat="item in filteredItems = (cotsCtrl.items | filter: cotsCtrl.hardCodeFilter[usage] 
-                                               | filter: query)">
+        <tr ng-repeat="item in filteredItems = (cotsCtrl.items | 
+                                                  filter: cotsCtrl.hardCodeFilter[usage] |
+                                                  filter: query_primary |
+                                                  filter: query_second)">
 
           <td class="text-nowrap">{{item.category}}</td>
           <td class="text-nowrap">{{item.item}}</td>
@@ -61,11 +67,54 @@
           <td>{{item.specification}}</td>
           <td>{{item.application}}</td>
           <td>{{item.status}}</td>
+          <td>
+            <button class="btn btn-default btn-sm" 
+                    data-toggle="modal" data-target="#detailModal">点击查看
+            </button>
+          </td>
 
         </tr>
         </tbody>
       </table>
     </div>   <!-- wide column-->
 
+    <!-- create the detail modal -->
+    <div class="modal fade" id="detailModal" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+          <!-- The modal header -->
+          <div class="modal-header">
+            <button type="button" class="close"
+              data-dismiss="modal">x</button>
+            <h4 class="modal-title" id="detailModalLabel"> 详细信息:</h4>
+          </div>
+
+          <!-- The modal body -->
+          <div class="modal-body">
+            <div class="form-group" id="inputUserIDFormGroup">
+              <label class="control-label" for="inputUserID">
+                User ID</label>
+              <input class="form-control" type="text" 
+              id="inputUserID" placeholder="Enter your user ID">
+            </div>
+            <div class="form-group" id="inputPasswordFormGroup">
+              <label class="control-label" for="inputPassword">
+                Password</label>
+              <input class="form-control" type="password"
+              id="inputPassword" placeholder="Enter your password">
+            </div>
+          </div>
+
+          <!-- The modal footer -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default"
+              data-dismiss="modal">Cancel</button>
+            <button type="submit" class="btn btn-primary">Login</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
   </div>  <!-- row -->
 </div>  <!-- container -->

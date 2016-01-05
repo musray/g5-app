@@ -101,14 +101,17 @@ body {
   border-left: 5px #e0e0e0 solid;
   padding-left: 5px;
 }
-.glyphicon-chevron-left,
-.glyphicon-chevron-right,
-.glyphicon-th-large {
+.logo-gly,
+.main-gly,
+.title-gly {
   color: #d32f2f;
-  vertical-align: bottom;
 }
-.glyphicon-th-large {
-  color: #d32f2f;
+.logo-gly {
+  vertical-align: baseline;
+}
+.title-gly,
+.main-gly {
+  vertical-align: bottom;
 }
 label {
   font-weight: normal;

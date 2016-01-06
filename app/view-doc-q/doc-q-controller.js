@@ -9,7 +9,7 @@ angular.module('g5App.docApp', ['ngRoute'])
     var self = this;
     self.message = "Page for document query. Under construction";
 
-    $http.get('./view-doc-q/doc_list.json').success(function(data) { self.items = data; });
+    $http.get('./view-doc-q/doc-list.json').success(function(data) { self.items = data; });
 
     self.selectOptions = {
       platformOpt: {"default":"-- 全部 --"},

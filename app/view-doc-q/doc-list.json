@@ -225,36 +225,6 @@
     "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%BB%F9%B1%BEIO%C7%E5%B5%A5%D6%C6%D7%F7%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
   },
   {
-    "doc_name":"安全级DCS(FirmSys)BDSD绘制作业指导",
-    "file_name":"安全级DCS(FirmSys)BDSD绘制作业指导 Rev.A",
-    "doc_index":"030-GN-P-BP-G16-008",
-    "rev":"A",
-    "issue_date":"2013/11/22",
-    "status":"",
-    "doc_category":"作业指导",
-    "platform":"FIRMSYS",
-    "act_category":"基本设计",
-    "refer_to":"BDSD",
-    "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统level 1 的BD/SD (FD) 绘制过程和方\n法，用于指导安全级DCS 系统设计人员进行BDSD 绘制。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1002,
-    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)BDSD%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
-  },
-  {
-    "doc_name":"安全级DCS(FirmSys)BDSD检查作业指导",
-    "file_name":"安全级DCS(FirmSys)BDSD检查作业指导 Rev.A",
-    "doc_index":"030-GN-P-BP-G16-009",
-    "rev":"A",
-    "issue_date":"2013/11/22",
-    "status":"",
-    "doc_category":"检查规范",
-    "platform":"FIRMSYS",
-    "act_category":"检查",
-    "refer_to":"BDSD",
-    "description":"本文档描述了基于 FirmSys 产品的安全级DCS 保护系统BD/SD (FD) 的检查过程和方法，用于\n指导安全级DCS 系统设计人员对BDSD 进行检查。\n本文档适用于北京广利核系统工程有限公司（以下简称CTEC）承担的基于FirmSys 产品\n的压水堆核电站安全级DCS 工程设计。其它类工程设计可参照执行。",
-    "did":1003,
-    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)BDSD%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.A"
-  },
-  {
     "doc_name":"安全级DCS（FirmSys）硬件需求规格书编写指导",
     "file_name":"安全级DCS(FirmSys)硬件需求规格书编写指导 Rev.A",
     "doc_index":"030-GN-P-BP-G16-010",
@@ -3730,7 +3700,7 @@
     "platform":"MELTAC",
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
-    "description":"安全级软件送测至QC时，由设计人员将此送测单，连同软件光盘和随盘文档，一起交给质量部。",
+    "description":"安全级软件送测至QC时，由设计人员将此送测单，连同软件光盘和随盘文档，一起交给质量部。（index: 软件发布，软件送测）",
     "did":1216,
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/022%20%B7%C7%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%CE%C4%BC%FE%C4%A3%B0%E5/CPR1000%B9%A4%B3%CC%C8%ED%BC%FE%CB%CD%B2%E2%B5%A5(%B0%B2%C8%AB%BC%B6Level1)/%B9%A4%B3%CC%C8%ED%BC%FE%CB%CD%B2%E2%B5%A5%A3%A8%B0%B2%C8%AB%BC%B6Level1%A3%A9%C4%A3%B0%E5%202015-8-20.docx"
   },
@@ -3791,7 +3761,7 @@
     "act_category":"硬件设计",
     "refer_to":"IO List",
     "description":"CPR1000项目PIF与或设定总结，由李巍编写。",
-    "did":null,
+    "did":1220,
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/022%20%B7%C7%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%C9%E8%BC%C6%B7%BD%B7%A8/PIF/PIF%D3%EB%BB%F2%C9%E8%B6%A8/SLC%D3%EB%BB%F2%C9%E8%B6%A8%D0%A1%BD%E1%20%D0%DE%B6%A92.pdf"
   },
   {
@@ -3806,7 +3776,7 @@
     "act_category":"软件逻辑组态",
     "refer_to":"Software",
     "description":"CPR1000软件设计过程的总结。",
-    "did":null,
+    "did":1221,
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/022%20%B7%C7%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%C9%E8%BC%C6%B7%BD%B7%A8/%C8%ED%BC%FE%C9%E8%BC%C6/%B8%F6%C8%CB%D7%DC%BD%E1.zip"
   },
   {
@@ -3821,7 +3791,7 @@
     "act_category":"检查",
     "refer_to":"n.a",
     "description":"CPR1000项目V&V问题单的答复方法。（其他关键字VV问题单）",
-    "did":null,
+    "did":1222,
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/022%20%B7%C7%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%CE%C4%BC%FE%C4%A3%B0%E5/CPR1000_V&V%CE%CA%CC%E2%B5%A5%B4%F0%B8%B4%C4%A3%B0%E5/CPR1000_VV%20%CE%CA%CC%E2%B5%A5%20%B4%F0%B8%B4%C4%A3%B0%E5.pdf"
   },
   {
@@ -3836,7 +3806,52 @@
     "act_category":"行政管理",
     "refer_to":"n.a",
     "description":"经验反馈模板",
-    "did":null,
+    "did":1223,
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/022%20%B7%C7%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%CE%C4%BC%FE%C4%A3%B0%E5/%BE%AD%D1%E9%B7%B4%C0%A1%C4%A3%B0%E5/%BE%AD%D1%E9%B7%B4%C0%A1-%C4%A3%B0%E5%202015-10-15%20%A3%A8%D6%A3%CE%B0%D6%C7%A3%A9.docx"
+  },
+  {
+    "doc_name":"安全级DCS断路器选型作业指导",
+    "file_name":"030-GN-P-BP-G16-EMD-228_A_CFC 安全级DCS断路器选型作业指导.pdf",
+    "doc_index":"030-GN-P-BP-G16-EMD-228",
+    "rev":"A",
+    "issue_date":"2015/12/30",
+    "status":"",
+    "doc_category":"作业指导",
+    "platform":"n.a",
+    "act_category":"硬件设计",
+    "refer_to":"n.a",
+    "description":"断路器，选型，断路器选型",
+    "did":1224,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS%B6%CF%C2%B7%C6%F7%D1%A1%D0%CD%D7%F7%D2%B5%D6%B8%B5%BC%20030-GN-P-BP-G16-EMD-228_A_CFC/030-GN-P-BP-G16-EMD-228_A_CFC%20%B0%B2%C8%AB%BC%B6DCS%B6%CF%C2%B7%C6%F7%D1%A1%D0%CD%D7%F7%D2%B5%D6%B8%B5%BC.pdf"
+  },
+  {
+    "doc_name":"功能图检查作业指导",
+    "file_name":"安全级DCS(FirmSys)功能图检查作业指导.pdf",
+    "doc_index":"030-GN-P-BP-G16-EMD-009",
+    "rev":"B",
+    "issue_date":"2015/2/11",
+    "status":"recommend",
+    "doc_category":"作业指导",
+    "platform":"Firmsys",
+    "act_category":"检查",
+    "refer_to":"BDSD",
+    "description":"本文档描述了基于 FirmSys 产品的安全级 DCS 保护系统功能图的检查过程和方法，用于指导安全级 DCS 系统设计人员对功能图进行检查。Index: FD(Function Diagram), BDSD, 功能图",
+    "did":1225,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/030-GN-P-BP-G16-EMD-009_B_CFC%20%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BC%EC%B2%E9%D7%F7%D2%B5%D6%B8%B5%BC.pdf"
+  },
+  {
+    "doc_name":"功能图绘制作业指导",
+    "file_name":"安全级DCS(FirmSys)功能图绘制作业指导 Rev.C.rar",
+    "doc_index":"030-GN-P-BP-G16-EMD-008",
+    "rev":"C",
+    "issue_date":"2015/10/20",
+    "status":"recommend",
+    "doc_category":"作业指导",
+    "platform":"Firmsys",
+    "act_category":"基本设计",
+    "refer_to":"BDSD",
+    "description":"本文档描述了基于 FirmSys 产品的安全级 DCS 保护系统 level 1 的功能图制作过程和方法，用于指导安全级 DCS 系统设计人员进行功能图制作。Index: FD(Function Diagram), BDSD, 功能图",
+    "did":1226,
+    "url":"ftp://172.21.200.32/00.%B2%BF%C3%C5%CE%C4%BC%FE/01.%BC%BC%CA%F5%CE%C4%BC%FE/00.%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/04.%CE%E5%D7%E9%B1%EA%D7%BC%BB%AF%CE%C4%BC%FE/%B9%E3%C0%FB%BA%CB%20%B0%B2%C8%AB%BC%B6%CF%B5%CD%B3%C9%E8%BC%C6%C1%F7%B3%CC%BC%B0%B9%E6%B7%B6/%B2%D9%D7%F7%D6%B8%B5%BC/%B0%B2%C8%AB%BC%B6DCS(FirmSys)%B9%A6%C4%DC%CD%BC%BB%E6%D6%C6%D7%F7%D2%B5%D6%B8%B5%BC%20Rev.C.rar"
   }
 ]

@@ -43,4 +43,10 @@ angular.module('g5App.cotsApp', ['ngRoute'])
         '滤波器': {"category":"滤波器"},
         '其他': {"category":"其他"}
     };
+
+    self.columnShow = {
+      "manufacture": false,
+      "ref_code": false,
+      "category": false
+    };
 }])

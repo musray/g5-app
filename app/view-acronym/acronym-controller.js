@@ -18,7 +18,7 @@ angular.module('g5App.acronym', ['ngRoute'])
       originOpt: {"default":"-- 全部 --"},
       origin: [
         {"origin":"-- 全部 --"},
-        {"origin":"Overall"},
+        {"origin":"通用"},
         {"origin":"CPR1000"},
         {"origin":"AP1000"},
         {"origin":"Firmsys"},
@@ -27,7 +27,7 @@ angular.module('g5App.acronym', ['ngRoute'])
     };
 
     self.hardCodeFilter = {
-        'Overall': {"origin":"Overall"},
+        '通用': {"origin":"Overall"},
         'Firmsys': {"origin":"Firmsys"},
         'CPR1000': {"origin":"CPR1000"},
         'AP1000' : {"origin":"AP1000"},

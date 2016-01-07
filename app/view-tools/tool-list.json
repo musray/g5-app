@@ -92,9 +92,9 @@
   {
     "tool":"AT-PDF-Tool",
     "lastest_ver":"v1.0",
-    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDFo \n命令行模式，有一定的学习门槛；\no 只适合第一版图纸的生成，利用率不高；但确实节省时间；\no 源代码丢失，后续开发的意愿和可能性很低\n",
+    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDF。\n命令行模式，有一定的使用门槛；\n只适合第一版图纸的生成，利用率不高；但确实节省时间；\n源代码丢失，后续开发的意愿和可能性很低\n",
     "platform":"MELTAC",
-    "developer":"袁志胜",
+    "developer":"褚瑞",
     "lang":"n.a",
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F014.AT-PDF-Tool/AT-PDF-Tool%20V1.0.zip"
   }

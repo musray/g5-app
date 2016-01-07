@@ -12,7 +12,7 @@
   {
     "code":"A",
     "designation":"Availability 可用性 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"AA",
@@ -32,7 +32,7 @@
   {
     "code":"AC",
     "designation":"Alternating Current  交流电 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"AC160",
@@ -57,7 +57,7 @@
   {
     "code":"AD",
     "designation":"Analog Diagram  模拟图 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ADG",
@@ -107,7 +107,7 @@
   {
     "code":"AI",
     "designation":"Analog Input  模拟量输入 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"AIC",
@@ -142,7 +142,7 @@
   {
     "code":"AO",
     "designation":"Analog Output  模拟量输出 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"AOC",
@@ -212,7 +212,7 @@
   {
     "code":"ATWS",
     "designation":"Anticipated Transient Without Scram  未能停堆的预期瞬态 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"AV",
@@ -282,7 +282,7 @@
   {
     "code":"BNI",
     "designation":"Balance of Nuclear Island  核岛辅助设施 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"BO",
@@ -322,7 +322,7 @@
   {
     "code":"BUP",
     "designation":"Back Up Panel  后备盘 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"BV",
@@ -347,17 +347,17 @@
   {
     "code":"CCF",
     "designation":"Common Cause Failure  共因故障 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CCMC",
     "designation":"Core Cooling Monitoring Cabinet 堆芯冷却监测机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CCMS",
     "designation":"Core Cooling Monitoring System  堆芯冷却监视系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CD",
@@ -422,22 +422,22 @@
   {
     "code":"CI",
     "designation":"Conventional Island  常规岛 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CIA",
     "designation":"Containment Isolation Phase A  安全壳隔离A阶段 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CIB",
     "designation":"Containment Isolation Phase B  安全壳隔离B阶段 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CIC",
     "designation":"Component Interface Cabinet  设备接口机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CIM",
@@ -452,7 +452,7 @@
   {
     "code":"CIS",
     "designation":"Component Interface System  设备接口子系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CK",
@@ -487,17 +487,17 @@
   {
     "code":"COT",
     "designation":"Core Outlet Thermocouple  堆芯出口热电偶 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"COTS",
     "designation":"Commercial Off The Shelf  商品级现货 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"COWP",
     "designation":"Compact Operator Work Place  紧凑型操作员工作站 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CP",
@@ -517,7 +517,7 @@
   {
     "code":"CPU",
     "designation":"Central Processing Unit  中央处理单元 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CQ",
@@ -532,7 +532,7 @@
   {
     "code":"CR",
     "designation":"Computer Room  计算机房 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CRB",
@@ -542,7 +542,7 @@
   {
     "code":"CRDM",
     "designation":"Control Rod Drive Mechanism  控制棒驱动机构 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CRF",
@@ -562,7 +562,7 @@
   {
     "code":"CS",
     "designation":"Containment Spray  安全壳喷淋 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"CSS",
@@ -627,7 +627,7 @@
   {
     "code":"DAC",
     "designation":"Diversity Actuation Cabinets  多样性驱动柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DAI",
@@ -662,12 +662,12 @@
   {
     "code":"DAS",
     "designation":"Diverse Actuation System  多样化驱动系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DBC",
     "designation":"Design Basic Condition  设计基准条件 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DC",
@@ -677,12 +677,12 @@
   {
     "code":"DC",
     "designation":"Direct Current  直流电 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DCE",
     "designation":"Data Communications Equipment  数据通信设备 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DCS",
@@ -692,7 +692,7 @@
   {
     "code":"DCS",
     "designation":"Digital Control System  数字化控制系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DDS",
@@ -717,7 +717,7 @@
   {
     "code":"DeltaTsat",
     "designation":"Core Outlet Saturation Margin  堆芯出口饱和裕度 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DG",
@@ -727,7 +727,7 @@
   {
     "code":"DGCS",
     "designation":"Diesel Generator Control System  柴油发电机控制系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DH",
@@ -737,7 +737,7 @@
   {
     "code":"DHP",
     "designation":"Diverse HSI Panel  多样性人机接口盘 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DI",
@@ -747,7 +747,7 @@
   {
     "code":"DI",
     "designation":"Digital Input  数字量输入 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DIC",
@@ -832,7 +832,7 @@
   {
     "code":"DNBR",
     "designation":"Departure from Nucleate Boiling Ratio 偏离泡态沸腾比率 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DND",
@@ -882,7 +882,7 @@
   {
     "code":"DO",
     "designation":"Digital Output  数字量输出 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DOC",
@@ -977,7 +977,7 @@
   {
     "code":"DTE",
     "designation":"DataTerminalEquipment  数据终端设备 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"DTL",
@@ -1182,7 +1182,7 @@
   {
     "code":"ECP",
     "designation":"Emergency Control Panel  紧急控制盘 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ED",
@@ -1192,7 +1192,7 @@
   {
     "code":"EDG",
     "designation":"Emergency Diesel Generator  应急柴油发电机 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EE",
@@ -1207,12 +1207,12 @@
   {
     "code":"EFPD",
     "designation":"Equivalent Full Power Day  等效满功率天 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EFT",
     "designation":"Electrical fast transient  快速瞬变脉冲群 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EG",
@@ -1242,12 +1242,12 @@
   {
     "code":"EMC",
     "designation":"Electro-Magnetic Compatibility  电磁兼容 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EMI",
     "designation":"Elector-Magnetic Interfere  电磁干扰 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EN",
@@ -1262,7 +1262,7 @@
   {
     "code":"EOMM",
     "designation":"Equipment Operation and Maintenance Manual 设备运行和维护手册 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EP",
@@ -1292,7 +1292,7 @@
   {
     "code":"ESD",
     "designation":"Electro-Static Discharge  静电放电 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ESF",
@@ -1302,17 +1302,17 @@
   {
     "code":"ESF",
     "designation":"Engineered Safety Features  专设安全设施 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ESFAC",
     "designation":"Engineered Safety Features Actuation Cabinets 专设安全设施驱动机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ESFAS",
     "designation":"Engineered Safety Features Actuation System 专设安全设施驱动系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ETY",
@@ -1327,7 +1327,7 @@
   {
     "code":"EUC",
     "designation":"Equipment Under Control  受控设备 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"EUF",
@@ -1387,7 +1387,7 @@
   {
     "code":"FAT",
     "designation":"Factory Acceptance Tests  工厂验收测试 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"FC",
@@ -1502,7 +1502,7 @@
   {
     "code":"FSS",
     "designation":"Full Scope Simulator  全范围模拟机 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"FT",
@@ -1512,7 +1512,7 @@
   {
     "code":"FT",
     "designation":"Factory Test  工厂测试 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"FTA",
@@ -1717,17 +1717,17 @@
   {
     "code":"GW",
     "designation":"Gateway  网关 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"GWC",
     "designation":"Gateway Cabinet  网关机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"GWS",
     "designation":"Gateway System  网关系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"GZ",
@@ -1772,7 +1772,7 @@
   {
     "code":"HMI",
     "designation":"Human Machine Interface  人机接口 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"HMINet",
@@ -1817,22 +1817,22 @@
   {
     "code":"HV",
     "designation":"High Voltage  高压 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"HVAC",
     "designation":"Heating Ventilation and Air Conditioning  加热、通风和空调系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"I&C",
     "designation":"Instrumentation and Control  仪表和控制 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"I/O",
     "designation":"Input / Output  输入输出 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"IA",
@@ -2027,7 +2027,7 @@
   {
     "code":"KDA",
     "designation":"Severe Accident I&C System  严重事故仪控系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"KDO",
@@ -2037,7 +2037,7 @@
   {
     "code":"KDS",
     "designation":"Diverse Actuation System design for CMF functions (including DAC and Diverse Actuation Panel)  防共因多样性驱动系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"KE",
@@ -2207,7 +2207,7 @@
   {
     "code":"L0/1/L2/L3",
     "designation":"Level 0/1/2/3  0、 1、 2、3层 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LAA",
@@ -2352,7 +2352,7 @@
   {
     "code":"LD",
     "designation":"Logic Diagram  逻辑图 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LDA",
@@ -2362,7 +2362,7 @@
   {
     "code":"LDP",
     "designation":"Large Display Panel (See also POP)  大屏幕 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LE",
@@ -2462,7 +2462,7 @@
   {
     "code":"LHSI",
     "designation":"Low Head Safety Injection  低压安注 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LHT",
@@ -2872,12 +2872,12 @@
   {
     "code":"LOCA",
     "designation":"Loss Of Coolant Accident  失水事故 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LOOP",
     "designation":"Loss of Off-site Power  丧失厂外电 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LP",
@@ -2887,7 +2887,7 @@
   {
     "code":"LPD",
     "designation":"Linear Power Density  线功率密度 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LQ",
@@ -2922,7 +2922,7 @@
   {
     "code":"LSS",
     "designation":"LOCA Surveillance System  LOCA裕度监督系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"LT",
@@ -2992,7 +2992,7 @@
   {
     "code":"MCR",
     "designation":"Main Control Room  主控室 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MCR",
@@ -3032,7 +3032,7 @@
   {
     "code":"MFI",
     "designation":"Main Feed-water Isolation  主给水隔离 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MFWS",
@@ -3052,7 +3052,7 @@
   {
     "code":"MHSI",
     "designation":"Medium Head Safety Injection  中压安注 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MI",
@@ -3082,7 +3082,7 @@
   {
     "code":"MMI",
     "designation":"Man-Machine Interface  人机接口 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MN",
@@ -3162,7 +3162,7 @@
   {
     "code":"MTBF",
     "designation":"Mean Time Between Failure  平均故障间隔时间 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MTP",
@@ -3182,7 +3182,7 @@
   {
     "code":"MTTR",
     "designation":"Mean Time To Repair  平均修复时间 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"MU",
@@ -3222,7 +3222,7 @@
   {
     "code":"NC",
     "designation":"Non Classified  非安全级(无级 ) ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"NCB",
@@ -3252,7 +3252,7 @@
   {
     "code":"NI",
     "designation":"Nuclear Island  核岛 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"NIS",
@@ -3282,12 +3282,12 @@
   {
     "code":"NPP",
     "designation":"Nuclear Power Plant  核电厂 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"NR",
     "designation":"Narrow Range  窄量程 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"NRC",
@@ -3307,12 +3307,12 @@
   {
     "code":"OBE",
     "designation":"Operation Basis Earthquake  运行基准地震 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"OCP",
     "designation":"Over Current Protection  过流保护 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"OCS",
@@ -3322,12 +3322,12 @@
   {
     "code":"OVP",
     "designation":"Over Voltage Protection  过压保护 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"OWP",
     "designation":"Operator Work Place  操作员工作站 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"P05",
@@ -3352,12 +3352,12 @@
   {
     "code":"PAMS",
     "designation":"Post Accident Monitoring System  事故后监视系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PAS",
     "designation":"Process Automation System  过程自动化系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"Patent",
@@ -3407,7 +3407,7 @@
   {
     "code":"PFA",
     "designation":"Probability of Fail to Actuate  拒动概率 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PG",
@@ -3417,12 +3417,12 @@
   {
     "code":"P-GU",
     "designation":"PAMS Graphic Display Unit  PAMS图形显示单元 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"P-GUP",
     "designation":"P-GU Processor P-GU处理器 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PH",
@@ -3437,12 +3437,12 @@
   {
     "code":"PICS",
     "designation":"Process Information and Control System 过程信息和控制系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PIE",
     "designation":"Postulated Initiating Event  假设始发事件 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PJ",
@@ -3482,7 +3482,7 @@
   {
     "code":"PM",
     "designation":"Preventive Maintenance  预防性维修 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PMC",
@@ -3507,7 +3507,7 @@
   {
     "code":"POP",
     "designation":"Plant Overview Panel (correspond to LDP for Large Screens Displays)  大屏幕 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PP",
@@ -3532,12 +3532,12 @@
   {
     "code":"PSAR",
     "designation":"Preliminary Safety Analysis Report  初步安全分析报告 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PSAS",
     "designation":"Plant Standard Automation System  电厂标准自动化系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"PT",
@@ -3647,7 +3647,7 @@
   {
     "code":"RCCA",
     "designation":"Rod Cluster Control Assembly  控制棒束组件 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RCD",
@@ -3717,7 +3717,7 @@
   {
     "code":"RFI",
     "designation":"Radio Frequency Interfere  射频干扰 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RFU",
@@ -3812,7 +3812,7 @@
   {
     "code":"RPC",
     "designation":"Reactor Protection Cabinet  反应堆保护机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RPE",
@@ -3832,17 +3832,17 @@
   {
     "code":"RPS",
     "designation":"Reactor Protection System  反应堆保护系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RPV",
     "designation":"Reactor Pressure Vessel  反应堆压力容器 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RPVL",
     "designation":"Reactor Pressure Vessel Level  反应堆压力容器液位 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RR",
@@ -3882,7 +3882,7 @@
   {
     "code":"RSS",
     "designation":"Remote Shutdown Station  远程停堆站 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RST",
@@ -3897,22 +3897,22 @@
   {
     "code":"RT",
     "designation":"Reactor Trip  紧急停堆 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RTB",
     "designation":"Reactor Trip Breaker  停堆断路器 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RTD",
     "designation":"Resistance Temperature Detector  热电阻 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RTS",
     "designation":"Reactor Trip System  反应堆停堆保护系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"RU",
@@ -3937,7 +3937,7 @@
   {
     "code":"SAI&C",
     "designation":"Severe Accident I&C  严重事故仪表系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SAP",
@@ -3947,7 +3947,7 @@
   {
     "code":"SAP",
     "designation":"Severe Accident Panel  严重事故仪控监视和操作盘 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SAR",
@@ -3992,7 +3992,7 @@
   {
     "code":"SCIS",
     "designation":"Safety Control and Information System 安全控制显示系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SCR",
@@ -4097,12 +4097,12 @@
   {
     "code":"SF",
     "designation":"Single Failure  单一故障 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SFR",
     "designation":"Spurious failure rate  误动率 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SG",
@@ -4112,7 +4112,7 @@
   {
     "code":"SG",
     "designation":"Steam Generator  蒸汽发生器 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SGZ",
@@ -4132,7 +4132,7 @@
   {
     "code":"SI",
     "designation":"Safety Injection  安注 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SIB",
@@ -4142,7 +4142,7 @@
   {
     "code":"SICS",
     "designation":"Safety Information and Control System 安全信息和控制系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SIR",
@@ -4177,7 +4177,7 @@
   {
     "code":"SLI",
     "designation":"Steam Line Isolation  蒸汽管线隔离 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SLINK",
@@ -4237,7 +4237,7 @@
   {
     "code":"SPC",
     "designation":"Signal Preprocess Cabinet  信号预处理机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SR",
@@ -4247,7 +4247,7 @@
   {
     "code":"SRC",
     "designation":"Safety Related Cabinet  安全相关机柜 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SRE",
@@ -4267,7 +4267,7 @@
   {
     "code":"SRS",
     "designation":"Safety Related System  安全相关系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"SS",
@@ -4282,7 +4282,7 @@
   {
     "code":"SSE",
     "designation":"Safety Shutdown Earthquake  安全停堆地震 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"ST",
@@ -4347,7 +4347,7 @@
   {
     "code":"TC",
     "designation":"Thermocouple  热电偶 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"TD",
@@ -4402,7 +4402,7 @@
   {
     "code":"TIU",
     "designation":"Test Interface Unit  测试接口单元，用于定期试验。 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"TJ",
@@ -4442,7 +4442,7 @@
   {
     "code":"TPCS",
     "designation":"Turbine Protection and Control System 汽轮机保护和控制系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"TQ",
@@ -4457,7 +4457,7 @@
   {
     "code":"TRA",
     "designation":"Transience Record and Analysis System 瞬态记录分析系统 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"TS",
@@ -4467,7 +4467,7 @@
   {
     "code":"TSC",
     "designation":"Technical Support Center  技术支持中心 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"TT",
@@ -4607,7 +4607,7 @@
   {
     "code":"V&V",
     "designation":"Verification and Validation  验证和确认 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"VA",
@@ -4632,7 +4632,7 @@
   {
     "code":"VDU",
     "designation":"Visual Display Unit  图形化显示单元 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"VE",
@@ -4747,7 +4747,7 @@
   {
     "code":"WR",
     "designation":"Wide Range  宽量程 ",
-    "origin":"overall"
+    "origin":"Overall"
   },
   {
     "code":"WV",

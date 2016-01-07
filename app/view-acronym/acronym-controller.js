@@ -14,4 +14,23 @@ angular.module('g5App.acronym', ['ngRoute'])
       return { 'code' : code };
     };
 
+    self.selectOptions = {
+      originOpt: {"default":"-- 全部 --"},
+      origin: [
+        {"origin":"-- 全部 --"},
+        {"origin":"Overall"},
+        {"origin":"CPR1000"},
+        {"origin":"AP1000"},
+        {"origin":"Firmsys"},
+        {"origin":"FitRel"}
+      ]
+    };
+
+    self.hardCodeFilter = {
+        'Overall': {"origin":"Overall"},
+        'Firmsys': {"origin":"Firmsys"},
+        'CPR1000': {"origin":"CPR1000"},
+        'AP1000' : {"origin":"AP1000"},
+        'Fitrel' : {"origin":"FitRel"}
+    };
 }])

@@ -23,6 +23,12 @@
     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2 no-padding-left">
       <h2 class="h2">筛选</h2>
 
+      <!-- 筛选 选择大分类 -->
+        <label>选择术语分类</label>
+        <select class="form-control input-sm margin-bottom" ng-model="usage"
+          ng-options="c.origin as c.origin for c in acrCtrl.selectOptions['origin']">
+        </select>
+
       <!-- 筛选 指定码精确查找 -->
       <div class="form-group">
         <label for="searchbox">根据关键字检索</label>
@@ -31,8 +37,10 @@
 
       <!-- 筛选 模糊关键字 -->
       <div class="form-group">
-        <label for="searchbox">模糊检索</label>
-        <input class="form-control input-sm margin-bottom" type="text" id="searchbox" ng-model="query">
+        <label for="searchbox">模糊检索 - 字段1</label>
+        <input class="form-control input-sm margin-bottom" type="text" id="searchbox-prim" ng-model="query_prim">
+        <label for="searchbox">模糊检索 - 字段2</label>
+        <input class="form-control input-sm margin-bottom" type="text" id="searchbox-sub" ng-model="query_sub">
       </div>
 
     </div>  <!-- end narrow column -->
@@ -40,20 +48,25 @@
     <!-- wide column -->
     <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
 
-      <h2 class="h2">检索结果</h2>
+      <h2 class="h2">查询结果：<span ng-bind="filteredItems.length"></span>条 | 总记录 <span ng-bind="acrCtrl.items.length"></span>条</h2>
+
       <table class="table table-bordered table-hover table-striped">
         <thead>
           <tr>
-            <th scope="col">关键字</th>
-            <th scope="col">全称</th>
-            <th scope="col">来源</th>
+            <th scope="col" class="text-nowrap">关键字</th>
+            <th scope="col" class="text-nowrap">全称</th>
+            <th scope="col" class="text-nowrap">来源</th>
             <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
           </tr>
         </thead>
         <tbody>
-          <tr ng-repeat="item in (acrCtrl.items | filter: acrCtrl.codeIndex(speciCode) | filter: query)">
+          <tr ng-repeat="item in filteredItems = (acrCtrl.items |
+                                  filter: acrCtrl.hardCodeFilter[usage] |
+                                  filter: acrCtrl.codeIndex(speciCode) |
+                                  filter: query_prim |
+                                  filter: query_sub)">
 
-            <td>{{item.code}}</td>
+            <td class="text-nowrap">{{item.code}}</td>
             <td>{{item.designation}}</td>
             <td>{{item.origin}}</td>
 

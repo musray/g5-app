@@ -31,6 +31,6 @@ angular.module('g5App.acronym', ['ngRoute'])
         'Firmsys': {"origin":"Firmsys"},
         'CPR1000': {"origin":"CPR1000"},
         'AP1000' : {"origin":"AP1000"},
-        'Fitrel' : {"origin":"FitRel"}
+        'FitRel' : {"origin":"FitRel"}
     };
 }])

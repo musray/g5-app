@@ -1,113 +1,633 @@
 [
   {
-    "code":"ABP",
-    "designation":"Low pressure Feedwater Heater低压给水加热器系",
+    "code":"1HP",
+    "designation":"1HP＝5.08mm",
+    "origin":"Overall"
+  },
+  {
+    "code":"1U",
+    "designation":"1U=44.45mm （GB/T3047.2）",
+    "origin":"Overall"
+  },
+  {
+    "code":"A",
+    "designation":"Availability 可用性 ",
+    "origin":"overall"
+  },
+  {
+    "code":"AA",
+    "designation":"Alarm light / Visual alarm 报警灯 / 可见报警信号",
     "origin":"CPR1000"
+  },
+  {
+    "code":"ABP",
+    "designation":"Low pressure Feedwater Heater低压给水加热器系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AC",
+    "designation":"Elevator-lift 电梯-升降机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AC",
+    "designation":"Alternating Current  交流电 ",
+    "origin":"overall"
+  },
+  {
+    "code":"AC160",
+    "designation":"Advant Controller 160 AC160处理器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"ACG",
+    "designation":"Algorithm Code Generator  算法代码生成器 ",
+    "origin":"FirmSys"
   },
   {
     "code":"ACO",
-    "designation":"Feedwater Heaters Drain Recovery 给水加热器疏水回收系",
+    "designation":"Feedwater Heaters Drain Recovery 给水加热器疏水回收系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"AD",
+    "designation":"Absorber 吸收器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AD",
+    "designation":"Analog Diagram  模拟图 ",
+    "origin":"overall"
   },
   {
     "code":"ADG",
-    "designation":"Feedwater Deaerating Tank and Gas Stripper 给水除气器系",
+    "designation":"Feedwater Deaerating Tank and Gas Stripper 给水除气器系统",
     "origin":"CPR1000"
   },
   {
-    "code":"ADS#",
-    "designation":"LV AC Network 380V (ET Building)低压交流电源（380V）系统ET厂房",
+    "code":"ADS",
+    "designation":"LV AC Network 380V (ET Building)低压交流电源（380V）系统统ET厂房",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AE",
+    "designation":"Air heater 空气加热器/热水盘管",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AF",
+    "designation":"Air cooler-cooling tower 空气冷却器-冷却塔",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AF100",
+    "designation":"Advant Fieldbus 100 AF100总线",
+    "origin":"AP1000"
+  },
+  {
+    "code":"AG",
+    "designation":"Agitator-vibrator-stirrer 搅拌器-振动器",
     "origin":"CPR1000"
   },
   {
     "code":"AGM",
-    "designation":"Motor Driven Feedwater Pump Lubrication 电动主给水泵润滑油及调节油系",
+    "designation":"Motor Driven Feedwater Pump Lubrication 电动主给水泵润滑油及调节油系统",
     "origin":"CPR1000"
   },
   {
     "code":"AHP",
-    "designation":"High Pressure Feedwater Heater高压给水加热器系",
+    "designation":"High Pressure Feedwater Heater高压给水加热器系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AI",
+    "designation":"Fire Cabinet 消防柜/消火栓箱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AI",
+    "designation":"Analog Input  模拟量输入 ",
+    "origin":"overall"
+  },
+  {
+    "code":"AIC",
+    "designation":"Analog Input Card  模拟量输入板卡 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"AIS",
+    "designation":"Analog Input Sub-module  模拟量输入板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"AL",
+    "designation":"Power supply 电源",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AM",
+    "designation":"Amplifier Module 放大器模块",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AN",
+    "designation":"Stabilized power supply 稳压电源",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AO",
+    "designation":"Anode-Positive pole 阳极-正极",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AO",
+    "designation":"Analog Output  模拟量输出 ",
+    "origin":"overall"
+  },
+  {
+    "code":"AOC",
+    "designation":"Analog Output Card  模拟量输出板卡 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"AOS",
+    "designation":"Analog Output Sub-module  模拟量输出板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"AP",
+    "designation":"Generator 发电机",
     "origin":"CPR1000"
   },
   {
     "code":"APA",
-    "designation":"Motor-Driven Feedwater Pump电动主给水泵系",
+    "designation":"Motor-Driven Feedwater Pump电动主给水泵系统",
     "origin":"CPR1000"
   },
   {
     "code":"APD",
-    "designation":"Start-up Feedwater System启动给水系",
+    "designation":"Start-up Feedwater System启动给水系统",
     "origin":"CPR1000"
   },
   {
     "code":"APG",
-    "designation":"Steam Generator Blowdown蒸汽发生器排污系",
+    "designation":"Steam Generator Blowdown蒸汽发生器排污系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AQ",
+    "designation":"Accumulator 安注罐",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AR",
+    "designation":"Cabinet-Control cabinet 控制柜",
     "origin":"CPR1000"
   },
   {
     "code":"ARE",
-    "designation":"Main Feedwater Flow Control主给水流量控制系",
+    "designation":"Main Feedwater Flow Control主给水流量控制系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AS",
+    "designation":"Fuel assembly 燃料组件",
     "origin":"CPR1000"
   },
   {
     "code":"ASG",
-    "designation":"Auxiliary Feedwater 辅助给水系",
+    "designation":"Auxiliary Feedwater 辅助给水系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"AT",
+    "designation":"Automatic chemical Monitoring and control device 自动化学监测和控制装置",
     "origin":"CPR1000"
   },
   {
     "code":"ATE",
-    "designation":"Condensate Polishing Plant凝结水净化处理系",
+    "designation":"Condensate Polishing Plant凝结水净化处理系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ATWS",
+    "designation":"Anticipated Transient Without Scram  未能停堆的预期瞬态 ",
+    "origin":"overall"
+  },
+  {
+    "code":"AV",
+    "designation":"Head of rainwater drainpipe 雨水排放管的集水口",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BA",
+    "designation":"Tank-Pressurizer 储罐-稳压器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BB",
+    "designation":"Sparger 喷雾器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BC",
+    "designation":"Junction box 接线盒",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BD",
+    "designation":"Handling turret 吊运转动台",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BE",
+    "designation":"Test loop 试验环路",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BF",
+    "designation":"Spray loop 喷淋环路",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BG",
+    "designation":"Gas cylinder 气体钢瓶",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BI",
+    "designation":"Fire hydrant or stand pipe 消防栓",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BK",
+    "designation":"Control rod actuation unit 控制棒执行装置",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BL",
+    "designation":"Nozzle 喷嘴、接管",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BM",
+    "designation":"Test box 试验箱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BN",
+    "designation":"Terminal block or strip 端子板",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BNI",
+    "designation":"Balance of Nuclear Island  核岛辅助设施 ",
+    "origin":"overall"
+  },
+  {
+    "code":"BO",
+    "designation":"Plug 插头",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BPL",
+    "designation":"Bistable Processor Logic 双稳态处理器逻辑",
+    "origin":"AP1000"
+  },
+  {
+    "code":"BQ",
+    "designation":"Emergency light 应急照明",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BR",
+    "designation":"Control or shutdown rod 控制棒或安全棒",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BS",
+    "designation":"Cold junction box 冷端盒",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BT",
+    "designation":"Battery 蓄电池",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BU",
+    "designation":"Cofferdam-sluice gate 防水堰水闸",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"BUP",
+    "designation":"Back Up Panel  后备盘 ",
+    "origin":"overall"
+  },
+  {
+    "code":"BV",
+    "designation":"Lamp box 灯具箱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CA",
+    "designation":"Adaptor card 适配器（卡）",
     "origin":"CPR1000"
   },
   {
     "code":"CAR",
-    "designation":"Turbine Exhaust Water Spraying汽机排气口喷淋系",
+    "designation":"Turbine Exhaust Water Spraying汽机排气口喷淋系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CC",
+    "designation":"Selector switch or key pad 选择器开关或键盘",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CCF",
+    "designation":"Common Cause Failure  共因故障 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CCMC",
+    "designation":"Core Cooling Monitoring Cabinet 堆芯冷却监测机柜 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CCMS",
+    "designation":"Core Cooling Monitoring System  堆芯冷却监视系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CD",
+    "designation":"Capacitor 电容器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CDS",
+    "designation":"凝结水",
+    "origin":"AP1000"
+  },
+  {
+    "code":"CE",
+    "designation":"Frequency converter or shifter 变频器或移相器",
     "origin":"CPR1000"
   },
   {
     "code":"CET",
-    "designation":"Turbine Gland 汽机轴封系",
+    "designation":"Turbine Gland 汽机轴封系统",
     "origin":"CPR1000"
   },
   {
     "code":"CEX",
-    "designation":"Condensate Extraction 凝结水抽取系",
+    "designation":"Condensate Extraction 凝结水抽取系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CF",
+    "designation":"Centrifugal purifier 离心式净化器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CFD",
+    "designation":"Functional domain (e.g. standard PT domain, SOP domains…) 功能区域（如PT图，SOP功能图）",
     "origin":"CPR1000"
   },
   {
     "code":"CFI",
-    "designation":"Circulating Water Filtration 循环水过滤系",
+    "designation":"Circulating Water Filtration 循环水过滤系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CFR",
+    "designation":"Code of Federal Regulations, 常见的如10 CFR 50（Title 10, of the Code of Federal Regulations, Part 50）",
+    "origin":"Overall"
+  },
+  {
+    "code":"CG",
+    "designation":"Control rod drive 控制棒驱动",
     "origin":"CPR1000"
   },
   {
     "code":"CGR",
-    "designation":"Circulating Water Pump Lubrication 循环水泵润滑系",
+    "designation":"Circulating Water Pump Lubrication 循环水泵润滑系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CH",
+    "designation":"Boiler 锅炉",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CI",
+    "designation":"Conventional Island  常规岛 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CIA",
+    "designation":"Containment Isolation Phase A  安全壳隔离A阶段 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CIB",
+    "designation":"Containment Isolation Phase B  安全壳隔离B阶段 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CIC",
+    "designation":"Component Interface Cabinet  设备接口机柜 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CIM",
+    "designation":"Component Interface Module 设备接口模块",
+    "origin":"AP1000"
+  },
+  {
+    "code":"CIM",
+    "designation":"Component Interface Module  设备接口模块 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"CIS",
+    "designation":"Component Interface System  设备接口子系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CK",
+    "designation":"Chromatograph 色谱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CL",
+    "designation":"Light switch 照明开关",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CMS",
+    "designation":"凝汽器抽真空系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"CN",
+    "designation":"Column 柱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CO",
+    "designation":"Compressor or booster 压缩机或增压器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CommonQ",
+    "designation":"Common Qualified 西屋公司安全级仪控平台",
+    "origin":"AP1000"
+  },
+  {
+    "code":"COT",
+    "designation":"Core Outlet Thermocouple  堆芯出口热电偶 ",
+    "origin":"overall"
+  },
+  {
+    "code":"COTS",
+    "designation":"Commercial Off The Shelf  商品级现货 ",
+    "origin":"overall"
+  },
+  {
+    "code":"COWP",
+    "designation":"Compact Operator Work Place  紧凑型操作员工作站 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CP",
+    "designation":"Coupling (hydraulic or Mechanical) （水力或机械）联轴器",
     "origin":"CPR1000"
   },
   {
     "code":"CPA",
-    "designation":"Cathodic Protection 阴极保护系",
+    "designation":"Cathodic Protection 阴极保护系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CPLD",
+    "designation":"看门狗电路",
+    "origin":"Overall"
+  },
+  {
+    "code":"CPU",
+    "designation":"Central Processing Unit  中央处理单元 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CQ",
+    "designation":"Frame 机架",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CR",
+    "designation":"Box-Marshalling box 箱子-分配箱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CR",
+    "designation":"Computer Room  计算机房 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CRB",
+    "designation":"Curves objects 曲线对象",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CRDM",
+    "designation":"Control Rod Drive Mechanism  控制棒驱动机构 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CRF",
+    "designation":"Circulating Water 循环水系统",
     "origin":"CPR1000"
   },
   {
     "code":"CRF",
-    "designation":"Circulating Water 循环水系",
+    "designation":"Profiles (e.g. Primary pump parameters.…) 多边形区域（主泵参数工作图）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CS",
+    "designation":"Condenser 凝汽器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CS",
+    "designation":"Containment Spray  安全壳喷淋 ",
+    "origin":"overall"
+  },
+  {
+    "code":"CSS",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"CSS",
+    "designation":"Communication Switch Sub-module  总线管理模块 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"CT",
+    "designation":"Printed circuit board 印刷电路板                                                                                                     Temperature converter 温度转换器",
     "origin":"CPR1000"
   },
   {
     "code":"CTE",
-    "designation":"Circulating Water Treatment 循环水处理系",
+    "designation":"Circulating Water Treatment 循环水处理系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CU",
+    "designation":"Liner (Retention pit) （水池）衬里",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CV",
+    "designation":"Key interlock mechanism 键锁机构",
     "origin":"CPR1000"
   },
   {
     "code":"CVI",
-    "designation":"Condenser Vacuum 凝汽器真空系",
+    "designation":"Condenser Vacuum 凝汽器真空系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CW",
+    "designation":"Vessel 容器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"CWS",
+    "designation":"循环水系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"CX",
+    "designation":"Handling trolley 搬运小车",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DA",
+    "designation":"snubber 阻尼器",
     "origin":"CPR1000"
   },
   {
     "code":"DAA",
-    "designation":"BOP Elevator System BOP 电梯系",
+    "designation":"BOP Elevator System BOP 电梯系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"DAC",
+    "designation":"Diversity Actuation Cabinets  多样性驱动柜 ",
+    "origin":"overall"
   },
   {
     "code":"DAI",
@@ -120,13 +640,138 @@
     "origin":"CPR1000"
   },
   {
+    "code":"Dance",
+    "designation":"Firmsys平台工程师站 -下装维护模块",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"DANCE",
+    "designation":"Downlaod And Check Enviroment  工程师站下装和校验工具 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"DAS",
+    "designation":"多样性驱动系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"DAS",
+    "designation":"Diverse Actuation System 多样性驱动系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"DAS",
+    "designation":"Diverse Actuation System  多样化驱动系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DBC",
+    "designation":"Design Basic Condition  设计基准条件 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DC",
+    "designation":"Fuel handling equipment 核燃料装卸设备",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DC",
+    "designation":"Direct Current  直流电 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DCE",
+    "designation":"Data Communications Equipment  数据通信设备 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DCS",
+    "designation":"数字化仪控系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"DCS",
+    "designation":"Digital Control System  数字化控制系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DDS",
+    "designation":"数据显示和处理系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"DE",
+    "designation":"Demineralizer 除盐装置",
+    "origin":"CPR1000"
+  },
+  {
     "code":"DEG",
-    "designation":"Nuclear Island Chilled Water 核岛冷冻水系",
+    "designation":"Nuclear Island Chilled Water 核岛冷冻水系统",
     "origin":"CPR1000"
   },
   {
     "code":"DEL",
-    "designation":"Electrical Building Chilled Water 电气厂房冷冻水系",
+    "designation":"Electrical Building Chilled Water 电气厂房冷冻水系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DeltaTsat",
+    "designation":"Core Outlet Saturation Margin  堆芯出口饱和裕度 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DG",
+    "designation":"Trash rake 栏污栅",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DGCS",
+    "designation":"Diesel Generator Control System  柴油发电机控制系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DH",
+    "designation":"Oil remover 除油器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DHP",
+    "designation":"Diverse HSI Panel  多样性人机接口盘 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DI",
+    "designation":"Membrane-diaphragm 膜片-隔膜",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DI",
+    "designation":"Digital Input  数字量输入 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DIC",
+    "designation":"Digital Input Card  数字量输入板卡 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"DIS",
+    "designation":"Digital Input Sub-module  数字量输入板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"DK",
+    "designation":"Rupture membrane or disk 爆破膜或爆破盘",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DL",
+    "designation":"Inverter 逆变器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DM",
+    "designation":"Handling flask-shipping cask 屏蔽容器-运输容器",
     "origin":"CPR1000"
   },
   {
@@ -135,28 +780,33 @@
     "origin":"CPR1000"
   },
   {
+    "code":"DMC",
+    "designation":"Dot Matrix Characters Display Connection DMC点阵字符板卡 ",
+    "origin":"FirmSys"
+  },
+  {
     "code":"DMH",
-    "designation":"Miscellaneous Hoists and Lifting Equipment in BOP Buildings and Areas                                                                      BOP 厂房BOP区域内的各种起吊设",
+    "designation":"Miscellaneous Hoists and Lifting Equipment in BOP Buildings and Areas                                                                      BOP 厂房BOP区域内的各种起吊设备",
     "origin":"CPR1000"
   },
   {
     "code":"DMK",
-    "designation":"Fuel Building Handling Equipment 核燃料厂房搬运装卸设",
+    "designation":"Fuel Building Handling Equipment 核燃料厂房搬运装卸设备",
     "origin":"CPR1000"
   },
   {
     "code":"DMM",
-    "designation":"Turbine Hall Mechanical Handling Equipment 汽机厂房机械搬运装卸设",
+    "designation":"Turbine Hall Mechanical Handling Equipment 汽机厂房机械搬运装卸设备",
     "origin":"CPR1000"
   },
   {
     "code":"DMN",
-    "designation":"Nuclear Auxiliary Building Handling Equipment 核辅助厂房搬运装卸设",
+    "designation":"Nuclear Auxiliary Building Handling Equipment 核辅助厂房搬运装卸设备",
     "origin":"CPR1000"
   },
   {
     "code":"DMP",
-    "designation":"Circulating Water Pumping Station Handling Equipment 循环水泵站搬运装卸设",
+    "designation":"Circulating Water Pumping Station Handling Equipment 循环水泵站搬运装卸设备",
     "origin":"CPR1000"
   },
   {
@@ -170,9 +820,19 @@
     "origin":"CPR1000"
   },
   {
+    "code":"DN",
+    "designation":"Deionizer 去离子器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"DNB",
     "designation":"BOP Buildings & Areas-Normal Lighting BOP 厂房和BOP区域正常照明系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"DNBR",
+    "designation":"Departure from Nucleate Boiling Ratio 偏离泡态沸腾比率 ",
+    "origin":"overall"
   },
   {
     "code":"DND",
@@ -217,6 +877,41 @@
   {
     "code":"DNW",
     "designation":"Peripheral Building Normal Lighting 连接厂房正常照明系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DO",
+    "designation":"Digital Output  数字量输出 ",
+    "origin":"overall"
+  },
+  {
+    "code":"DOC",
+    "designation":"Digital Output Card  数字量输出板卡 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"DOS",
+    "designation":"Digital Output Sub-module  数字量输出板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"DP",
+    "designation":"Rod cluster control changing fixture 控制棒束换位架",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DR",
+    "designation":"Control valve (spool type) 错油阀（用于油动机）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DRPI",
+    "designation":"控制棒控制和棒位指示系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"DS",
+    "designation":"Dehydrating-desiccator-dryer 脱水器-干燥器",
     "origin":"CPR1000"
   },
   {
@@ -273,6 +968,16 @@
     "code":"DSW",
     "designation":"Peripheral Building Emergency Lighting 连接厂房应急照明系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"DT",
+    "designation":"Detector 检测器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DTE",
+    "designation":"DataTerminalEquipment  数据终端设备 ",
+    "origin":"overall"
   },
   {
     "code":"DTL",
@@ -425,9 +1130,39 @@
     "origin":"CPR1000"
   },
   {
+    "code":"DY",
+    "designation":"Diode 二极管",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"DZ",
+    "designation":"Deaerator-gas stripper 除氧器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EA",
+    "designation":"Electromagnet 电磁铁",
+    "origin":"CPR1000"
+  },
+  {
     "code":"EAS",
     "designation":"Containment Spray 安全壳喷淋系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"EAST",
+    "designation":"Firmsys平台工程师站",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"EAST",
+    "designation":"Engineering Application Software Tool  工程师软件总控工具 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"EASTSuite",
+    "designation":"Engineering Application Software Tool Suite 工程师软件工具包 ",
+    "origin":"FirmSys"
   },
   {
     "code":"EAU",
@@ -440,14 +1175,159 @@
     "origin":"CPR1000"
   },
   {
+    "code":"EC",
+    "designation":"Shield (protection)-computer logic input 屏蔽-计算机逻辑输入",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ECP",
+    "designation":"Emergency Control Panel  紧急控制盘 ",
+    "origin":"overall"
+  },
+  {
+    "code":"ED",
+    "designation":"Miscellaneous components 杂项设备",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EDG",
+    "designation":"Emergency Diesel Generator  应急柴油发电机 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EE",
+    "designation":"Clutch electromagnet 啮合电磁铁",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EF",
+    "designation":"Closing solenoid valve (pilot) 常闭式先导电磁阀",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EFPD",
+    "designation":"Equivalent Full Power Day  等效满功率天 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EFT",
+    "designation":"Electrical fast transient  快速瞬变脉冲群 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EG",
+    "designation":"Mixer 混合器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EI",
+    "designation":"Reactor pressure vessel internals 堆内构件",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EJ",
+    "designation":"Ejector 喷射器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EL",
+    "designation":"Solenoid valve (pilot) （先导）电磁阀",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EM",
+    "designation":"Membrane or diaphragm 膜片或隔膜",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EMC",
+    "designation":"Electro-Magnetic Compatibility  电磁兼容 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EMI",
+    "designation":"Elector-Magnetic Interfere  电磁干扰 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EN",
+    "designation":"Recorder 记录仪",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EO",
+    "designation":"Opening solenoid valve (pilot) 常开式（先导）电磁阀",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EOMM",
+    "designation":"Equipment Operation and Maintenance Manual 设备运行和维护手册 ",
+    "origin":"overall"
+  },
+  {
+    "code":"EP",
+    "designation":"Electro - pneumatic converter 电动-气动转换器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"EPP",
     "designation":"Containment Leakage Monitoring 安全壳泄漏监测系统",
     "origin":"CPR1000"
   },
   {
+    "code":"EQ",
+    "designation":"Spark gap 放电间隙",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ER",
+    "designation":"Electric brake 电动制动器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ES",
+    "designation":"Lighting apparatus 照明设备",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ESD",
+    "designation":"Electro-Static Discharge  静电放电 ",
+    "origin":"overall"
+  },
+  {
+    "code":"ESF",
+    "designation":"Engineered Safety Features 专设安全设施",
+    "origin":"AP1000"
+  },
+  {
+    "code":"ESF",
+    "designation":"Engineered Safety Features  专设安全设施 ",
+    "origin":"overall"
+  },
+  {
+    "code":"ESFAC",
+    "designation":"Engineered Safety Features Actuation Cabinets 专设安全设施驱动机柜 ",
+    "origin":"overall"
+  },
+  {
+    "code":"ESFAS",
+    "designation":"Engineered Safety Features Actuation System 专设安全设施驱动系统 ",
+    "origin":"overall"
+  },
+  {
     "code":"ETY",
     "designation":"Containment Atmosphere Monitoring 安全壳内大气监测系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"EU",
+    "designation":"Computer analog input 计算机模拟输入",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EUC",
+    "designation":"Equipment Under Control  受控设备 ",
+    "origin":"overall"
   },
   {
     "code":"EUF",
@@ -457,6 +1337,11 @@
   {
     "code":"EUH",
     "designation":"Containment Hydrogen Combination 安全壳消氢系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EV",
+    "designation":"Evaporator 蒸发器",
     "origin":"CPR1000"
   },
   {
@@ -475,6 +1360,186 @@
     "origin":"CPR1000"
   },
   {
+    "code":"EW",
+    "designation":"Reference electrode 参考电极",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EX",
+    "designation":"Heat exchanger 热交换器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EY",
+    "designation":"On-off signal to control cabinets 发往控制柜的通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"EZ",
+    "designation":"Fire extinguisher 灭火器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FA",
+    "designation":"Absolute filter 高效（通风）过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FAT",
+    "designation":"Factory Acceptance Tests  工厂验收测试 ",
+    "origin":"overall"
+  },
+  {
+    "code":"FC",
+    "designation":"Chain screen 链式过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FCC",
+    "designation":"Function Control Cabinet  功能机柜 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FCC",
+    "designation":"Function Control Cabinet  功能机柜 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"FCU",
+    "designation":"Firmnet Communication Unit  FirmNet通信处理单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FD",
+    "designation":"Starter screen 起动器过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FEP",
+    "designation":"noninflammable(阻燃) Fluorinated(氟化的\n) Ethylene(乙烯) Propylene(丙烯\n); 1E电缆要求",
+    "origin":"Overall"
+  },
+  {
+    "code":"FERC",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"FF",
+    "designation":"Filter (fine) （细）过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FI",
+    "designation":"Filter or strainer for liquids Electronic filter 液体过滤器电子过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FirmNet",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"FirmNet",
+    "designation":"FirmNet  FirmSys系统的多点网络 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FirmPat",
+    "designation":"FirmPat  FirmSys系统的定期试验装置 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FirmSys",
+    "designation":"FirmSys  数字化核安全级控制保护系统平台 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FitRel",
+    "designation":"Fit and Reliable System  广利核公司基于FPGA的DCS平台 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"FitRel MT",
+    "designation":"FitRel Maintenance Tool  FitRel维护工具 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"FL",
+    "designation":"Flexible pipe 软管",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FMEA",
+    "designation":"Failure modes and Effects Analysis; 是一种被普遍接受的对潜在风险进行分析的方法",
+    "origin":"Overall"
+  },
+  {
+    "code":"FNU",
+    "designation":"Firmnet sN4 communication Unit  FirmNet_SN4通信单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FOM",
+    "designation":"Firmnet Optical switch Module  FirmNet光旁通器 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"FP",
+    "designation":"Prefilter （通风）预过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FPD",
+    "designation":"Flat Panel Display 平板显示器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"FS",
+    "designation":"Sand-bed filter 砂堆过滤器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FSS",
+    "designation":"Full Scope Simulator  全范围模拟机 ",
+    "origin":"overall"
+  },
+  {
+    "code":"FT",
+    "designation":"Fire Trap 阻火器，消防栓",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FT",
+    "designation":"Factory Test  工厂测试 ",
+    "origin":"overall"
+  },
+  {
+    "code":"FTA",
+    "designation":"Fault Tree Analysis; 是一种被普遍接受的对潜在风险进行分析的方法",
+    "origin":"Overall"
+  },
+  {
+    "code":"FU",
+    "designation":"Fuse-low-capacity switch 熔丝-小容量开关",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"FZ",
+    "designation":"Septic tank 化粪池",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GA",
+    "designation":"A.C. generator 交流发电机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GC",
+    "designation":"D.C generator 直流发电机",
+    "origin":"CPR1000"
+  },
+  {
     "code":"GCA",
     "designation":" Turbine and Feedheating Plant Preservation During Outage                                                                                                       汽机和给水加热装置停运期间的保养系统",
     "origin":"CPR1000"
@@ -482,6 +1547,21 @@
   {
     "code":"GCT",
     "designation":"Turbine Bypass 汽机旁路系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GD",
+    "designation":"Function generator 函数发生器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GDC",
+    "designation":"General Design Criterion通用设计准则",
+    "origin":"Overall"
+  },
+  {
+    "code":"GE",
+    "designation":"Power generator 功率发生器",
     "origin":"CPR1000"
   },
   {
@@ -500,8 +1580,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"GF",
+    "designation":"Refrigeration set 冷冻机组",
+    "origin":"CPR1000"
+  },
+  {
     "code":"GFR",
     "designation":"Turbine Control Fluid 汽机调节油系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GG",
+    "designation":"Coarse bar screen 粗滤栅",
     "origin":"CPR1000"
   },
   {
@@ -515,8 +1605,33 @@
     "origin":"CPR1000"
   },
   {
+    "code":"GIC",
+    "designation":"General Interface Card  通用转接板卡 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"GL",
+    "designation":"Ventilation duct 通风管道",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GM",
+    "designation":"Foam generator 泡沫发生器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"GME",
     "designation":"Turbine Supervisory System 汽机监视系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GN",
+    "designation":"Sound- powered telephone facility 声（动）力电话装置",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GP",
+    "designation":"CIO2gas generator 二氧化氯气体发生器",
     "origin":"CPR1000"
   },
   {
@@ -525,8 +1640,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"GPU",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
     "code":"GPV",
     "designation":"Turbine Steam and Drain 汽机蒸汽和疏水系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GR",
+    "designation":"Lubricator 注油器",
     "origin":"CPR1000"
   },
   {
@@ -555,6 +1680,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"GSS",
+    "designation":"汽轮机轴封系统",
+    "origin":"AP1000"
+  },
+  {
     "code":"GST",
     "designation":"Stator Cooling Water 发电机定子冷却水系统",
     "origin":"CPR1000"
@@ -562,6 +1692,11 @@
   {
     "code":"GSY",
     "designation":"Grid Synchronization and Connection 同步并网系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GT",
+    "designation":"Leskpan. funnel 漏盘、漏斗",
     "origin":"CPR1000"
   },
   {
@@ -575,8 +1710,243 @@
     "origin":"CPR1000"
   },
   {
+    "code":"GV",
+    "designation":"Steam generator 蒸汽发生器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"GW",
+    "designation":"Gateway  网关 ",
+    "origin":"overall"
+  },
+  {
+    "code":"GWC",
+    "designation":"Gateway Cabinet  网关机柜 ",
+    "origin":"overall"
+  },
+  {
+    "code":"GWS",
+    "designation":"Gateway System  网关系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"GZ",
+    "designation":"Gas holder 贮气瓶",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HA",
+    "designation":"Data acquisition system 数据获取系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HC",
+    "designation":"Computerized system 计算机系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HD",
+    "designation":"Disk unit (data storage) （数据贮存用）磁盘装置",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HI",
+    "designation":"Printer-teleprinter 打印机-电传打印机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HK",
+    "designation":"Keyboard 键盘",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HL",
+    "designation":"Tape or card reader or punch 磁带打孔机或卡片阅读器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HM",
+    "designation":"Magnetic tape unit 磁带机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HMI",
+    "designation":"Human Machine Interface  人机接口 ",
+    "origin":"overall"
+  },
+  {
+    "code":"HMINet",
+    "designation":"Human Machine Interface Net  人机接口网络 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"HNU",
+    "designation":"High-Speed Net Communication Unit  SN3网络通信单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"HP",
+    "designation":"Loudspeaker 扬声器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HR",
+    "designation":"Clock 时钟",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HS",
+    "designation":"Data communication (Parallel or serial link-networks) 数据通讯（并行或串行联接-网络.......）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HSL",
+    "designation":"High Speed Link 高速链接通讯",
+    "origin":"AP1000"
+  },
+  {
+    "code":"HU",
+    "designation":"Humidifier 加湿器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HV",
+    "designation":"Visual display unit 萤屏显示器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"HV",
+    "designation":"High Voltage  高压 ",
+    "origin":"overall"
+  },
+  {
+    "code":"HVAC",
+    "designation":"Heating Ventilation and Air Conditioning  加热、通风和空调系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"I&C",
+    "designation":"Instrumentation and Control  仪表和控制 ",
+    "origin":"overall"
+  },
+  {
+    "code":"I/O",
+    "designation":"Input / Output  输入输出 ",
+    "origin":"overall"
+  },
+  {
+    "code":"IA",
+    "designation":"Alarm datum 报警信息",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"IAEA",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"IB",
+    "designation":"Plugging indicator 插接式指示器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"IC",
+    "designation":"Flow indicator (Mechanical) （机械式）流量指示器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ICP",
+    "designation":"Integrated Communication Processor 综合通讯处理器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"ID",
+    "designation":"Electric indicator 电气指示器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"IEC",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"IEEE",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"IIS",
+    "designation":"中子注量率监测仪表",
+    "origin":"AP1000"
+  },
+  {
+    "code":"IK",
+    "designation":"Counting ratemeter 计数率计",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ILP",
+    "designation":"Integrated Logic Processor 综合逻辑处理器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"IN",
+    "designation":"Intercom facility 内部对讲电话",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"IOR",
+    "designation":"I/O Rack I/O机箱 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"IOR",
+    "designation":"I/O Rack I/O机箱",
+    "origin":"FitRel"
+  },
+  {
+    "code":"IQ",
+    "designation":"Incinerator 放射性废物焚烧炉",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"IS",
+    "designation":"Isolation module 隔离模块",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ISG",
+    "designation":"Interim Staff Guidance。NRC出版的临时(?)工作人员指导。",
+    "origin":"Overall"
+  },
+  {
+    "code":"ITP",
+    "designation":"Interface and Test Processor 综合测试处理器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"JA",
+    "designation":"Power breaker or cutoff 断路器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"JB",
+    "designation":"Busbar 母线",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"JD",
+    "designation":"Expansion joint (corrugated pipe) 膨胀节（波纹管）",
+    "origin":"CPR1000"
+  },
+  {
     "code":"JDT",
     "designation":"Fire Detection 火警探测系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"JP",
+    "designation":"Blind flange 盲板",
     "origin":"CPR1000"
   },
   {
@@ -625,13 +1995,63 @@
     "origin":"CPR1000"
   },
   {
+    "code":"JS",
+    "designation":"Power sectioning switch 电源分区开关",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"JY",
+    "designation":"Miscellaneous electrical test measurement 其他电气测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KA",
+    "designation":"Alarm on screen 屏幕显示的报警",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KC",
+    "designation":"Selector switches and key pads on screen 屏幕显示的选择开关或键盘",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KCO",
     "designation":"Plant Process Control Cabinet 电站过程控制机柜",
     "origin":"CPR1000"
   },
   {
+    "code":"KD",
+    "designation":"Primary flow element-Flow restrictor 一次流量测量元件-限流器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KDA",
+    "designation":"Severe Accident I&C System  严重事故仪控系统 ",
+    "origin":"overall"
+  },
+  {
     "code":"KDO",
     "designation":"Test Data Acquisition 试验数据采集系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KDS",
+    "designation":"Diverse Actuation System design for CMF functions (including DAC and Diverse Actuation Panel)  防共因多样性驱动系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"KE",
+    "designation":"Exhaust casing (turbine) 排汽缸（汽轮机）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KG",
+    "designation":"Grouped control station on screen 屏幕显示的成组控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KI",
+    "designation":"Strainer 粗滤器",
     "origin":"CPR1000"
   },
   {
@@ -650,6 +2070,16 @@
     "origin":"CPR1000"
   },
   {
+    "code":"KJ",
+    "designation":"Primary  circuit make-up  control station on screen 屏幕显示的反应堆硼和水补给控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KK",
+    "designation":"Manually-operated circuit breaker 手动断路器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KKK",
     "designation":"Site Access Control System 厂区出入控制系统",
     "origin":"CPR1000"
@@ -665,8 +2095,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"KL",
+    "designation":"Horn-audible alarm 喇叭-音响报警器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KLP",
     "designation":"500KV Line Protection 500KV 线路保护系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KM",
+    "designation":"Processed analogue information (calculated information) on screen 屏幕显示的模拟量信息（有中间计算)",
     "origin":"CPR1000"
   },
   {
@@ -680,6 +2120,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"KO",
+    "designation":"Turbine cylinder 汽轮机汽缸",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KOO",
     "designation":"Overall operation system 总体运行系统",
     "origin":"CPR1000"
@@ -690,6 +2135,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"KR",
+    "designation":"Chiller 冷冻机",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KRS",
     "designation":"Site Radiation and Meteorological Monitoring 厂区辐射和气象监测系统",
     "origin":"CPR1000"
@@ -697,6 +2147,11 @@
   {
     "code":"KRT",
     "designation":"Plant Radiation Monitoring 电厂辐射监测系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KS",
+    "designation":"Processed logic information  (synthesis information) on screen 屏幕显示的逻辑量信息（综合信息）",
     "origin":"CPR1000"
   },
   {
@@ -715,9 +2170,44 @@
     "origin":"CPR1000"
   },
   {
+    "code":"KT",
+    "designation":"Primary temperature element 一次测温元件",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KU",
+    "designation":"Auto control, remote contol, intemediate control or setpoint control on screen                                           屏幕显示的自动控制、遥控、中间控制或整定值控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KV",
+    "designation":"Control station for shutdown rods on screen 屏幕显示的安全棒控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KW",
+    "designation":"Control station for control rods on screen 屏幕显示的控制棒控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KX",
+    "designation":"Reactor Pressure vessel related equipment 与反应堆压力容器有关的设备",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"KZ",
+    "designation":"Miscellaneous component 其他部件",
+    "origin":"CPR1000"
+  },
+  {
     "code":"KZC",
     "designation":"Controlled Area Access Monitoring 控制区出入监测系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"L0/1/L2/L3",
+    "designation":"Level 0/1/2/3  0、 1、 2、3层 ",
+    "origin":"overall"
   },
   {
     "code":"LAA",
@@ -805,6 +2295,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LC",
+    "designation":"Local speed measurement 就地速度测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LCA",
     "designation":"Unit 48V DC Power Supply-Train A-机组48V直流电源系统-系列A",
     "origin":"CPR1000"
@@ -840,13 +2335,48 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LCL",
+    "designation":"Local Coincidence Logic 局部符合逻辑",
+    "origin":"AP1000"
+  },
+  {
     "code":"LCM",
     "designation":"48V DC Power Supply (Main Switchyard TC building)48V直流电源系统（TC厂房主开关站）",
     "origin":"CPR1000"
   },
   {
+    "code":"LD",
+    "designation":"Local flow rate measurement 就地流量测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LD",
+    "designation":"Logic Diagram  逻辑图 ",
+    "origin":"overall"
+  },
+  {
     "code":"LDA",
     "designation":"30V DC Power Supply (Analog Control)30V直流电源系统（模拟控制）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LDP",
+    "designation":"Large Display Panel (See also POP)  大屏幕 ",
+    "origin":"overall"
+  },
+  {
+    "code":"LE",
+    "designation":"Local acoustic measurement 就地声频测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LF",
+    "designation":"Local frequency-phase measurement 就地频率-相位测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LG",
+    "designation":"Local physical-chemical analysis 就地物理-化学分析",
     "origin":"CPR1000"
   },
   {
@@ -895,6 +2425,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LH",
+    "designation":"Local time measurement 就地时间测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LHA",
     "designation":"6.6KV AC Emergency Power Distribution-Train A-6.6KV AC交流应急配电系统-系列A",
     "origin":"CPR1000"
@@ -920,6 +2455,16 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LHS",
+    "designation":"汽轮机液压油系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"LHSI",
+    "designation":"Low Head Safety Injection  低压安注 ",
+    "origin":"overall"
+  },
+  {
     "code":"LHT",
     "designation":"Site Emergency Power Changeover Interconnection System 现场应急电源切换及连接系统",
     "origin":"CPR1000"
@@ -937,6 +2482,26 @@
   {
     "code":"LHZ",
     "designation":"LV AC Network-380V-(UA) 低压38 0V AC发电机组（UA）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LI",
+    "designation":"Local current measurement 就地电流测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LiberoIDE",
+    "designation":"Application Coding Environment  工程应用开发环境 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"LJ",
+    "designation":"Fire detection measurement 火警探测",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LK",
+    "designation":"Local stress measurement 就地应力测量",
     "origin":"CPR1000"
   },
   {
@@ -1110,6 +2675,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LL",
+    "designation":"Local luminosity (opacity) measurement 就地亮度（不透明度）测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LLA",
     "designation":"LV AC Emergency Network-380V-Train A-低压交流应急电源380V系统-系列A",
     "origin":"CPR1000"
@@ -1215,6 +2785,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LM",
+    "designation":"Local position-displacement measurement 就地位置-位移测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LMA",
     "designation":"220V AC Normal Power Source and Distribution System220V交流正常电源和配电系统",
     "origin":"CPR1000"
@@ -1227,6 +2802,11 @@
   {
     "code":"LMD",
     "designation":"220V AC Power Supply (CI Instrumentation)220V交流电源系统（常规岛仪表）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LN",
+    "designation":"Local level measurement 就地液位测量",
     "origin":"CPR1000"
   },
   {
@@ -1285,8 +2865,48 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LNU",
+    "designation":"Low-Speed Net Communication Unit  SN4网络通信单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"LOCA",
+    "designation":"Loss Of Coolant Accident  失水事故 ",
+    "origin":"overall"
+  },
+  {
+    "code":"LOOP",
+    "designation":"Loss of Off-site Power  丧失厂外电 ",
+    "origin":"overall"
+  },
+  {
+    "code":"LP",
+    "designation":"Local pressure measurement 就地压力测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LPD",
+    "designation":"Linear Power Density  线功率密度 ",
+    "origin":"overall"
+  },
+  {
+    "code":"LQ",
+    "designation":"Local reactive power measurement 就地无功功率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LR",
+    "designation":"Local impedance-resistivity-resistance-conductivity measurement 就地阻抗-电阻率或电阻-导电率测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LRT",
     "designation":"Electrical Power Resupply in Outage 大修期间再供电系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LS",
+    "designation":"Local health measurement 就地保健测量",
     "origin":"CPR1000"
   },
   {
@@ -1300,8 +2920,48 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LSS",
+    "designation":"LOCA Surveillance System  LOCA裕度监督系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"LT",
+    "designation":"Local temperature measurement 就地温度测量",
+    "origin":"CPR1000"
+  },
+  {
     "code":"LTR",
     "designation":"Grounding and Lightning Protection 避雷接地系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LU",
+    "designation":"Local voltage measurement 就地电压测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"Lustre",
+    "designation":"REDACE中提供的用于算法组态的图形化组态语言，也是同步数据流语言；专为核电站安全关键系统的应用软件开发而设计的面向应用语言。",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"LV",
+    "designation":"Local measurement (vibration-thrust-expansion) 就地振动-推力-胀差测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LW",
+    "designation":"Local active power measurement 就地有功功率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LX",
+    "designation":"Local measurement -miscellaneous mechanical 其他机械数据的就地测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"LY",
+    "designation":"Local measurement -miscellaneous electrical 其他电气数据的就地测量",
     "origin":"CPR1000"
   },
   {
@@ -1310,13 +2970,653 @@
     "origin":"CPR1000"
   },
   {
+    "code":"LZ",
+    "designation":"Local measurement -miscellaneous physical 其他物理数据的就地测量量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MA",
+    "designation":"Nuclear measurement (neutron flux or activity) 核测量（中子通量或放射性）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MC",
+    "designation":"Speed measurement 速度测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MCR",
+    "designation":"Main Control Room 主控室",
+    "origin":"AP1000"
+  },
+  {
+    "code":"MCR",
+    "designation":"Main Control Room  主控室 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MCR",
+    "designation":"MPU Control Rack MPU机箱 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"MCR",
+    "designation":"MPU Control Rack MPU机箱 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"MCS",
+    "designation":"Main Control Station  主控制站 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"MCS",
+    "designation":"Main Control Station  主控制站 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"MD",
+    "designation":"Flow rate measurement 流量率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ME",
+    "designation":"Acoustics measurement 声频测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MF",
+    "designation":"Frequency-phase measurement 频率-相位测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MFI",
+    "designation":"Main Feed-water Isolation  主给水隔离 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MFWS",
+    "designation":"主给水系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"MG",
+    "designation":"Physical-chemical analysis 物理-化学分析",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MH",
+    "designation":"Time measurement 时间测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MHSI",
+    "designation":"Medium Head Safety Injection  中压安注 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MI",
+    "designation":"Current measurement 电流测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MJ",
+    "designation":"Fire detector 火警探测器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MK",
+    "designation":"Stress measurement 应力测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"ML",
+    "designation":"Luminosity (opacity) measurement 亮度（不透明度）测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MM",
+    "designation":"Position-displacement measurement 位置-位移测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MMI",
+    "designation":"Man-Machine Interface  人机接口 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MN",
+    "designation":"Level measurement 液位测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MNet",
+    "designation":"Maintenance Net  维护网 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"MO",
+    "designation":"Electric motor 电动机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"Monitor",
+    "designation":"Firmsys平台工程师站 - 监视模块",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"MONITOR",
+    "designation":"Monitoring And Testing Environment  工程师站监视软件 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"MP",
+    "designation":"Pressure measurement 压力测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MPB",
+    "designation":"Main Processing Unit connection Board MPB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"MPU",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"MPU",
+    "designation":"Main Processing Unit  主处理单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"MPU",
+    "designation":"Main Processing Unit  主处理单元 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"MQ",
+    "designation":"Reactive power measurement 无功功率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MR",
+    "designation":"Measurement of resistance-resistivity-impedance-conductivit y 电阻-电阻率或阻抗-导电率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MS",
+    "designation":"Health measurement 保健测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MSS",
+    "designation":"主蒸汽系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"MT",
+    "designation":"Temperature measurement 温度测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MTBF",
+    "designation":"Mean Time Between Failure  平均故障间隔时间 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MTP",
+    "designation":"Maintenance and Test Panel 维修和测试面板",
+    "origin":"AP1000"
+  },
+  {
+    "code":"MTS",
+    "designation":"主汽轮机系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"MTTR",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"MTTR",
+    "designation":"Mean Time To Repair  平均修复时间 ",
+    "origin":"overall"
+  },
+  {
+    "code":"MU",
+    "designation":"Voltage measurement 电压测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MV",
+    "designation":"Measurement of thrust-expansions-vibration 推力-胀差-振动测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MW",
+    "designation":"Active power measurement 有功功率测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MX",
+    "designation":"Measurement-miscellaneous mechanical 其他机械测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MY",
+    "designation":"Measurement-miscellaneous electrical 其他电气测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"MZ",
+    "designation":"Measurement-miscellaneous physical (humidity, ect..) 其他物理（如湿度等）测量",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"NA",
+    "designation":"Digital analog converter 模拟数据转换器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"NC",
+    "designation":"Non Classified  非安全级(无级 ) ",
+    "origin":"overall"
+  },
+  {
+    "code":"NCB",
+    "designation":"Net Communication Unit connection Board  NCB信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"NCU",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"NCU",
+    "designation":"Network Communication Unit  网络通信单元 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"NCU",
+    "designation":"Network Communication Unit  网络通信单元 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"NEI",
+    "designation":"Nuclear Energy Institute (United States)",
+    "origin":"Overall"
+  },
+  {
+    "code":"NI",
+    "designation":"Nuclear Island  核岛 ",
+    "origin":"overall"
+  },
+  {
+    "code":"NIS",
+    "designation":"中子注量率监测仪表",
+    "origin":"AP1000"
+  },
+  {
+    "code":"NIS",
+    "designation":"Nuclear Instrumentation Subsystem 核仪表子系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"NLINK",
+    "designation":"NCU Link  NCU与MPU之间基于LVDS通信 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"NN",
+    "designation":"Package (blanket contract) 成套设备（总承包）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"NNet",
+    "designation":"Data Communication Net  数据传输网络 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"NPP",
+    "designation":"Nuclear Power Plant  核电厂 ",
+    "origin":"overall"
+  },
+  {
+    "code":"NR",
+    "designation":"Narrow Range  窄量程 ",
+    "origin":"overall"
+  },
+  {
+    "code":"NRC",
+    "designation":"(United States) National Regulatory Commission，美国核管理委员会（核管会）",
+    "origin":"Overall"
+  },
+  {
+    "code":"NRO",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"NUREG",
+    "designation":"",
+    "origin":"Overall"
+  },
+  {
+    "code":"OBE",
+    "designation":"Operation Basis Earthquake  运行基准地震 ",
+    "origin":"overall"
+  },
+  {
+    "code":"OCP",
+    "designation":"Over Current Protection  过流保护 ",
+    "origin":"overall"
+  },
+  {
+    "code":"OCS",
+    "designation":"运行控制中心系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"OVP",
+    "designation":"Over Voltage Protection  过压保护 ",
+    "origin":"overall"
+  },
+  {
+    "code":"OWP",
+    "designation":"Operator Work Place  操作员工作站 ",
+    "origin":"overall"
+  },
+  {
+    "code":"P05",
+    "designation":"Power Sub-module of 220VAC to 5VDC  P05电源板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"P24",
+    "designation":"Power Sub-module of 220VAC to 24VDC  P24电源板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"P48",
+    "designation":"Power Sub-module of 220VAC to 48VDC  P48电源板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"PA",
+    "designation":"Winch-hoist 绞盘车-卷扬机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PAMS",
+    "designation":"Post Accident Monitoring System  事故后监视系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PAS",
+    "designation":"Process Automation System  过程自动化系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"Patent",
+    "designation":"Firmsys平台工程师站 -参数整定模块",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"PATENT",
+    "designation":"Parameter Tuning Enviroment  工程师站参数整定工具 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"PC",
+    "designation":"Mechanical (cam type) programmer （凸轮式）机械程序执行机构",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PCBA",
+    "designation":"Printed Circuit Board Assembly  成品印制电路板 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"PCC",
+    "designation":"Power Control Cabinet  电源机柜 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"PE",
+    "designation":"Dummy fuel element 模拟燃料元件",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PERT",
+    "designation":"工程师站定期试验软件",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"PERT",
+    "designation":"PERiodic Test Tool  定期试验软件工具 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"PF",
+    "designation":"Cold trap 冷阱",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PFA",
+    "designation":"Probability of Fail to Actuate  拒动概率 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PG",
+    "designation":"Electromagnetic pump 电磁泵",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"P-GU",
+    "designation":"PAMS Graphic Display Unit  PAMS图形显示单元 ",
+    "origin":"overall"
+  },
+  {
+    "code":"P-GUP",
+    "designation":"P-GU Processor P-GU处理器 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PH",
+    "designation":"Microphone 话筒",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PI",
+    "designation":"Iodine trap 碘吸附器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PICS",
+    "designation":"Process Information and Control System 过程信息和控制系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PIE",
+    "designation":"Postulated Initiating Event  假设始发事件 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PJ",
+    "designation":"Socket-plug-connector 插座-插头-连接仪",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PK",
+    "designation":"Trouble recording oscillograph 故障记录示波仪",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PL",
+    "designation":"Bearing 轴承",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PLS",
+    "designation":"反应堆功率控制系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"PLS",
+    "designation":"Plant Control System 电站控制系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"PM",
+    "designation":"Measuring potentiometer 测量用电位计",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PM",
+    "designation":"Processor Module 处理器模块",
+    "origin":"AP1000"
+  },
+  {
+    "code":"PM",
+    "designation":"Preventive Maintenance  预防性维修 ",
+    "origin":"overall"
+  },
+  {
     "code":"PMC",
     "designation":"Fuel Handling and Storage 核燃料装卸贮存",
     "origin":"CPR1000"
   },
   {
+    "code":"PMS",
+    "designation":"反应堆保护和安全监测系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"PN",
+    "designation":"Piston-jack 活塞-千斤顶",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PO",
+    "designation":"Pump 泵",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"POP",
+    "designation":"Plant Overview Panel (correspond to LDP for Large Screens Displays)  大屏幕 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PP",
+    "designation":"Desk-console 控制台或仪表盘",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PQ",
+    "designation":"Compacting press 压实机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PR",
+    "designation":"Crane-Travelling-Crane-jib crane 吊车-单梁吊车-旋臂吊车",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PS",
+    "designation":"Pit 坑",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PSAR",
+    "designation":"Preliminary Safety Analysis Report  初步安全分析报告 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PSAS",
+    "designation":"Plant Standard Automation System  电厂标准自动化系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"PT",
+    "designation":"Crane-Travelling Crane-Polar  Crane 吊车-桥式吊车-环行吊车",
+    "origin":"CPR1000"
+  },
+  {
     "code":"PTR",
     "designation":"Reactor Cavity and Spent Fuel Pit Cooling and Treatment                                                                                                        反应堆堆换料腔和乏燃料水池的冷却和处理系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PU",
+    "designation":"Steam trap 蒸汽疏水器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PW",
+    "designation":"Arrester 避雷器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PX",
+    "designation":"Fuel examination facility 核燃料检验设施",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PY",
+    "designation":"Preheating element 预热元件",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"PZ",
+    "designation":"Grouted part 灌浆部件",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QA",
+    "designation":"Activity counter 放射性计数器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QC",
+    "designation":"Revolution counter 转数计",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QD",
+    "designation":"Volume counter 容积计数器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QDPS",
+    "designation":"Qualified Data Processing System 核级数据处理子系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"QH",
+    "designation":"Time meter 时间计数器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QM",
+    "designation":"Operation counter 操作计数器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QQ",
+    "designation":"Reactive energy counter 无功能量计数器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"QW",
+    "designation":"Active energy counter 有功功率计量器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RA",
+    "designation":"Air damper 空气调节风阀",
     "origin":"CPR1000"
   },
   {
@@ -1330,6 +3630,31 @@
     "origin":"CPR1000"
   },
   {
+    "code":"RB",
+    "designation":"Cylinder rack 气瓶架",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RBD",
+    "designation":"Link to a bread-down displays 与信息分解画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RC",
+    "designation":"Auto control, remote control, intermediate control or set point control station                                                   自动控制、遥控、中间控制或整定值控制站",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RCCA",
+    "designation":"Rod Cluster Control Assembly  控制棒束组件 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RCD",
+    "designation":"Link to a command displays 与系统操作画面的链接",
+    "origin":"CPR1000"
+  },
+  {
     "code":"RCP",
     "designation":"Reactor Coolant 反应堆冷却剂系统",
     "origin":"CPR1000"
@@ -1340,9 +3665,34 @@
     "origin":"CPR1000"
   },
   {
+    "code":"RD",
+    "designation":"Rectifier 整流器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RDS",
+    "designation":"Link between sheets and displays 画面与操作单的链接接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RE",
+    "designation":"Heater 加热器",
+    "origin":"CPR1000"
+  },
+  {
     "code":"REA",
     "designation":"Reactor Boron and Water Makeup 反应堆硼和水补给系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"REDACE",
+    "designation":"Firmsys平台工程师站 - 算法组态模块",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"REDACE",
+    "designation":"Real-time and Deterministic Application Coding Environment  实时和确定性应用软件编程环境 ",
+    "origin":"FirmSys"
   },
   {
     "code":"REN",
@@ -1350,8 +3700,48 @@
     "origin":"CPR1000"
   },
   {
+    "code":"REST",
+    "designation":"工程师站冗余同步软件",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"REST",
+    "designation":"REdundancy Synchronization Tool  冗余同步软件工具 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"RF",
+    "designation":"Cooler 冷却器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RFI",
+    "designation":"Radio Frequency Interfere  射频干扰 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RFU",
+    "designation":"Link to a follow-up displays 与系统跟踪画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RG",
+    "designation":"Analog calculation Module 模拟计算模块",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RG",
+    "designation":"Regulator Guide。NRC下设的Office of Nulcear Regulator Research出版的监管指南。例如：RG.1.152_Criteria for Use of Computers in Safety Systems of Nuclear Power Plants",
+    "origin":"Overall"
+  },
+  {
     "code":"RGL",
     "designation":"Full Length Rod Control 棒控和棒位系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RI",
+    "designation":"Indoor mooris coupling 莫里斯消防接头",
     "origin":"CPR1000"
   },
   {
@@ -1363,6 +3753,66 @@
     "code":"RIS",
     "designation":"Safety Injection 安全注入系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"RJ",
+    "designation":"Hosereel 消防水龙带",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RK",
+    "designation":"Relay rack 继电器架",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RL",
+    "designation":"Storage rack 储存架",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RLD",
+    "designation":"Link to a plant overview displays 与电厂总体画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RMA",
+    "designation":"Link to a monitoring aid displays 与辅助监视画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RMS",
+    "designation":"辐射监测系统",
+    "origin":"AP1000"
+  },
+  {
+    "code":"RN",
+    "designation":"Paging facility 传呼机",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RNC",
+    "designation":"Remote Node Controller 远程节点控制器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"RO",
+    "designation":"Rotor 转子",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RP",
+    "designation":"Drain cooler 疏水冷却器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RPC",
+    "designation":"Link to a pre-configured curve displays 与预定义趋势画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RPC",
+    "designation":"Reactor Protection Cabinet  反应堆保护机柜 ",
+    "origin":"overall"
   },
   {
     "code":"RPE",
@@ -1377,6 +3827,26 @@
   {
     "code":"RPR",
     "designation":"Reactor Protection 反应堆保护系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RPS",
+    "designation":"Reactor Protection System  反应堆保护系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RPV",
+    "designation":"Reactor Pressure Vessel  反应堆压力容器 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RPVL",
+    "designation":"Reactor Pressure Vessel Level  反应堆压力容器液位 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RR",
+    "designation":"Reducing or multiplying gear 减速或增速齿轮箱",
     "origin":"CPR1000"
   },
   {
@@ -1405,9 +3875,79 @@
     "origin":"CPR1000"
   },
   {
+    "code":"RS",
+    "designation":"Resistor-electrical heater 电阻器-电热器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RSS",
+    "designation":"Remote Shutdown Station  远程停堆站 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RST",
+    "designation":"Link to a status displays 与电厂状态画面的链接",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RT",
+    "designation":"Choke-inductor 电抗器-电感器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"RT",
+    "designation":"Reactor Trip  紧急停堆 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RTB",
+    "designation":"Reactor Trip Breaker  停堆断路器 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RTD",
+    "designation":"Resistance Temperature Detector  热电阻 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RTS",
+    "designation":"Reactor Trip System  反应堆停堆保护系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"RU",
+    "designation":"Manhole (waste water) (废水排放沟上的）栅格盖板",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SA",
+    "designation":"On-off nuclear (activity or neutron flux )signal 核测（放射性或中子通量）通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"Sage",
+    "designation":"Firmsys平台工程师站 - 图形组态模块",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"SAGE",
+    "designation":"Safevideo Graphic console panel Environment 工程师站图形组态软件 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SAI&C",
+    "designation":"Severe Accident I&C  严重事故仪表系统 ",
+    "origin":"overall"
+  },
+  {
     "code":"SAP",
     "designation":"Compressed Air Production 压缩空气生产系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"SAP",
+    "designation":"Severe Accident Panel  严重事故仪控监视和操作盘 ",
+    "origin":"overall"
   },
   {
     "code":"SAR",
@@ -1425,8 +3965,73 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SC",
+    "designation":"Speed on-off signal 速度测量通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SCB",
+    "designation":"Sub-module Communication Unit connection Board SCB信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SCC",
+    "designation":"Signal Conditioning Cabinet  调理机柜 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SCG",
+    "designation":"Station Configuration Generator  站下装文件生成器 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SCID",
+    "designation":"Safety Control and Information Device 安全控制显示设备 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SCIS",
+    "designation":"Safety Control and Information System 安全控制显示系统 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SCR",
+    "designation":"Signal Conditioning Rack  调理机箱 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SCU",
+    "designation":"",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"SCU",
+    "designation":"Sub-module Communication Unit  I/O通信单元",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SD",
+    "designation":"Flow on-off signal 流量测量通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SD",
+    "designation":"Safety Display 安全显示",
+    "origin":"AP1000"
+  },
+  {
     "code":"SDA",
     "designation":"Demineralized Water Production 除盐水生产系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SDOE",
+    "designation":"Secure Development or Operational Environment; 安全的开发或运行环境",
+    "origin":"Overall"
+  },
+  {
+    "code":"SE",
+    "designation":"Acoustics on-off signal 声频测量通/断信号",
     "origin":"CPR1000"
   },
   {
@@ -1485,14 +4090,59 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SF",
+    "designation":"Frequency-phase on-off signal 频率-相位测量通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SF",
+    "designation":"Single Failure  单一故障 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SFR",
+    "designation":"Spurious failure rate  误动率 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SG",
+    "designation":"Physical-chemical analysis on -off signal 物理-化学分析通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SG",
+    "designation":"Steam Generator  蒸汽发生器 ",
+    "origin":"overall"
+  },
+  {
     "code":"SGZ",
     "designation":"General Gas Storage and Distribution 厂用气体贮存和分配系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SH",
+    "designation":"Relative humidity on-off signal 相对湿度测量通/断信号",
     "origin":"CPR1000"
   },
   {
     "code":"SHY",
     "designation":"Hydrogen Production and Distribution 氢气生产与分配系统",
     "origin":"CPR1000"
+  },
+  {
+    "code":"SI",
+    "designation":"Safety Injection  安注 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SIB",
+    "designation":"Sub-module Power Indication connection Board SIB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SICS",
+    "designation":"Safety Information and Control System 安全信息和控制系统 ",
+    "origin":"overall"
   },
   {
     "code":"SIR",
@@ -1502,1411 +4152,6 @@
   {
     "code":"SIT",
     "designation":"Feedwater Chemical Sampling 给水化学取样系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SKH",
-    "designation":"Lubrication Oil Transfer System 润滑油传输系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SLT",
-    "designation":"Transit Changing Room Ventilation 更衣室通风系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SRE",
-    "designation":"Sewage Recovery (NI - Workshop - Site Laboratory)                                                                                                        放射性废水回收系统（核岛-机修车间-厂区实验室）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SRI",
-    "designation":"Conventional Island Closed Cooling Water 常规岛闭路冷却水系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"STR",
-    "designation":"Steam Transformer 蒸汽转换器系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SVA",
-    "designation":"Auxiliary Steam Distribution 辅助蒸汽分配系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"TEG",
-    "designation":"Gaseous Waste Treatment 废气处理系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"TEP",
-    "designation":"Boron Recycle 硼回收系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"TER",
-    "designation":"Liquid waste Discharge 废液排放系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"TES",
-    "designation":"Solid Waste Treatment 固体废物处理系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"TEU",
-    "designation":"Liquid Waste Treatment 废液处理系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"VVP",
-    "designation":"Main Steam 主蒸汽系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AA",
-    "designation":"Alarm light / Visual alarm 报警灯 / 可见报警信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AC",
-    "designation":"Elevator-lift 电梯-升降机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AD",
-    "designation":"Absorber 吸收器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AE",
-    "designation":"Air heater 空气加热器/热水盘管",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AF",
-    "designation":"Air cooler-cooling tower 空气冷却器-冷却塔",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AG",
-    "designation":"Agitator-vibrator-stirrer 搅拌器-振动器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AI",
-    "designation":"Fire Cabinet 消防柜/消火栓箱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AL",
-    "designation":"Power supply 电源",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AM",
-    "designation":"Amplifier Module 放大器模块",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AN",
-    "designation":"Stabilized power supply 稳压电",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AO",
-    "designation":"Anode-Positive pole 阳极-正极",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AP",
-    "designation":"Generator 发电机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AQ",
-    "designation":"Accumulator 安注罐",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AR",
-    "designation":"Cabinet-Control cabinet 控制柜",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AS",
-    "designation":"Fuel assembly 燃料组件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AT",
-    "designation":"Automatic chemical Monitoring and control device 自动化学监测和控制装置",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"AV",
-    "designation":"Head of rainwater drainpipe 雨水排放管的集水口",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BA",
-    "designation":"Tank-Pressurizer 储罐-稳压器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BB",
-    "designation":"Sparger 喷雾器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BC",
-    "designation":"Junction box 接线盒",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BD",
-    "designation":"Handling turret 吊运转动台",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BE",
-    "designation":"Test loop 试验环路",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BF",
-    "designation":"Spray loop 喷淋环路",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BG",
-    "designation":"Gas cylinder 气体钢瓶",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BI",
-    "designation":"Fire hydrant or stand pipe 消防栓",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BK",
-    "designation":"Control rod actuation unit 控制棒执行装置",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BL",
-    "designation":"Nozzle 喷嘴、接管",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BM",
-    "designation":"Test box 试验箱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BN",
-    "designation":"Terminal block or strip 端子板",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BO",
-    "designation":"Plug 插头",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BQ",
-    "designation":"Emergency light 应急照明",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BR",
-    "designation":"Control or shutdown rod 控制棒或安全棒",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BS",
-    "designation":"Cold junction box 冷端盒",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BT",
-    "designation":"Battery 蓄电池",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BU",
-    "designation":"Cofferdam-sluice gate 防水堰水闸",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"BV",
-    "designation":"Lamp box 灯具箱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CA",
-    "designation":"Adaptor card 适配器（卡）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CC",
-    "designation":"Selector switch or key pad 选择器开关或键盘",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CD",
-    "designation":"Capacitor 电容器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CE",
-    "designation":"Frequency converter or shifter 变频器或移相器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CF",
-    "designation":"Centrifugal purifier 离心式净化器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CG",
-    "designation":"Control rod drive 控制棒驱动",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CH",
-    "designation":"Boiler 锅炉",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CK",
-    "designation":"Chromatograph 色谱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CL",
-    "designation":"Light switch 照明开关",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CN",
-    "designation":"Column 柱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CO",
-    "designation":"Compressor or booster 压缩机或增压器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CP",
-    "designation":"Coupling (hydraulic or Mechanical) （水力或机械）联轴器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CQ",
-    "designation":"Frame 机架",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CR",
-    "designation":"Box-Marshalling box 箱子-分配箱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CS",
-    "designation":"Condenser 凝汽器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CT",
-    "designation":"Printed circuit board 印刷电路板                                                                                                     Temperature converter 温度转换器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CU",
-    "designation":"Liner (Retention pit) （水池）衬里",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CV",
-    "designation":"Key interlock mechanism 键锁机构",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CW",
-    "designation":"Vessel 容器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CX",
-    "designation":"Handling trolley 搬运小车",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DA",
-    "designation":"snubber 阻尼器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DC",
-    "designation":"Fuel handling equipment 核燃料装卸设备",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DE",
-    "designation":"Demineralizer 除盐装置",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DG",
-    "designation":"Trash rake 栏污栅",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DH",
-    "designation":"Oil remover 除油器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DI",
-    "designation":"Membrane-diaphragm 膜片-隔膜",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DK",
-    "designation":"Rupture membrane or disk 爆破膜或爆破盘",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DL",
-    "designation":"Inverter 逆变器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DM",
-    "designation":"Handling flask-shipping cask 屏蔽容器-运输容器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DN",
-    "designation":"Deionizer 去离子器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DP",
-    "designation":"Rod cluster control changing fixture 控制棒束换位架",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DR",
-    "designation":"Control valve (spool type) 错油阀（用于油动机）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DS",
-    "designation":"Dehydrating-desiccator-dryer 脱水器-干燥器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DT",
-    "designation":"Detector 检测器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DY",
-    "designation":"Diode 二极管",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"DZ",
-    "designation":"Deaerator-gas stripper 除氧器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EA",
-    "designation":"Electromagnet 电磁铁",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EC",
-    "designation":"Shield (protection)-computer logic input 屏蔽-计算机逻辑输入",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ED",
-    "designation":"Miscellaneous components 杂项设备",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EE",
-    "designation":"Clutch electromagnet 啮合电磁铁",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EF",
-    "designation":"Closing solenoid valve (pilot) 常闭式先导电磁阀",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EG",
-    "designation":"Mixer 混合器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EI",
-    "designation":"Reactor pressure vessel internals 堆内构件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EJ",
-    "designation":"Ejector 喷射器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EL",
-    "designation":"Solenoid valve (pilot) （先导）电磁阀",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EM",
-    "designation":"Membrane or diaphragm 膜片或隔膜",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EN",
-    "designation":"Recorder 记录仪",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EO",
-    "designation":"Opening solenoid valve (pilot) 常开式（先导）电磁阀",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EP",
-    "designation":"Electro - pneumatic converter 电动-气动转换器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EQ",
-    "designation":"Spark gap 放电间隙",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ER",
-    "designation":"Electric brake 电动制动器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ES",
-    "designation":"Lighting apparatus 照明设备",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EU",
-    "designation":"Computer analog input 计算机模拟输入",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EV",
-    "designation":"Evaporator 蒸发器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EW",
-    "designation":"Reference electrode 参考电极",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EX",
-    "designation":"Heat exchanger 热交换器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EY",
-    "designation":"On-off signal to control cabinets 发往控制柜的通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"EZ",
-    "designation":"Fire extinguisher 灭火器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FA",
-    "designation":"Absolute filter 高效（通风）过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FC",
-    "designation":"Chain screen 链式过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FD",
-    "designation":"Starter screen 起动器过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FF",
-    "designation":"Filter (fine) （细）过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FI",
-    "designation":"Filter or strainer for liquids Electronic filter 液体过滤器电子过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FL",
-    "designation":"Flexible pipe 软管",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FP",
-    "designation":"Prefilter （通风）预过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FS",
-    "designation":"Sand-bed filter 砂堆过滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FT",
-    "designation":"Fire Trap 阻火器，消防栓",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FU",
-    "designation":"Fuse-low-capacity switch 熔丝-小容量开关",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"FZ",
-    "designation":"Septic tank 化粪池",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GA",
-    "designation":"A.C. generator 交流发电机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GC",
-    "designation":"D.C generator 直流发电机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GD",
-    "designation":"Function generator 函数发生器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GE",
-    "designation":"Power generator 功率发生器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GF",
-    "designation":"Refrigeration set 冷冻机组",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GG",
-    "designation":"Coarse bar screen 粗滤栅",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GL",
-    "designation":"Ventilation duct 通风管道",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GM",
-    "designation":"Foam generator 泡沫发生器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GN",
-    "designation":"Sound- powered telephone facility 声（动）力电话装置",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GP",
-    "designation":"CIO2gas generator 二氧化氯气体发生器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GR",
-    "designation":"Lubricator 注油器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GT",
-    "designation":"Leskpan. funnel 漏盘、漏斗",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GV",
-    "designation":"Steam generator 蒸汽发生器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"GZ",
-    "designation":"Gas holder 贮气瓶",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HA",
-    "designation":"Data acquisition system 数据获取系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HC",
-    "designation":"Computerized system 计算机系统",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HD",
-    "designation":"Disk unit (data storage) （数据贮存用）磁盘装置",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HI",
-    "designation":"Printer-teleprinter 打印机-电传打印机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HK",
-    "designation":"Keyboard 键盘",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HL",
-    "designation":"Tape or card reader or punch 磁带打孔机或卡片阅读器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HM",
-    "designation":"Magnetic tape unit 磁带机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HP",
-    "designation":"Loudspeaker 扬声器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HR",
-    "designation":"Clock 时钟",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HS",
-    "designation":"Data communication (Parallel or serial link-networks) 数据通讯（并行或串行联接-网络.......）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HU",
-    "designation":"Humidifier 加湿器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"HV",
-    "designation":"Visual display unit 萤屏显示器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IA",
-    "designation":"Alarm datum 报警信息",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IB",
-    "designation":"Plugging indicator 插接式指示器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IC",
-    "designation":"Flow indicator (Mechanical) （机械式）流量指示器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ID",
-    "designation":"Electric indicator 电气指示器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IK",
-    "designation":"Counting ratemeter 计数率计",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IN",
-    "designation":"Intercom facility 内部对讲电话",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IQ",
-    "designation":"Incinerator 放射性废物焚烧炉",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"IS",
-    "designation":"Isolation module 隔离模块",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JA",
-    "designation":"Power breaker or cutoff 断路器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JB",
-    "designation":"Busbar 母线",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JD",
-    "designation":"Expansion joint (corrugated pipe) 膨胀节（波纹管）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JP",
-    "designation":"Blind flange 盲板",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JS",
-    "designation":"Power sectioning switch 电源分区开关",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KA",
-    "designation":"Alarm on screen 屏幕显示的报警",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KC",
-    "designation":"Selector switches and key pads on screen 屏幕显示的选择开关或键盘",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KD",
-    "designation":"Primary flow element-Flow restrictor 一次流量测量元件-限流器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KE",
-    "designation":"Exhaust casing (turbine) 排汽缸（汽轮机）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KG",
-    "designation":"Grouped control station on screen 屏幕显示的成组控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KI",
-    "designation":"Strainer 粗滤器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KJ",
-    "designation":"Primary  circuit make-up  control station on screen 屏幕显示的反应堆硼和水补给控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KK",
-    "designation":"Manually-operated circuit breaker 手动断路器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KL",
-    "designation":"Horn-audible alarm 喇叭-音响报警器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KM",
-    "designation":"Processed analogue information (calculated information) on screen 屏幕显示的模拟量信息（有中间计算)",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KO",
-    "designation":"Turbine cylinder 汽轮机汽缸",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KR",
-    "designation":"Chiller 冷冻机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KS",
-    "designation":"Processed logic information  (synthesis information) on screen 屏幕显示的逻辑量信息（综合信息）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KT",
-    "designation":"Primary temperature element 一次测温元件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KU",
-    "designation":"Auto control, remote contol, intemediate control or setpoint control on screen                                           屏幕显示的自动控制、遥控、中间控制或整定值控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KV",
-    "designation":"Control station for shutdown rods on screen 屏幕显示的安全棒控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KW",
-    "designation":"Control station for control rods on screen 屏幕显示的控制棒控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KX",
-    "designation":"Reactor Pressure vessel related equipment 与反应堆压力容器有关的设备",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"KZ",
-    "designation":"Miscellaneous component 其他部件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"",
-    "designation":"Local nuclear measurement (neutron flux or activity-lamp）就地核测量（中子通量或放射性-照明灯）",
-    "origin":""
-  },
-  {
-    "code":"LC",
-    "designation":"Local speed measurement 就地速度测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LD",
-    "designation":"Local flow rate measurement 就地流量测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LE",
-    "designation":"Local acoustic measurement 就地声频测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LF",
-    "designation":"Local frequency-phase measurement 就地频率-相位测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LG",
-    "designation":"Local physical-chemical analysis 就地物理-化学分析",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LH",
-    "designation":"Local time measurement 就地时间测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LI",
-    "designation":"Local current measurement 就地电流测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LJ",
-    "designation":"Fire detection measurement 火警探测",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LK",
-    "designation":"Local stress measurement 就地应力测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LL",
-    "designation":"Local luminosity (opacity) measurement 就地亮度（不透明度）测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LM",
-    "designation":"Local position-displacement measurement 就地位置-位移测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LN",
-    "designation":"Local level measurement 就地液位测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LP",
-    "designation":"Local pressure measurement 就地压力测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LQ",
-    "designation":"Local reactive power measurement 就地无功功率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LR",
-    "designation":"Local impedance-resistivity-resistance-conductivity measurement 就地阻抗-电阻率或电阻-导电率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LS",
-    "designation":"Local health measurement 就地保健测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LT",
-    "designation":"Local temperature measurement 就地温度测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LU",
-    "designation":"Local voltage measurement 就地电压测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LV",
-    "designation":"Local measurement (vibration-thrust-expansion) 就地振动-推力-胀差测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LW",
-    "designation":"Local active power measurement 就地有功功率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LX",
-    "designation":"Local measurement -miscellaneous mechanical 其他机械数据的就地测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LY",
-    "designation":"Local measurement -miscellaneous electrical 其他电气数据的就地测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"LZ",
-    "designation":"Local measurement -miscellaneous physical 其他物理数据的就地测量量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MA",
-    "designation":"Nuclear measurement (neutron flux or activity) 核测量（中子通量或放射性）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MC",
-    "designation":"Speed measurement 速度测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MD",
-    "designation":"Flow rate measurement 流量率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ME",
-    "designation":"Acoustics measurement 声频测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MF",
-    "designation":"Frequency-phase measurement 频率-相位测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MG",
-    "designation":"Physical-chemical analysis 物理-化学分析",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MH",
-    "designation":"Time measurement 时间测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MI",
-    "designation":"Current measurement 电流测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MJ",
-    "designation":"Fire detector 火警探测器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MK",
-    "designation":"Stress measurement 应力测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"ML",
-    "designation":"Luminosity (opacity) measurement 亮度（不透明度）测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MM",
-    "designation":"Position-displacement measurement 位置-位移测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MN",
-    "designation":"Level measurement 液位测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MO",
-    "designation":"Electric motor 电动机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MP",
-    "designation":"Pressure measurement 压力测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MQ",
-    "designation":"Reactive power measurement 无功功率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MR",
-    "designation":"Measurement of resistance-resistivity-impedance-conductivit y 电阻-电阻率或阻抗-导电率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MS",
-    "designation":"Health measurement 保健测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MT",
-    "designation":"Temperature measurement 温度测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MU",
-    "designation":"Voltage measurement 电压测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MV",
-    "designation":"Measurement of thrust-expansions-vibration 推力-胀差-振动测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MW",
-    "designation":"Active power measurement 有功功率测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MX",
-    "designation":"Measurement-miscellaneous mechanical 其他机械测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MY",
-    "designation":"Measurement-miscellaneous electrical 其他电气测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"MZ",
-    "designation":"Measurement-miscellaneous physical (humidity, ect..) 其他物理（如湿度等）测量",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"NA",
-    "designation":"Digital analog converter 模拟数据转换器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"NN",
-    "designation":"Package (blanket contract) 成套设备（总承包）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PA",
-    "designation":"Winch-hoist 绞盘车-卷扬机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PC",
-    "designation":"Mechanical (cam type) programmer （凸轮式）机械程序执行机构",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PE",
-    "designation":"Dummy fuel element 模拟燃料元件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PF",
-    "designation":"Cold trap 冷阱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PG",
-    "designation":"Electromagnetic pump 电磁泵",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PH",
-    "designation":"Microphone 话筒",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PI",
-    "designation":"Iodine trap 碘吸附器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PJ",
-    "designation":"Socket-plug-connector 插座-插头-连接仪",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PK",
-    "designation":"Trouble recording oscillograph 故障记录示波仪",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PL",
-    "designation":"Bearing 轴承",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PM",
-    "designation":"Measuring potentiometer 测量用电位计",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PN",
-    "designation":"Piston-jack 活塞-千斤顶",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PO",
-    "designation":"Pump 泵",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PP",
-    "designation":"Desk-console 控制台或仪表盘",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PQ",
-    "designation":"Compacting press 压实机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PR",
-    "designation":"Crane-Travelling-Crane-jib crane 吊车-单梁吊车-旋臂吊车",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PS",
-    "designation":"Pit 坑",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PT",
-    "designation":"Crane-Travelling Crane-Polar  Crane 吊车-桥式吊车-环行吊车",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PU",
-    "designation":"Steam trap 蒸汽疏水器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PW",
-    "designation":"Arrester 避雷器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PX",
-    "designation":"Fuel examination facility 核燃料检验设施",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PY",
-    "designation":"Preheating element 预热元件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"PZ",
-    "designation":"Grouted part 灌浆部件",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QA",
-    "designation":"Activity counter 放射性计数器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QC",
-    "designation":"Revolution counter 转数计",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QD",
-    "designation":"Volume counter 容积计数器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QH",
-    "designation":"Time meter 时间计数器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QM",
-    "designation":"Operation counter 操作计数器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QQ",
-    "designation":"Reactive energy counter 无功能量计数器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"QW",
-    "designation":"Active energy counter 有功功率计量器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RA",
-    "designation":"Air damper 空气调节风阀",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RB",
-    "designation":"Cylinder rack 气瓶架",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RC",
-    "designation":"Auto control, remote control, intermediate control or set point control station                                                   自动控制、遥控、中间控制或整定值控制站",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RD",
-    "designation":"Rectifier 整流器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RE",
-    "designation":"Heater 加热器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RF",
-    "designation":"Cooler 冷却器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RG",
-    "designation":"Analog calculation Module 模拟计算模块",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RI",
-    "designation":"Indoor mooris coupling 莫里斯消防接头",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RJ",
-    "designation":"Hosereel 消防水龙带",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RK",
-    "designation":"Relay rack 继电器架",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RL",
-    "designation":"Storage rack 储存架",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RN",
-    "designation":"Paging facility 传呼机",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RO",
-    "designation":"Rotor 转子",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RP",
-    "designation":"Drain cooler 疏水冷却器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RR",
-    "designation":"Reducing or multiplying gear 减速或增速齿轮箱",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RS",
-    "designation":"Resistor-electrical heater 电阻器-电热器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RT",
-    "designation":"Choke-inductor 电抗器-电感器",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RU",
-    "designation":"Manhole (waste water) (废水排放沟上的）栅格盖板",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SA",
-    "designation":"On-off nuclear (activity or neutron flux )signal 核测（放射性或中子通量）通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SC",
-    "designation":"Speed on-off signal 速度测量通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SD",
-    "designation":"Flow on-off signal 流量测量通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SE",
-    "designation":"Acoustics on-off signal 声频测量通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SF",
-    "designation":"Frequency-phase on-off signal 频率-相位测量通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SG",
-    "designation":"Physical-chemical analysis on -off signal 物理-化学分析通/断信号",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"SH",
-    "designation":"Relative humidity on-off signal 相对湿度测量通/断信号",
     "origin":"CPR1000"
   },
   {
@@ -2920,8 +4165,28 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SKH",
+    "designation":"Lubrication Oil Transfer System 润滑油传输系统",
+    "origin":"CPR1000"
+  },
+  {
     "code":"SL",
     "designation":"Luminosity on-off signal 亮度测量通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SLI",
+    "designation":"Steam Line Isolation  蒸汽管线隔离 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SLINK",
+    "designation":"Safty Link IO控制网 ",
+    "origin":"FitRel"
+  },
+  {
+    "code":"SLT",
+    "designation":"Transit Changing Room Ventilation 更衣室通风系统",
     "origin":"CPR1000"
   },
   {
@@ -2930,9 +4195,29 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SMS",
+    "designation":"地震监测系统、特殊仪表系统",
+    "origin":"AP1000"
+  },
+  {
     "code":"SN",
     "designation":"Level on-off signal 液位测量通/断信号",
     "origin":"CPR1000"
+  },
+  {
+    "code":"SN1",
+    "designation":"一种现场总线，实现SCU板卡和I/O板卡之间的数据传输。",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"SN3",
+    "designation":"全双工点对点通信；发送方按照固定的周期以广播方式向接收方发送数据，不等待接收方的反馈信号，接收方按照固定的周期\n读取接收到的数据。",
+    "origin":"Firmsys"
+  },
+  {
+    "code":"SN4",
+    "designation":"全双工点对点通信；发送方按照固定的周期以广播方式向接收方发送数据，不等待接收方的反馈信号，接收方按照固定的周期\n读取接收到的数据。",
+    "origin":"Firmsys"
   },
   {
     "code":"SO",
@@ -2945,9 +4230,44 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SPB",
+    "designation":"Sub-module Power connection Board  SPB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SPC",
+    "designation":"Signal Preprocess Cabinet  信号预处理机柜 ",
+    "origin":"overall"
+  },
+  {
     "code":"SR",
     "designation":"Resistance-conductivity-impedance on-off signal 电阻-导电率-阻抗测量通/断信号",
     "origin":"CPR1000"
+  },
+  {
+    "code":"SRC",
+    "designation":"Safety Related Cabinet  安全相关机柜 ",
+    "origin":"overall"
+  },
+  {
+    "code":"SRE",
+    "designation":"Sewage Recovery (NI - Workshop - Site Laboratory)                                                                                                        放射性废水回收系统（核岛-机修车间-厂区实验室）",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SRI",
+    "designation":"Conventional Island Closed Cooling Water 常规岛闭路冷却水系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SRNC",
+    "designation":"Safety Remote Node Controller 安全级远程节点控制器",
+    "origin":"AP1000"
+  },
+  {
+    "code":"SRS",
+    "designation":"Safety Related System  安全相关系统 ",
+    "origin":"overall"
   },
   {
     "code":"SS",
@@ -2955,8 +4275,23 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SSB",
+    "designation":"Sub-module Communication Switch Sub-module connection Board SSB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
+    "code":"SSE",
+    "designation":"Safety Shutdown Earthquake  安全停堆地震 ",
+    "origin":"overall"
+  },
+  {
     "code":"ST",
     "designation":"Temperature on-off signal 温度测量通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"STR",
+    "designation":"Steam Transformer 蒸汽转换器系统",
     "origin":"CPR1000"
   },
   {
@@ -2965,8 +4300,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"SUB",
+    "designation":"Sub-module connection Board  SUB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
     "code":"SV",
     "designation":"Thrust-expansion-vibration on-off signal 推力-胀差-振动通/断信号",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"SVA",
+    "designation":"Auxiliary Steam Distribution 辅助蒸汽分配系统",
     "origin":"CPR1000"
   },
   {
@@ -3000,6 +4345,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"TC",
+    "designation":"Thermocouple  热电偶 ",
+    "origin":"overall"
+  },
+  {
     "code":"TD",
     "designation":"Continuous mechanical transfer facility 连续式机械输送装置（螺杆输送、皮带输送等)",
     "origin":"CPR1000"
@@ -3007,6 +4357,31 @@
   {
     "code":"TE",
     "designation":"Remote-controlled breaker 遥控式断路器",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"TEG",
+    "designation":"Gaseous Waste Treatment 废气处理系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"TEP",
+    "designation":"Boron Recycle 硼回收系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"TER",
+    "designation":"Liquid waste Discharge 废液排放系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"TES",
+    "designation":"Solid Waste Treatment 固体废物处理系统",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"TEU",
+    "designation":"Liquid Waste Treatment 废液处理系统",
     "origin":"CPR1000"
   },
   {
@@ -3023,6 +4398,11 @@
     "code":"TI",
     "designation":"Current transformer 电流互感器",
     "origin":"CPR1000"
+  },
+  {
+    "code":"TIU",
+    "designation":"Test Interface Unit  测试接口单元，用于定期试验。 ",
+    "origin":"overall"
   },
   {
     "code":"TJ",
@@ -3060,6 +4440,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"TPCS",
+    "designation":"Turbine Protection and Control System 汽轮机保护和控制系统 ",
+    "origin":"overall"
+  },
+  {
     "code":"TQ",
     "designation":"Cable pulling vault 电缆井",
     "origin":"CPR1000"
@@ -3070,9 +4455,19 @@
     "origin":"CPR1000"
   },
   {
+    "code":"TRA",
+    "designation":"Transience Record and Analysis System 瞬态记录分析系统 ",
+    "origin":"overall"
+  },
+  {
     "code":"TS",
     "designation":"Step-down transformer 厂用变压器",
     "origin":"CPR1000"
+  },
+  {
+    "code":"TSC",
+    "designation":"Technical Support Center  技术支持中心 ",
+    "origin":"overall"
   },
   {
     "code":"TT",
@@ -3135,6 +4530,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"UIB",
+    "designation":"Unit Power Indication connection Board UIB 信号转接板卡 ",
+    "origin":"FirmSys"
+  },
+  {
     "code":"UJ",
     "designation":"Contactor unit 接触器",
     "origin":"CPR1000"
@@ -3163,6 +4563,11 @@
     "code":"UP",
     "designation":"Breaker module (power supply control) 电源通断组件",
     "origin":"CPR1000"
+  },
+  {
+    "code":"UPB",
+    "designation":"Unit Power connection Board UPB信号转接板卡 ",
+    "origin":"FirmSys"
   },
   {
     "code":"UQ",
@@ -3200,6 +4605,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"V&V",
+    "designation":"Verification and Validation  验证和确认 ",
+    "origin":"overall"
+  },
+  {
     "code":"VA",
     "designation":"Air valve 空气阀门",
     "origin":"CPR1000"
@@ -3218,6 +4628,11 @@
     "code":"VD",
     "designation":"Demineralized water valve 除盐水阀门",
     "origin":"CPR1000"
+  },
+  {
+    "code":"VDU",
+    "designation":"Visual Display Unit  图形化显示单元 ",
+    "origin":"overall"
   },
   {
     "code":"VE",
@@ -3295,6 +4710,11 @@
     "origin":"CPR1000"
   },
   {
+    "code":"VVP",
+    "designation":"Main Steam 主蒸汽系统",
+    "origin":"CPR1000"
+  },
+  {
     "code":"VX",
     "designation":"SF6 valve SF6阀门",
     "origin":"CPR1000"
@@ -3323,6 +4743,11 @@
     "code":"WM",
     "designation":"Washing Machine (laundry) （洗衣房用）洗衣机",
     "origin":"CPR1000"
+  },
+  {
+    "code":"WR",
+    "designation":"Wide Range  宽量程 ",
+    "origin":"overall"
   },
   {
     "code":"WV",
@@ -3440,8 +4865,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"YBD",
+    "designation":"Break-down aid display 信息分解画面",
+    "origin":"CPR1000"
+  },
+  {
     "code":"YC",
     "designation":"Speed test measurement 速度测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YCD",
+    "designation":"Command displays 系统操作画面",
     "origin":"CPR1000"
   },
   {
@@ -3457,6 +4892,11 @@
   {
     "code":"YF",
     "designation":"Frequency-phase test measurement 频率-相位测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YFU",
+    "designation":"Follow-up displays 系统跟踪画面",
     "origin":"CPR1000"
   },
   {
@@ -3485,8 +4925,18 @@
     "origin":"CPR1000"
   },
   {
+    "code":"YLD",
+    "designation":"Plant overview displays 电厂总体画面",
+    "origin":"CPR1000"
+  },
+  {
     "code":"YM",
     "designation":"Position-displacement test measurement 位置-位移测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YMA",
+    "designation":"Monitoring aid displays 辅助监视画面",
     "origin":"CPR1000"
   },
   {
@@ -3497,6 +4947,11 @@
   {
     "code":"YP",
     "designation":"Pressure test measurement 压力测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YPC",
+    "designation":"Pre-configured curve and bar displays 预定义趋势画面（曲线或棒图）",
     "origin":"CPR1000"
   },
   {
@@ -3512,6 +4967,16 @@
   {
     "code":"YS",
     "designation":"Health test measurement 保健测试",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YST",
+    "designation":"Status displays 电厂状态画面",
+    "origin":"CPR1000"
+  },
+  {
+    "code":"YSY",
+    "designation":"DCS system-generated displays DCS系统画面",
     "origin":"CPR1000"
   },
   {
@@ -3537,11 +5002,6 @@
   {
     "code":"YX",
     "designation":"Miscellaneous mechanical test measurement 其他机械测试",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"JY",
-    "designation":"Miscellaneous electrical test measurement 其他电气测试",
     "origin":"CPR1000"
   },
   {
@@ -3618,195 +5078,5 @@
     "code":"ZZ",
     "designation":"Moisture separator-reheater 汽水分离器-再热器",
     "origin":"CPR1000"
-  },
-  {
-    "code":"CFD",
-    "designation":"Functional domain (e.g. standard PT domain, SOP domains…) 功能区域（如PT图，SOP功能图）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CRB",
-    "designation":"Curves objects 曲线对象",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CRF",
-    "designation":"Profiles (e.g. Primary pump parameters.…) 多边形区域（主泵参数工作图）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RBD",
-    "designation":"Link to a bread-down displays 与信息分解画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RCD",
-    "designation":"Link to a command displays 与系统操作画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RDS",
-    "designation":"Link between sheets and displays 画面与操作单的链接接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RFU",
-    "designation":"Link to a follow-up displays 与系统跟踪画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RLD",
-    "designation":"Link to a plant overview displays 与电厂总体画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RMA",
-    "designation":"Link to a monitoring aid displays 与辅助监视画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RPC",
-    "designation":"Link to a pre-configured curve displays 与预定义趋势画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"RST",
-    "designation":"Link to a status displays 与电厂状态画面的链接",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YBD",
-    "designation":"Break-down aid display 信息分解画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YCD",
-    "designation":"Command displays 系统操作画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YFU",
-    "designation":"Follow-up displays 系统跟踪画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YLD",
-    "designation":"Plant overview displays 电厂总体画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YMA",
-    "designation":"Monitoring aid displays 辅助监视画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YPC",
-    "designation":"Pre-configured curve and bar displays 预定义趋势画面（曲线或棒图）",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YST",
-    "designation":"Status displays 电厂状态画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"YSY",
-    "designation":"DCS system-generated displays DCS系统画面",
-    "origin":"CPR1000"
-  },
-  {
-    "code":"CDS",
-    "designation":"凝结水",
-    "origin":"AP1000"
-  },
-  {
-    "code":"CMS",
-    "designation":"凝汽器抽真空系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"CWS",
-    "designation":"循环水系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"DAS",
-    "designation":"多样性驱动系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"DCS",
-    "designation":"数字化仪控系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"DDS",
-    "designation":"数据显示和处理系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"DRPI",
-    "designation":"控制棒控制和棒位指示系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"GSS",
-    "designation":"汽轮机轴封系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"IIS",
-    "designation":"中子注量率监测仪表",
-    "origin":"AP1000"
-  },
-  {
-    "code":"LHS",
-    "designation":"汽轮机液压油系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"MFWS",
-    "designation":"主给水系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"MSS",
-    "designation":"主蒸汽系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"MTS",
-    "designation":"主汽轮机系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"NIS",
-    "designation":"中子注量率监测仪表",
-    "origin":"AP1000"
-  },
-  {
-    "code":"OCS",
-    "designation":"运行控制中心系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"PLS",
-    "designation":"反应堆功率控制系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"PMS",
-    "designation":"反应堆保护和安全监测系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"RMS",
-    "designation":"辐射监测系统",
-    "origin":"AP1000"
-  },
-  {
-    "code":"SMS",
-    "designation":"地震监测系统、特殊仪表系统",
-    "origin":"AP1000"
   }
 ]

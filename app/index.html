@@ -15,64 +15,75 @@
     <div class="container-fluid">  <!-- header, bootstrap container-->
 
       <div class="navbar-header">
-          <a class="active navbar-brand" href="#/">
-            <span class="glyphicon glyphicon-chevron-left logo-gly"></span>
-            T.E.A.M
-            <span class="glyphicon glyphicon-chevron-right logo-gly"></span>
-          </a>
+
+        <!-- hamburger bar -->
+        <button type="button" class="navbar-toggle"
+          data-toggle="collapse" data-target="#myNavBar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="active navbar-brand" href="#/">
+          <span class="glyphicon glyphicon-chevron-left logo-gly"></span>
+          T.E.A.M
+          <span class="glyphicon glyphicon-chevron-right logo-gly"></span>
+        </a>
       </div>
 
-      <ul class="nav navbar-nav">
+      <div class="collapse navbar-collapse" id="myNavBar">
+        <ul class="nav navbar-nav">
 
-        <!-- bootstrap dropdown - R.P.S -->
-        <li class="dropdown">
+          <!-- bootstrap dropdown - R.P.S -->
+          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown"
-             href="">R.P.S <b class="caret"></b>
+            href="">R.P.S <b class="caret"></b>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu close-collapse">
             <li><a href="#/reactor_trip">Reactor Protection</a></li>
             <li><a href="#/hardware-query">ESF</a></li>
           </ul>
-        </li>  
+          </li>  
 
-        <!-- bootstrap dropdown D.C.S -->
-        <li class="dropdown">
+          <!-- bootstrap dropdown D.C.S -->
+          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown"
-             href="">D.C.S <b class="caret"></b>
+            href="">D.C.S <b class="caret"></b>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu close-collapse">
             <li><a href="#/dcs_component">平台硬件</a></li>
             <li><a href="#/cots">外购物资</a></li>
             <!-- <li><a href="">平台维护</a></li> -->
           </ul>
-        </li>
+          </li>
 
-        <!-- bootstrap dropdown 查询系统 -->
-        <li class="dropdown">
+          <!-- bootstrap dropdown 查询系统 -->
+          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" 
-             href="">查询系统 <b class="caret"></b>
+            href="">查询系统 <b class="caret"></b>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu close-collapse">
             <li><a href="#/doc-q">工作文档</a></li>
             <li><a href="#/acronym">术语查询</a></li>
             <li><a href="#/tools">软件工具</a></li>
           </ul>
-        </li>
+          </li>
 
-        <!-- bootstrap dropdown 使用指南 -->
-        <li class="dropdown">
+          <!-- bootstrap dropdown 使用指南 -->
+          <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" 
-             href="">使用指南 <b class="caret"></b>
+            href="">使用指南 <b class="caret"></b>
           </a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu close-collapse">
             <li><a href="#/howto">功能介绍</a></li>
             <li><a href="#/dev">开发信息</a></li>
           </ul>
-        </li> 
+          </li> 
 
-        <!-- bootstrap dropdown wiki -->
-        <li><a href="#/wiki">wiki</a></li>
-      </ul>
+          <!-- bootstrap dropdown wiki -->
+          <li class="close-collapse"><a href="#/wiki">wiki</a></li>
+        </ul>
+      </div> <!-- id myNavBar -->
 
     </div>  <!-- .container-fluid -->
   </nav> <!-- nav .navbar -->
@@ -94,5 +105,12 @@
   <script src="./view-reactor_trip/rt_controller.js"></script>
   <script src="./view-dcs-component/dcs-comp-controller.js"></script>
   <script src="./view-cots/cots-controller.js"></script>
+  <script>
+    <!-- used to close collapse navbar automaticlly -->
+    <!-- after clicking the menu -->
+    $('.close-collapse').click('a', function() {
+      $('.navbar-collapse').collapse('hide');
+    });
+  </script>
 </body>
 </html>

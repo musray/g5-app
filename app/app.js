@@ -9,6 +9,7 @@ angular.module('g5App', [
     'g5App.rtApp',
     'g5App.acronym',
     'g5App.toolIndex',
+    'g5App.performance',
     'g5App.cotsApp'
 ])
   .config(['$routeProvider', function($routeProvider) {

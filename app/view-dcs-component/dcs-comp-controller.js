@@ -61,6 +61,8 @@ angular.module('g5App.DCSComponent', ['ngRoute'])
       "测试及旁通面板": {"name":"测试及旁通面板"},
       "点对点通信": {"name":"点对点通信"},
       "环网(Firmnet)": {"name":"环网(Firmnet)"},
+      "调理板卡": {"name":"调理板卡"},
+      "信号转接": {"name":"信号转接"},
       "端子排": {"name":"端子排"}
     }
   }])

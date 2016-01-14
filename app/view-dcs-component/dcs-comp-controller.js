@@ -19,17 +19,23 @@ angular.module('g5App.DCSComponent', ['ngRoute'])
       ],
       name: [
         {"name":"-- 全部 --"},
-        {"name":"Repeater"},
         {"name":"AI"},
         {"name":"AO"},
         {"name":"DI"},
         {"name":"DO"},
+        {"name":"CIM"},
         {"name":"PIF"},
         {"name":"RTD"},
         {"name":"TC"},
+        {"name":"Repeater"},
         {"name":"分配卡"},
         {"name":"隔离卡"},
         {"name":"端子排"},
+        {"name":"调理板卡"},
+        {"name":"信号转接"},
+        {"name":"点对点通信"},
+        {"name":"环网(Firmnet)"},
+        {"name":"测试及旁通面板"},
         {"name":"机笼"}
       ]
     }
@@ -44,12 +50,17 @@ angular.module('g5App.DCSComponent', ['ngRoute'])
       "AO": {"name":"AO"},
       "DI": {"name":"DI"},
       "DO": {"name":"DO"},
+      "CIM": {"name":"CIM"},
       "PIF": {"name":"PIF"},
       "RTD": {"name":"RTD"},
       "TC": {"name":"TC"},
       "分配卡": {"name":"分配卡"},
       "隔离卡": {"name":"隔离卡"},
       "机笼": {"name":"机笼"},
+      "电源": {"name":"电源"},
+      "测试及旁通面板": {"name":"测试及旁通面板"},
+      "点对点通信": {"name":"点对点通信"},
+      "环网(Firmnet)": {"name":"环网(Firmnet)"},
       "端子排": {"name":"端子排"}
     }
   }])

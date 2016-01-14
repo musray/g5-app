@@ -116,5 +116,8 @@ body {
 label {
   font-weight: normal;
 }
+.light-weight {
+  font-weight: 200;
+}
 
 /*# sourceMappingURL=main.css.map */

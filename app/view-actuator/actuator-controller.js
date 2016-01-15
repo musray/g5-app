@@ -1,16 +1,16 @@
-angular.module('g5App.equipmentApp', ['ngRoute'])
+angular.module('g5App.actuatorApp', ['ngRoute'])
 
   .config(['$routeProvider', function($routeProvider) {
-    $routeProvider.when('/hardware-query', {
-      templateUrl: 'view-equipment-q/equipment-query.html',
-      controller: 'EquipCtrl as equipCtrl'
+    $routeProvider.when('/esf-actuator', {
+      templateUrl: 'view-actuator/actuator.html',
+      controller: 'ActuatorCtrl as actCtrl'
     })
   }])
 
-  .controller('EquipCtrl', ['$http', function($http) {
+  .controller('ActuatorCtrl', ['$http', function($http) {
     var self = this;
 
-    $http.get('./view-equipment-q/device-list.json').success(function(data) { self.items = data; });
+    $http.get('./view-actuator/actuator.json').success(function(data) { self.items = data; });
 
     self.filterOptions = {
       "siChecked": {"esf":"SI"},

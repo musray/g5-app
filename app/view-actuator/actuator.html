@@ -102,7 +102,7 @@
         <label for="sort_by_category">选择设备类型</label>
       </div>
 
-      <button class="btn btn-sm btn-primary" ng-click="equipCtrl.reOrder([sortByLocalSys, sortByCategory])()">点击排序</button>
+      <button class="btn btn-sm btn-primary" ng-click="actCtrl.reOrder([sortByLocalSys, sortByCategory])()">点击排序</button>
 
       <h2 class="h2">显示</h2>
 
@@ -110,7 +110,7 @@
       <div class="row no-margin-left">
         <input type="checkbox" class="margin-bttom"
         name="description-col-show"
-        ng-model="equipCtrl.columnShow.function_description"
+        ng-model="actCtrl.columnShow.function_description"
         ng-true-value="true"
         ng-false-value="false">
         <label for="description-col-show">功能描述</label>
@@ -119,7 +119,7 @@
       <!-- check box for LD index column show / hide -->
       <div class="row no-margin-left">
         <input type="checkbox" class="margin-bttom"
-        ng-model="equipCtrl.columnShow.ld_index"
+        ng-model="actCtrl.columnShow.ld_index"
         ng-true-value="true"
         ng-false-value="false">
         <label for="ld_index-col-show">LD 页码</label>
@@ -128,7 +128,7 @@
       <!-- check box for local System column show / hide -->
       <div class="row no-margin-left">
         <input type="checkbox" class="margin-bttom"
-        ng-model="equipCtrl.columnShow.sd_index"
+        ng-model="actCtrl.columnShow.sd_index"
         ng-true-value="true"
         ng-false-value="false">
         <label for="sd_index-col-show">SD 页码</label>
@@ -140,7 +140,7 @@
     <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
 
       <h2 class="h2">查询结果: <span ng-bind="filteredItems.length"></span>条 |
-        总记录 <span ng-bind="equipCtrl.items.length"></span>条</h2>
+        总记录 <span ng-bind="actCtrl.items.length"></span>条</h2>
 
       <table class="table table-bordered table-hover table-striped">
         <thead>
@@ -150,29 +150,29 @@
             <th scope="col" class="text-nowrap">设备类型</th>
             <th scope="col" class="text-nowrap">Train</th>
             <th scope="col" class="text-nowrap">DCS机柜</th>
-            <th scope="col" ng-show="equipCtrl.columnShow.function_description">功能描述</th>
-            <th scope="col" ng-show="equipCtrl.columnShow.ld_index">LD 页码</th>
-            <th scope="col" ng-show="equipCtrl.columnShow.sd_index">SD 页码</th>
+            <th scope="col" ng-show="actCtrl.columnShow.function_description">功能描述</th>
+            <th scope="col" ng-show="actCtrl.columnShow.ld_index">LD 页码</th>
+            <th scope="col" ng-show="actCtrl.columnShow.sd_index">SD 页码</th>
           </tr>
         </thead>
         <tbody>
-        <tr ng-repeat="item in filteredItems = (equipCtrl.items |
+        <tr ng-repeat="item in filteredItems = (actCtrl.items |
                                                 filter: query |
-                                                filter: equipCtrl.filterOptions[siChecked] |
-                                                filter: equipCtrl.filterOptions[csChecked] |
-                                                filter: equipCtrl.filterOptions[trainAChecked] |
-                                                filter: equipCtrl.filterOptions[trainBChecked] |
-                                                filter: equipCtrl.filterOptions[ciaChecked] |
-                                                filter: equipCtrl.filterOptions[cibChecked] |
-                                                orderBy: equipCtrl.sortOrderKeyword)">
+                                                filter: actCtrl.filterOptions[siChecked] |
+                                                filter: actCtrl.filterOptions[csChecked] |
+                                                filter: actCtrl.filterOptions[trainAChecked] |
+                                                filter: actCtrl.filterOptions[trainBChecked] |
+                                                filter: actCtrl.filterOptions[ciaChecked] |
+                                                filter: actCtrl.filterOptions[cibChecked] |
+                                                orderBy: actCtrl.sortOrderKeyword)">
           <td>{{item.local_sys}}</td>
           <td>{{item.actuator}}</td>
           <td>{{item.category}}</td>
           <td>{{item.train}}</td>
           <td>{{item.dcs}}</td>
-          <td ng-show="equipCtrl.columnShow.function_description">{{item.function_description}}</td>
-          <td ng-show="equipCtrl.columnShow.ld_index">{{item.ld_index}}</td>
-          <td ng-show="equipCtrl.columnShow.sd_index">{{item.sd_index}}</td>
+          <td ng-show="actCtrl.columnShow.function_description">{{item.function_description}}</td>
+          <td ng-show="actCtrl.columnShow.ld_index">{{item.ld_index}}</td>
+          <td ng-show="actCtrl.columnShow.sd_index">{{item.sd_index}}</td>
         </tr>
         </tbody>
       </table>

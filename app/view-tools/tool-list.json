@@ -11,8 +11,8 @@
   {
     "tool":"FTPDownloader",
     "lastest_ver":"v0.9.3",
-    "function_description":"根据通道号，快速下载FTP上的对应文件。命令行模式。（目前只支持CPR1000各项目文件的下载，可扩展到任何项目）",
-    "platform":"n.a",
+    "function_description":"根据通道号，快速下载FTP上的对应文件。命令行模式。（目前只支持CPR1000各项目文件的下载，计划扩展到所有项目）",
+    "platform":"All",
     "developer":"褚瑞",
     "lang":"python2.7",
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F015.FTPDownload/FTPDownload%20V0.9.3.rar"
@@ -92,10 +92,82 @@
   {
     "tool":"AT-PDF-Tool",
     "lastest_ver":"v1.0",
-    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDF。\n命令行模式，有一定的使用门槛；\n只适合第一版图纸的生成，利用率不高；但确实节省时间；\n源代码丢失，后续开发的意愿和可能性很低\n",
+    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDFo \n命令行模式，有一定的学习门槛；\no 只适合第一版图纸的生成，利用率不高；但确实节省时间；\no 源代码丢失，后续开发的意愿和可能性很低\n",
     "platform":"MELTAC",
-    "developer":"褚瑞",
+    "developer":"袁志胜",
     "lang":"n.a",
     "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F014.AT-PDF-Tool/AT-PDF-Tool%20V1.0.zip"
+  },
+  {
+    "tool":"BDSD对比工具.zip",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F024.BDSD%B6%D4%B1%C8%B9%A4%BE%DF.zip"
+  },
+  {
+    "tool":"CIN辅助工具V1.02.zip",
+    "lastest_ver":"v1.0",
+    "function_description":"CIN附件生成工具",
+    "platform":"MELTAC",
+    "developer":"赵远洋",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F025.CIN%B8%A8%D6%FA%B9%A4%BE%DF%20V1.02.zip"
+  },
+  {
+    "tool":"CPR1000_AT_excel转PDF工具.rar",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F026.CPR1000_AT_excel%D7%AAPDF%B9%A4%BE%DF.rar"
+  },
+  {
+    "tool":"CPR1000_AT_Mark_Up_BDSD_文件重命名工具.rar",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F027.CPR1000_AT_Mark_Up_BDSD_%CE%C4%BC%FE%D6%D8%C3%FC%C3%FB%B9%A4%BE%DF.rar"
+  },
+  {
+    "tool":"CPR1000_AT_PIF_Test_Table.rar",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F028.CPR1000_AT_PIF_Test_Table.rar"
+  },
+  {
+    "tool":"EXCEL通用对比工具.zip",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F029.EXCEL%CD%A8%D3%C3%B6%D4%B1%C8%B9%A4%BE%DF.zip"
+  },
+  {
+    "tool":"ParameterList对比工具.zip",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F030.Parameter%20List%B6%D4%B1%C8%B9%A4%BE%DF.zip"
+  },
+  {
+    "tool":"软件组工具.zip",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F031.%C8%ED%BC%FE%D7%E9%B9%A4%BE%DF.zip"
   }
 ]

@@ -72,6 +72,7 @@
               </th>
               <th scope="col">文件名称</th>
               <th scope="col">文件版本</th>
+              <th scope="col">发布日期</th>
               <th scope="col">适用平台</th>
               <!-- <th scope="col" class="lg_tab_col">文件描述</th> -->
             </tr>
@@ -86,6 +87,7 @@
             <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
             <td><span ng-class="item.status">{{item.doc_name}}</span></td>
             <td>{{item.rev}}</td>
+            <td>{{item.issue_date}}</td>
             <td>{{item.platform}}</td>
             <!-- <td>{{item.description}}</td> -->
           </tr>

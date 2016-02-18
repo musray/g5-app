@@ -1,173 +1,322 @@
 [
   {
+    "No.":"C001",
     "tool":"xls2csv",
     "lastest_ver":"v0.2.0",
     "function_description":"将CPR1000软件设计过程中的xls文件，转为csv文件。支持批量转换。MELTAC 平台专用。",
     "platform":"MELTAC",
     "developer":"褚瑞",
     "lang":"python2.7",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F013.xls2csv/xls2csv%20V1.0.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C001.xls2csv/xls2csv%20V1.0.rar"
   },
   {
-    "tool":"FTPDownloader",
-    "lastest_ver":"v0.9.3",
-    "function_description":"根据通道号，快速下载FTP上的对应文件。命令行模式。（目前只支持CPR1000各项目文件的下载，计划扩展到所有项目）",
-    "platform":"All",
-    "developer":"褚瑞",
-    "lang":"python2.7",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F015.FTPDownload/FTPDownload%20V0.9.3.rar"
+    "No.":"C002",
+    "tool":"AT-PDF-Tool",
+    "lastest_ver":"v1.0",
+    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDF\n命令行模式，有一定的学习门槛；\n只适合第一版图纸的生成，利用率不高；但确实节省时间；\n源代码丢失，后续开发的意愿和可能性很低\n",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C002.AT-PDF-Tool/AT-PDF-Tool%20V1.0.zip"
   },
   {
+    "No.":"C003",
+    "tool":"BDSD对比工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C003.BDSD%B6%D4%B1%C8%B9%A4%BE%DF/BDSD%B6%D4%B1%C8%B9%A4%BE%DF.zip"
+  },
+  {
+    "No.":"C004",
+    "tool":"CIN辅助工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CIN附件生成工具",
+    "platform":"MELTAC",
+    "developer":"赵远洋",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C004.CIN%B8%A8%D6%FA%B9%A4%BE%DF/CIN%B8%A8%D6%FA%B9%A4%BE%DF%20V1.02.zip"
+  },
+  {
+    "No.":"C005",
+    "tool":"CPR1000_AT_excel转PDF工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C005.CPR1000_AT_excel%D7%AAPDF%B9%A4%BE%DF/CPR1000_AT_excel%D7%AAPDF%B9%A4%BE%DF.ra"
+  },
+  {
+    "No.":"C006",
+    "tool":"CPR1000_AT_Mark_Up_BDSD_文件重命名工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C006.CPR1000_AT_Mark_Up_BDSD_%CE%C4%BC%FE%D6%D8%C3%FC%C3%FB%B9%A4%BE%DF/CPR1000_AT_Mark_Up_BDSD_%CE%C4%BC%FE%D6%D8%C3%FC%C3%FB%B9%A4%BE%DF.rar"
+  },
+  {
+    "No.":"C007",
+    "tool":"CPR1000_AT_PIF_Test_Table",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000 AT设计工具",
+    "platform":"MELTAC",
+    "developer":"张红梅",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C007.CPR1000_AT_PIF_Test_Table/CPR1000_AT_PIF_Test_Table.rar"
+  },
+  {
+    "No.":"C009",
+    "tool":"Parameter List对比工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C009.Parameter%20List%B6%D4%B1%C8%B9%A4%BE%DF/Parameter%20List%B6%D4%B1%C8%B9%A4%BE%DF.zip"
+  },
+  {
+    "No.":"C010",
+    "tool":"软件组工具",
+    "lastest_ver":"v1.0",
+    "function_description":"CPR1000软件设计工具",
+    "platform":"MELTAC",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/C010.%C8%ED%BC%FE%D7%E9%B9%A4%BE%DF/%C8%ED%BC%FE%D7%E9%B9%A4%BE%DF.zip"
+  },
+  {
+    "No.":"F001",
+    "tool":"基于FirmSYS平台IO接线图自动生成工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F001.%BB%F9%D3%DAFirmSYS%C6%BD%CC%A8IO%BD%D3%CF%DF%CD%BC%D7%D4%B6%AF%C9%FA%B3%C9%B9%A4%BE%DF/F001.%BB%F9%D3%DAFirmSYS%C6%BD%CC%A8IO%BD%D3%CF%DF%CD%BC%D7%D4%B6%AF%C9%FA%B3%C9%B9%A4%BE%DFV1.1.rar"
+  },
+  {
+    "No.":"F002",
+    "tool":"VISIO文件合并工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F002.VISIO%CE%C4%BC%FE%BA%CF%B2%A2%B9%A4%BE%DF/F002.VISIO%CE%C4%BC%FE%BA%CF%B2%A2%B9%A4%BE%DFV1.1.rar"
+  },
+  {
+    "No.":"F003",
+    "tool":"VISIO画面排序工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F003.VISIO%BB%AD%C3%E6%C5%C5%D0%F2%B9%A4%BE%DF/F003.VISIO%BB%AD%C3%E6%C5%C5%D0%F2%B9%A4%BE%DFV1.1.rar"
+  },
+  {
+    "No.":"F004",
+    "tool":"SCID画面生成工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F004.SCID%BB%AD%C3%E6%C9%FA%B3%C9%B9%A4%BE%DF/F004.SCID%BB%AD%C3%E6%C9%FA%B3%C9%B9%A4%BE%DFV20150716.rar"
+  },
+  {
+    "No.":"F005",
+    "tool":"SCID菜单页面VISIO图生成工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F005.SCID%B2%CB%B5%A5%D2%B3%C3%E6VISIO%CD%BC%C9%FA%B3%C9%B9%A4%BE%DF/F005.SCID菜单页面VISIO图生成工具V1.3.rar"
+  },
+  {
+    "No.":"F006",
     "tool":"EAST变量表生成工具",
     "lastest_ver":"v1.0",
     "function_description":"通过SCID数据库自动生成EAST变量表\n使用SCID数据库自动生成用于导入EAST的变量",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F006.EAST%B1%E4%C1%BF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DF/V1.0.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F006.EAST%B1%E4%C1%BF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DF/F006.EAST%B1%E4%C1%BF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DFV1.0.rar"
   },
   {
-    "tool":"SCID数据库&网络变量核对工具",
-    "lastest_ver":"v1.0",
-    "function_description":"对比SCID数据库和网络变量表，自动识别变量差异部分\n自动核对SCID数据库和网络变量，用以识别出SCID数据库和网络变量之间的差异",
-    "platform":"FIRMSYS",
-    "developer":"袁志胜",
-    "lang":"n.a",
-    "url":"n.a"
-  },
-  {
+    "No.":"F007",
     "tool":"端子接线表生成工具",
     "lastest_ver":"v1.0",
     "function_description":"将详细IO生成端接信息表",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F007.%B6%CB%D7%D3%BD%D3%CF%DF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DF/%B6%CB%D7%D3%BD%D3%CF%DF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DFV1.0.xls"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F007.%B6%CB%D7%D3%BD%D3%CF%DF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DF/F007.%B6%CB%D7%D3%BD%D3%CF%DF%B1%ED%C9%FA%B3%C9%B9%A4%BE%DFV1.0.xls"
   },
   {
+    "No.":"F008",
     "tool":"VISIO图层删除工具",
     "lastest_ver":"v1.0",
     "function_description":"根据设置删除VISIO文件中某一个选定的图层，可以选择只删除图层中的元素，也可以涂层和元素一同删除\n可快速删除FD中标记的内容，如云图、线号等信息",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F008.VISIO%CD%BC%B2%E3%C9%BE%B3%FD%B9%A4%BE%DF/V1.0.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F008.VISIO%CD%BC%B2%E3%C9%BE%B3%FD%B9%A4%BE%DF/F008.VISIO%CD%BC%B2%E3%C9%BE%B3%FD%B9%A4%BE%DFV1.0.rar"
   },
   {
+    "No.":"F009",
     "tool":"Excel输出CSV文件工具",
     "lastest_ver":"v1.0",
     "function_description":"将一个Excel中的多个Sheet页生成csv格式文件，对于打单删除线的文字自动删除。\n将可编辑版的网络清单自动生成可导入EAST中的CSV格式文件",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F009.Excel%CA%E4%B3%F6CSV%CE%C4%BC%FE%B9%A4%BE%DF/V1.0.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F009.Excel%CA%E4%B3%F6CSV%CE%C4%BC%FE%B9%A4%BE%DF/F009.Excel%CA%E4%B3%F6CSV%CE%C4%BC%FE%B9%A4%BE%DFV1.0.rar"
   },
   {
-    "tool":"DTC FD生成工具",
+    "No.":"F010",
+    "tool":"生成DTC FD生成工具",
     "lastest_ver":"v1.0",
     "function_description":"根据网络清单自动生成FD图纸",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F010.DTC%20FD%C9%FA%B3%C9%B9%A4%BE%DF/V1.0%2020150106.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F010.%C9%FA%B3%C9DTC%20FD%C9%FA%B3%C9%B9%A4%BE%DF/F010.DTC%20FD%C9%FA%B3%C9%B9%A4%BE%DFV1.0%2020150106.rar"
   },
   {
+    "No.":"F011",
     "tool":"和睦系统网关设计辅助工具",
     "lastest_ver":"v1.0",
     "function_description":"自动生成网关的网络清单",
-    "platform":"SPEEDYHOLD",
+    "platform":"",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F011.%BA%CD%C4%C0%CF%B5%CD%B3%CD%F8%B9%D8%C9%E8%BC%C6%B8%A8%D6%FA%B9%A4%BE%DF/V1.0.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F011.%BA%CD%C4%C0%CF%B5%CD%B3%CD%F8%B9%D8%C9%E8%BC%C6%B8%A8%D6%FA%B9%A4%BE%DF/F011.%BA%CD%C4%C0%CF%B5%CD%B3%CD%F8%B9%D8%C9%E8%BC%C6%B8%A8%D6%FA%B9%A4%BE%DFV2.0.rar"
   },
   {
+    "No.":"F012",
     "tool":"物料编码自动更新工具",
     "lastest_ver":"v1.1",
     "function_description":"根据物料信息表自动更新设备清单中的物料编码，更新时以修订的方式修改（即原值标记删除线，并修改版本信息）\n更新设备清单中的物料编码",
     "platform":"FIRMSYS",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F012.%CE%EF%C1%CF%B1%E0%C2%EB%D7%D4%B6%AF%B8%FC%D0%C2%B9%A4%BE%DF/V1.1.rar"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F012.%CE%EF%C1%CF%B1%E0%C2%EB%D7%D4%B6%AF%B8%FC%D0%C2%B9%A4%BE%DF/F012.%CE%EF%C1%CF%B1%E0%C2%EB%D7%D4%B6%AF%B8%FC%D0%C2%B9%A4%BE%DFV1.1.rar"
   },
   {
-    "tool":"AT-PDF-Tool",
+    "No.":"F016",
+    "tool":"SN4仿真程序通讯清单自动生成工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F016.SN4%B7%C2%D5%E6%B3%CC%D0%F2%CD%A8%D1%B6%C7%E5%B5%A5%D7%D4%B6%AF%C9%FA%B3%C9%B9%A4%BE%DF/F016.SN4%B7%C2%D5%E6%B3%CC%D0%F2%CD%A8%D1%B6%C7%E5%B5%A5%D7%D4%B6%AF%C9%FA%B3%C9%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"F017",
+    "tool":"文本文件文字替换工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F017.%CE%C4%B1%BE%CE%C4%BC%FE%CE%C4%D7%D6%CC%E6%BB%BB%B9%A4%BE%DF/F017.%CE%C4%B1%BE%CE%C4%BC%FE%CE%C4%D7%D6%CC%E6%BB%BB%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"F018",
+    "tool":"VISIO拆分工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F018.VISIO%B2%F0%B7%D6%B9%A4%BE%DF/F018.VISIO%B2%F0%B7%D6%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"F019",
+    "tool":"网关通讯清单偏移地址填写工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F019.%CD%F8%B9%D8%CD%A8%D1%B6%C7%E5%B5%A5%C6%AB%D2%C6%B5%D8%D6%B7%CC%EE%D0%B4%B9%A4%BE%DF/F019.%CD%F8%B9%D8%CD%A8%D1%B6%C7%E5%B5%A5%C6%AB%D2%C6%B5%D8%D6%B7%CC%EE%D0%B4%B9%A4%BE%DFV1.0.xlsm"
+  },
+  {
+    "No.":"F020",
+    "tool":"FD图纸跳转添加工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F020.FD%CD%BC%D6%BD%CC%F8%D7%AA%CC%ED%BC%D3%B9%A4%BE%DF/F020.FD%CD%BC%D6%BD%CC%F8%D7%AA%CC%ED%BC%D3%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"F021",
+    "tool":"SCID组态信息导出工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F021.SCID%D7%E9%CC%AC%D0%C5%CF%A2%B5%BC%B3%F6%B9%A4%BE%DF/F021.SCID%D7%E9%CC%AC%D0%C5%CF%A2%B5%BC%B3%F6%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"F022",
+    "tool":"SCID导出表与数据库对比工具",
     "lastest_ver":"v1.0",
-    "function_description":"将PDF格式的零散test table和markup，按测试项顺序自动整合为一份PDFo \n命令行模式，有一定的学习门槛；\no 只适合第一版图纸的生成，利用率不高；但确实节省时间；\no 源代码丢失，后续开发的意愿和可能性很低\n",
+    "function_description":"对比SCID数据库和网络变量表，自动识别变量差异部分\n自动核对SCID数据库和网络变量，用以识别出SCID数据库和网络变量之间的差异",
+    "platform":"FIRMSYS",
+    "developer":"袁志胜",
+    "lang":"n.a",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F022.SCID%B5%BC%B3%F6%B1%ED%D3%EB%CA%FD%BE%DD%BF%E2%B6%D4%B1%C8%B9%A4%BE%DF/F022.SCID%B5%BC%B3%F6%B1%ED%D3%EB%CA%FD%BE%DD%BF%E2%B6%D4%B1%C8%B9%A4%BE%DF.xlsm"
+  },
+  {
+    "No.":"F023",
+    "tool":"项目文件归档管理系统",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F023.%CF%EE%C4%BF%CE%C4%BC%FE%B9%E9%B5%B5%B9%DC%C0%ED%CF%B5%CD%B3/"
+  },
+  {
+    "No.":"F024",
+    "tool":"VISIO工具集锦-深层替换工具",
+    "lastest_ver":"",
+    "function_description":"",
+    "platform":"",
+    "developer":"袁志胜",
+    "lang":"",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F024.VISIO%B9%A4%BE%DF%BC%AF%BD%F5-%C9%EE%B2%E3%CC%E6%BB%BB%B9%A4%BE%DF/F024.VISIO%B9%A4%BE%DF%BC%AF%BD%F5-%C9%EE%B2%E3%CC%E6%BB%BB%B9%A4%BE%DFV1.0.rar"
+  },
+  {
+    "No.":"G001",
+    "tool":"FTPDownloader",
+    "lastest_ver":"v0.9.3",
+    "function_description":"通用（目前只支持CPR1000项目文件）",
+    "platform":"All",
+    "developer":"褚瑞",
+    "lang":"python2.7",
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/G001.FTPDownload/FTPDownload%20V0.9.3.rar"
+  },
+  {
+    "No.":"G002",
+    "tool":"EXCEL通用对比工具",
+    "lastest_ver":"v1.0",
+    "function_description":"通用",
     "platform":"MELTAC",
     "developer":"袁志胜",
     "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F014.AT-PDF-Tool/AT-PDF-Tool%20V1.0.zip"
-  },
-  {
-    "tool":"BDSD对比工具.zip",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000软件设计工具",
-    "platform":"MELTAC",
-    "developer":"袁志胜",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F024.BDSD%B6%D4%B1%C8%B9%A4%BE%DF.zip"
-  },
-  {
-    "tool":"CIN辅助工具V1.02.zip",
-    "lastest_ver":"v1.0",
-    "function_description":"CIN附件生成工具",
-    "platform":"MELTAC",
-    "developer":"赵远洋",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F025.CIN%B8%A8%D6%FA%B9%A4%BE%DF%20V1.02.zip"
-  },
-  {
-    "tool":"CPR1000_AT_excel转PDF工具.rar",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000 AT设计工具",
-    "platform":"MELTAC",
-    "developer":"张红梅",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F026.CPR1000_AT_excel%D7%AAPDF%B9%A4%BE%DF.rar"
-  },
-  {
-    "tool":"CPR1000_AT_Mark_Up_BDSD_文件重命名工具.rar",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000 AT设计工具",
-    "platform":"MELTAC",
-    "developer":"张红梅",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F027.CPR1000_AT_Mark_Up_BDSD_%CE%C4%BC%FE%D6%D8%C3%FC%C3%FB%B9%A4%BE%DF.rar"
-  },
-  {
-    "tool":"CPR1000_AT_PIF_Test_Table.rar",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000 AT设计工具",
-    "platform":"MELTAC",
-    "developer":"张红梅",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F028.CPR1000_AT_PIF_Test_Table.rar"
-  },
-  {
-    "tool":"EXCEL通用对比工具.zip",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000软件设计工具",
-    "platform":"MELTAC",
-    "developer":"袁志胜",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F029.EXCEL%CD%A8%D3%C3%B6%D4%B1%C8%B9%A4%BE%DF.zip"
-  },
-  {
-    "tool":"ParameterList对比工具.zip",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000软件设计工具",
-    "platform":"MELTAC",
-    "developer":"袁志胜",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F030.Parameter%20List%B6%D4%B1%C8%B9%A4%BE%DF.zip"
-  },
-  {
-    "tool":"软件组工具.zip",
-    "lastest_ver":"v1.0",
-    "function_description":"CPR1000软件设计工具",
-    "platform":"MELTAC",
-    "developer":"袁志胜",
-    "lang":"n.a",
-    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/F031.%C8%ED%BC%FE%D7%E9%B9%A4%BE%DF.zip"
+    "url":"ftp://172.21.200.32/05.%B6%FE%BC%B6%D7%E9%CE%C4%BC%FE/04.%B9%A4%B3%CC%B2%BF%CE%E5%D7%E9/021%20%C9%E8%BC%C6%B9%A4%BE%DF/G002.Excel%CD%A8%D3%C3%B6%D4%B1%C8%B9%A4%BE%DF/EXCEL%CD%A8%D3%C3%B6%D4%B1%C8%B9%A4%BE%DF.zip"
   }
 ]

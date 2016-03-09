@@ -27,8 +27,6 @@ angular.module('g5App.docApp', ['ngRoute'])
         {"refer_to":"Software"},
         {"refer_to":"Arrangement"},
         {"refer_to":"Assembly"},
-        {"refer_to":"AT Software"},
-        {"refer_to":"AT Test Table"},
         {"refer_to":"Cable"},
         {"refer_to":"Card Setting"},
         {"refer_to":"Equipment List"},
@@ -40,13 +38,9 @@ angular.module('g5App.docApp', ['ngRoute'])
       ],
       doc_category: [
         {"doc_category":"-- 全部 --"},
-        {"doc_category":"设计流程"},
         {"doc_category":"设计规范"},
-        {"doc_category":"作业指导"},
-        {"doc_category":"检查规范"},
-        {"doc_category":"技术规格"},
-        {"doc_category":"模板"},
-        {"doc_category":"管理规范"}
+        {"doc_category":"操作指导"},
+        {"doc_category":"模板表格"}
       ]
     };
 
@@ -62,8 +56,6 @@ angular.module('g5App.docApp', ['ngRoute'])
       "Software": {"refer_to":"Software"},
       "Arrangement": {"refer_to":"Arrangement"},
       "Assembly": {"refer_to":"Assembly"},
-      "AT Software": {"refer_to":"AT Software"},
-      "AT Test Table": {"refer_to":"AT Test Table"},
       "Cable": {"refer_to":"Cable"},
       "Card Setting": {"refer_to":"Card Setting"},
       "Equipment List": {"refer_to":"Equipment List"},
@@ -73,12 +65,8 @@ angular.module('g5App.docApp', ['ngRoute'])
       "Internal Cable": {"refer_to":"Internal Cable"},
       "Terminal Block": {"refer_to":"Terminal Block"},
       // filter: document category
-      "设计流程":{"doc_category":"设计流程"},
       "设计规范":{"doc_category":"设计规范"},
-      "作业指导":{"doc_category":"作业指导"},
-      "检查规范":{"doc_category":"检查规范"},
-      "技术规格":{"doc_category":"技术规格"},
-      "模板":{"doc_category":"模板"},
-      "管理规范":{"doc_category":"管理规范"}
+      "操作指导":{"doc_category":"操作指导"},
+      "模板表格":{"doc_category":"模板表格"}
     };
 }])

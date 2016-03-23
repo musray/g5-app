@@ -1024,5 +1024,6 @@
 {"designation": "深圳中广核设计公司", "code": "CNPDC", "origin": "通用"},
 {"designation": "北京广利核系统工程有限公司", "code": "CTEC", "origin": "通用"},
 {"designation": "中广核工程有限公司设备采购与成套中心设备仪控处", "code": "EIC", "origin": "通用"},
-{"designation": "由工程公司设备采购处牵头成立的现场联合办公室，成员包括工程公司设备采购处人员（仪控），设计院人员（仪控），DCS厂家", "code": "DSO", "origin": "通用"}
+{"designation": "由工程公司设备采购处牵头成立的现场联合办公室，成员包括工程公司设备采购处人员（仪控），设计院人员（仪控），DCS厂家", "code": "DSO", "origin": "通用"},
+{"designation": "DNMC and CNPEC Link。质保期生产工程联系单。", "code": "DCL", "origin": "CPR1000"}
 ]

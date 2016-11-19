@@ -12,12 +12,12 @@ angular.module('g5App.docApp', ['ngRoute'])
     $http.get('./view-doc-q/doc-list.json').success(function(data) { self.items = data; });
 
     self.selectOptions = {
-      platformOpt: {"default":"-- 全部 --"},
+      platformOpt: {"platform":"-- 全部 --"},
       platform: [
         {"platform":"-- 全部 --"},
-        {"platform":"FIRMSYS"},
+        {"platform":"FirmSys"},
         {"platform":"MELTAC"},
-        {"platform":"SPEEDYHOLD"}
+        {"platform":"SpeedyHold"}
       ],
       refer_to: [
         {"refer_to":"-- 全部 --"},
@@ -38,17 +38,22 @@ angular.module('g5App.docApp', ['ngRoute'])
       ],
       doc_category: [
         {"doc_category":"-- 全部 --"},
+        {"doc_category":"管理规定"},
+        {"doc_category":"流程"},
         {"doc_category":"设计规范"},
-        {"doc_category":"操作指导"},
-        {"doc_category":"模板表格"}
+        {"doc_category":"作业指导及模板"},
+        {"doc_category":"方案"}
       ]
     };
 
     self.hardCodeFilter = {
       // filter: platform
-      "SPEEDYHOLD":{"platform": "SPEEDYHOLD"},
+      // {'key': 'value'}, set this object in the ngFilter, will sort the
+      // repeated table by column which is named as 'key'.
+      "SpeedyHold":{"platform": "SpeedyHold"},
       "MELTAC": {"platform":"MELTAC"},
-      "FIRMSYS": {"platform":"FIRMSYS"},
+      "FirmSys": {"platform":"FirmSys"},
+      "通用": {"platform":"通用"},
       // filter: refered document
       "BDSD": {"refer_to":"BDSD"},
       "IO List": {"refer_to":"IO List"},

@@ -23,12 +23,14 @@
         </div>
 
         <!-- 筛选2 选择适用文件 -->
+        <!-- Commented out temporary; later will be added back.
         <div class="form-group">
           <label>选择适用文件</label>
           <select class="form-control input-sm margin-bottom" ng-model="docq.selectedRefDoc"
             ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
           </select>
         </div>
+        -->
 
 
         <!-- 筛选3 选择文件类型 -->
@@ -42,8 +44,12 @@
 
         <!-- 筛选 模糊关键字 -->
         <div class="form-group">
-          <label for="searchbox">关键字查询</label>
-          <input class="form-control input-sm" type="text" id="searchbox" ng-model="query">
+          <label for="searchbox">模糊关键字 1</label>
+          <input class="form-control input-sm" type="text" id="searchbox" ng-model="fuzzyQuery">
+        </div>
+        <div class="form-group">
+          <label for="searchbox">模糊关键字 2</label>
+          <input class="form-control input-sm" type="text" id="searchbox" ng-model="fuzzyQuery">
         </div>
 
         <h2 class="h2">常用关键字</h2>
@@ -81,7 +87,7 @@
             filter: docq.hardCodeFilter[docq.selectedPlatform] |
             filter: docq.hardCodeFilter[docq.selectedRefDoc] |
             filter: docq.hardCodeFilter[docq.selectedDocCat] |
-            filter: query)">
+            filter: fuzzyQuery)">
 
             <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
             <td><span ng-class="item.status">{{item.doc_name}}</span></td>

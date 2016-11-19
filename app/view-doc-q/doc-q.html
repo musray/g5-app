@@ -22,17 +22,6 @@
           </select>
         </div>
 
-        <!-- 筛选2 选择适用文件 -->
-        <!-- Commented out temporary; later will be added back.
-        <div class="form-group">
-          <label>选择适用文件</label>
-          <select class="form-control input-sm margin-bottom" ng-model="docq.selectedRefDoc"
-            ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
-          </select>
-        </div>
-        -->
-
-
         <!-- 筛选3 选择文件类型 -->
         <div class="form-group">
           <label>选择文件类型</label>
@@ -41,20 +30,29 @@
           </select>
         </div>
 
+        <!-- 筛选2 选择适用文件 -->
+        <div class="form-group">
+          <label>选择适用文件</label>
+          <select class="form-control input-sm margin-bottom" ng-model="docq.selectedRefDoc"
+            ng-options="c.refer_to as c.refer_to for c in docq.selectOptions['refer_to']">
+          </select>
+        </div>
+
+
+
 
         <!-- 筛选 模糊关键字 -->
         <div class="form-group">
-          <label for="searchbox">模糊关键字 1</label>
-          <input class="form-control input-sm" type="text" id="searchbox" ng-model="fuzzyQuery">
-        </div>
-        <div class="form-group">
-          <label for="searchbox">模糊关键字 2</label>
-          <input class="form-control input-sm" type="text" id="searchbox" ng-model="fuzzyQuery">
+          <label for="searchbox1">模糊关键字 1</label>
+          <input class="form-control input-sm margin-bottom" type="text" id="searchbox1" ng-model="fuzzyQuery1">
+          <label for="searchbox2">模糊关键字 2</label>
+          <input class="form-control input-sm margin-bottom" type="text" id="searchbox2" ng-model="fuzzyQuery2">
         </div>
 
-        <h2 class="h2">常用关键字</h2>
 
-        <div class="side-keyword">
+        <!-- <h2 class="h2">常用关键字</h2> -->
+
+        <!-- <div class="side-keyword">
           <ul class="styled-list">
             <li>CIN</li>
             <li>证据涂抹</li>
@@ -62,7 +60,7 @@
             <li>Change List</li>
             <li>Design FLow</li>
           </ul>
-        </div>
+        </div> -->
       </div>   <!-- narrow column -->
 
 
@@ -87,7 +85,8 @@
             filter: docq.hardCodeFilter[docq.selectedPlatform] |
             filter: docq.hardCodeFilter[docq.selectedRefDoc] |
             filter: docq.hardCodeFilter[docq.selectedDocCat] |
-            filter: fuzzyQuery)">
+            filter: fuzzyQuery1 |
+            filter: fuzzyQuery2)">
 
             <td><a href="{{item.url}}" target="_blank" class="download_tag">下载</a></td>
             <td><span ng-class="item.status">{{item.doc_name}}</span></td>
